@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 parser.py — Read BibTeX into a pandas DataFrame (bibtexparser required).
 
@@ -19,7 +17,7 @@ df.to_csv('references.csv', index=False)
 
 import logging
 import os
-from typing import Any, Dict, List, Optional, Union
+from typing import Any, Dict, List, Union
 import pandas as pd
 
 import bibtexparser

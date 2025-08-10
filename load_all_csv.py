@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 load_all_csvs.py — Concatenate all CSVs in a directory and sort by 'title'.
 

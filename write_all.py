@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 write_all.py — Convert a structured CSV of BibTeX entries into a single .bib file.
 

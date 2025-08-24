@@ -86,7 +86,7 @@ def main():
 
     time_stamp = datetime.now().strftime("-%Y-%m-%d_%H%M")
 
-    in_file = 'bib_files' + os.sep + 'lib.csv'
+    in_file = 'bib_files' + os.sep + 'combined.csv'
     out_file = 'bib_files' + os.sep + 'lib' + time_stamp + '.bib'
 
     in_path = Path(in_file).expanduser().resolve()

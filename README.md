@@ -22,6 +22,7 @@
 * Current master `.bib`: [bib_files/lib-2025-12-29_1226.bib](bib_files/lib-2025-12-29_1226.bib)
 
 * **WORK WITH WHILE WRITING FOR EFFICIENT SEARCH/SORT** - Current master CSV as Google Sheet: [https://docs.google.com/spreadsheets/d/16EjvC356ua2OwyJalmgAaC2TEAkkKDVkbhzpLXxxNG0/edit](https://docs.google.com/spreadsheets/d/16EjvC356ua2OwyJalmgAaC2TEAkkKDVkbhzpLXxxNG0/edit)
+  * Try to use `bib_files/to_add_update.bib` while writing - this will make the update process much smoother. 
 
 
 

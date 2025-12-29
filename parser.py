@@ -31,7 +31,7 @@ logger.setLevel(logging.INFO)                                           # log le
 sh = logging.StreamHandler()                                            # create console handler
 sh.setLevel(logging.INFO)                                               # set level to debug
 formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s',
-                              "%Y/%m/%d %H:%M:%S")              # create formatter
+                              "%Y/%m/%d %H:%M:%S")                      # create formatter
 sh.setFormatter(formatter)                                              # add formatter
 logger.addHandler(sh)                                                   # add handler to logger
 

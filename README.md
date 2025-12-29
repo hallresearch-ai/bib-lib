@@ -4,7 +4,7 @@
 
 * Build venv using Python 3. 
 
-* Open Pycharm project and run files from main. 
+* Open IDE and run files from main. 
 
 * Run `parser.py` to generate `.csv`s from existing `.bib`s.
 
@@ -13,15 +13,15 @@
   * Manually edit `combined.csv` as needed.
 
 * Run `write_all.py` on `combined.csv` to create a new master `lib.bib-YYYY-MM-DD-HHMM.bib`.
-  * Delete existing `lib.bib-YYYY-MM-DD-HHMM.bib`.
+  * Move existing `lib.bib-YYYY-MM-DD-HHMM.bib` to `bib_files/old`.
 
 * Update `README.md`.
 
 ## Notes
 
-* Current master `.bib`: [bib_files/lib-2025-08-24_1113.bib](bib_files/lib-2025-08-24_1113.bib)
+* Current master `.bib`: [bib_files/lib-2025-12-29_1226.bib](bib_files/lib-2025-12-29_1226.bib)
 
-* Current master CSV as Google Sheet: [https://docs.google.com/spreadsheets/d/1vKpf7s-Swz4bGy4786QdOwmtu64CZ81LrOmjx1eLwco/edit](https://docs.google.com/spreadsheets/d/1vKpf7s-Swz4bGy4786QdOwmtu64CZ81LrOmjx1eLwco/edit)
+* **WORK WITH WHILE WRITING FOR EFFICIENT SEARCH/SORT** - Current master CSV as Google Sheet: [https://docs.google.com/spreadsheets/d/16EjvC356ua2OwyJalmgAaC2TEAkkKDVkbhzpLXxxNG0/edit](https://docs.google.com/spreadsheets/d/16EjvC356ua2OwyJalmgAaC2TEAkkKDVkbhzpLXxxNG0/edit)
 
 
 

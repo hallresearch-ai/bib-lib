@@ -31,6 +31,15 @@
 
 * Update `Current master` and `Google sheet` in `README.md`.
 
+* Commit to GitHub:
+```bash
+git add -A .
+git commit -m'update for M/DD'
+git push origin main
+```
+
+* Check links in GitHub.
+
 ## Notes
 
 * Current master `.bib`: [bib_files/lib-2026-02-14_1400.bib](bib_files/lib-2026-02-14_1400.bib)

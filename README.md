@@ -18,9 +18,9 @@
 
 * Examine/update combined.csv as Google sheet.
   * Reference `bib_files/to_add_update.csv`.
-  * Sort by `title`. 
+  * Sort by `title` (or `normalized_title` `=SUBSTITUTE(SUBSTITUTE(LOWER(AX2), "{",""), "}", "")`). 
   * Delete and recreate `citation_key`. Formula to create keys: `=CONCAT(LEFT(REGEXREPLACE(AX2, "[^A-Za-z0-9]", ""), 20), TEXT(ROW(AX2)-1, "000"))`
-  * Re-sort by `citation_key` for better alphabetization. 
+  * Re-sort by `normalized_title` for better alphabetization. 
   * Clear out `bib_files/to_add_update.csv`.
   * Delete `bib_files/combined.csv`
 
@@ -42,11 +42,7 @@ git push origin main
 
 ## Notes
 
-* Current master `.bib`: [bib_files/lib-2026-02-14_1400.bib](bib_files/lib-2026-02-14_1400.bib)
+* Current master `.bib`: [bib_files/lib-2026-07-17_1632.bib](bib_files/lib-2026-07-17_1632.bib)
 
-* **WORK WITH WHILE WRITING FOR EFFICIENT SEARCH/SORT** - Current master CSV as Google Sheet: [https://docs.google.com/spreadsheets/d/1RFt7pSHhcXaZN5aSzD22aZbqKeBR4z97TjYkTCKjfZY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1RFt7pSHhcXaZN5aSzD22aZbqKeBR4z97TjYkTCKjfZY/edit?usp=sharing)
+* **WORK WITH WHILE WRITING FOR EFFICIENT SEARCH/SORT** - Current master CSV as Google Sheet: [https://docs.google.com/spreadsheets/d/1D2wzFolo1nkxmbdTPNE84XIV4MrpkRGdofcLQhvnf-8/edit](https://docs.google.com/spreadsheets/d/1D2wzFolo1nkxmbdTPNE84XIV4MrpkRGdofcLQhvnf-8/edit)
   * Try to use `bib_files/to_add_update.bib` while writing - this will make the update process much smoother. 
-
-
-
-

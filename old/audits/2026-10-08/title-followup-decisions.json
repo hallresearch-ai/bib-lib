@@ -1,0 +1,1245 @@
+{
+  "AMaraudersMapofSecur012": {
+    "action": "confirmed",
+    "external_title": "A marauder's map of security and privacy in machine learning: an overview of current and future research directions for making machine learning secure and private",
+    "source_url": "https://arxiv.org/pdf/1811.01134",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "APowerPrimer014": {
+    "action": "confirmed",
+    "external_title": "A power primer.",
+    "source_url": "https://api.crossref.org/works/10.1037%2F0033-2909.112.1.155",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "AResponsibleMachineL015": {
+    "action": "confirmed",
+    "external_title": "A Responsible Machine Learning Workflow with Focus on Interpretable Models, Post-hoc Explanation, and Discrimination Testing",
+    "source_url": "https://api.crossref.org/works/10.3390%2Finfo11030137",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "ASurveyonHallucinati024": {
+    "action": "confirmed",
+    "external_title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+    "source_url": "https://api.crossref.org/works/10.1145%2F3703155",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "AUnifiedApproachtoIn027": {
+    "action": "confirmed",
+    "external_title": "A unified approach to interpreting model predictions",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "AValueforNPersonGame029": {
+    "action": "confirmed",
+    "external_title": "A value for\n                    n\n                    -person games",
+    "source_url": "https://api.crossref.org/works/10.1017%2Fcbo9780511528446.003",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; no year correction is inferred.",
+    "evidence_kind": "registry"
+  },
+  "AccurateIntelligible031": {
+    "action": "confirmed",
+    "external_title": "Accurate intelligible models with pairwise interactions",
+    "source_url": "https://api.crossref.org/works/10.1145%2F2487575.2487579",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "AddingStructuretoAIH034": {
+    "action": "confirmed",
+    "external_title": "Adding structure to {AI} harm: an introduction to {CSET}'s {AI} harm framework",
+    "source_url": "https://cset.georgetown.edu/wp-content/uploads/20230022-Adding-structure-to-AI-Harm-FINAL.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "AIandtheEverythingin041": {
+    "action": "confirmed",
+    "external_title": "{AI} and the everything in the whole wide world benchmark",
+    "source_url": "https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/084b6fbb10729ed4da8c3d3f5a3ae7c9-Paper-round2.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "AISustainabilityinPr048": {
+    "action": "confirmed",
+    "external_title": "AI Sustainability in Practice Part One: Foundations for Sustainable AI Projects",
+    "source_url": "https://api.crossref.org/works/10.2139%2Fssrn.4731832",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "AILIEDARExaminethetr050": {
+    "action": "confirmed",
+    "external_title": "{AI-LIEDAR}: examine the trade-off between utility and truthfulness in {LLM} agents",
+    "source_url": "https://aclanthology.org/2025.naacl-long.595.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "AlgorithmicBiasandRi051": {
+    "action": "confirmed",
+    "external_title": "Algorithmic bias and risk assessments: lessons from practice",
+    "source_url": "https://philpapers.org/archive/HASABA.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "AlgorithmicImpactAss052": {
+    "action": "corrected",
+    "external_title": "Algorithmic impact assessments: a practical framework for public agency accountability",
+    "source_url": "https://www.nist.gov/system/files/documents/2021/10/04/aiareport2018.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publication title area provides the corrected wording; author and publication identity match.",
+    "evidence_kind": "reviewed",
+    "new_title": "Algorithmic impact assessments: a practical framework for public agency accountability"
+  },
+  "AnEfficientExplanati055": {
+    "action": "confirmed",
+    "external_title": "An efficient explanation of individual classifications using game theory",
+    "source_url": "https://www.jmlr.org/papers/volume11/strumbelj10a/strumbelj10a.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "AnchorsHighPrecision065": {
+    "action": "confirmed",
+    "external_title": "Anchors: high-precision model-agnostic explanations",
+    "source_url": "https://homes.cs.washington.edu/~marcotcr/aaai18.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "AnthropicResponsible067": {
+    "action": "confirmed",
+    "external_title": "Anthropic: Responsible Scaling Policy",
+    "source_url": "https://api.crossref.org/works/10.70777%2Fsi.v2i1.13657",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "AreEmilyandGregmoree068": {
+    "action": "confirmed",
+    "external_title": "Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination",
+    "source_url": "https://api.crossref.org/works/10.1257%2F0002828042002561",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "AreWeLearningYetAMet070": {
+    "action": "confirmed",
+    "external_title": "Are we learning yet? a meta review of evaluation failures across machine learning",
+    "source_url": "https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/757b505cfd34c64c85ca5b5690ee5293-Paper-round2.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ArtificialHallucinat071": {
+    "action": "confirmed",
+    "external_title": "Artificial Hallucinations in ChatGPT: Implications in Scientific Writing",
+    "source_url": "https://api.crossref.org/works/10.7759%2Fcureus.35179",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "AssessingImageQualit080": {
+    "action": "confirmed",
+    "external_title": "Assessing image quality issues for real-world problems",
+    "source_url": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Chiu_Assessing_Image_Quality_Issues_for_Real-World_Problems_CVPR_2020_paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "AssessingRisksandImp081": {
+    "action": "confirmed",
+    "external_title": "Assessing risks and impacts of {AI} ({ARIA}): {ARIA} 0.1 pilot evaluation report",
+    "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.700-2.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ASTME301216StandardG083": {
+    "action": "confirmed",
+    "external_title": "Standard Guide for Characterizing Environmental Aspects of Manufacturing Processes",
+    "source_url": "https://api.crossref.org/works/10.1520%2FE3012-16",
+    "method": "Authoritative page title with harmless formatting differences",
+    "reason": "Same title after removing descriptive prefix or website suffix, punctuation and capitalization.",
+    "evidence_kind": "page"
+  },
+  "AttentionisAllyouNee086": {
+    "action": "confirmed",
+    "external_title": "Attention is all you need",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "BERTPreTrainingofDee093": {
+    "action": "confirmed",
+    "external_title": "{BERT}: pre-training of deep bidirectional transformers for language understanding",
+    "source_url": "https://aclanthology.org/N19-1423.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "BestPracticesforMach094": {
+    "action": "confirmed",
+    "external_title": "Best practices for machine learning applications",
+    "source_url": "https://support.sas.com/resources/papers/proceedings16/SAS2360-2016.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "BiasandFairnessinLar099": {
+    "action": "confirmed",
+    "external_title": "Bias and Fairness in Large Language Models: A Survey",
+    "source_url": "https://api.crossref.org/works/10.1162%2Fcoli_a_00524",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "ChallengesforTranspa114": {
+    "action": "confirmed",
+    "external_title": "Challenges for transparency",
+    "source_url": "https://arxiv.org/pdf/1708.01870v1",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "CocreationforpolicyP119": {
+    "action": "confirmed",
+    "external_title": "Co-creation for policy: participatory methodologies to structure multi-stakeholder policymaking processes",
+    "source_url": "https://www.eit.europa.eu/sites/default/files/jrc128771_01.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "DataPreprocessingTec144": {
+    "action": "confirmed",
+    "external_title": "Data preprocessing techniques for classification without discrimination",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s10115-011-0463-8.pdf?error=cookies_not_supported&code=9182b3e4-0d4c-4d95-8399-614b7b9a273d",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "DeepFeatureSynthesis156": {
+    "action": "confirmed",
+    "external_title": "Deep feature synthesis: towards automating data science endeavors",
+    "source_url": "https://groups.csail.mit.edu/EVO-DesignOpt/groupWebSite/uploads/Site/DSAA_DSM_2015.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "DeepNeuralNetworksar159": {
+    "action": "confirmed",
+    "external_title": "Deep neural networks are easily fooled: high confidence predictions for unrecognizable images",
+    "source_url": "https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "DeepReinforcementLea160": {
+    "action": "confirmed",
+    "external_title": "Deep reinforcement learning that matters",
+    "source_url": "https://ojs.aaai.org/index.php/AAAI/article/download/11694/11553",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "DissectingRacialBias174": {
+    "action": "confirmed",
+    "external_title": "Dissecting racial bias in an algorithm used to manage the health of populations",
+    "source_url": "https://api.crossref.org/works/10.1126%2Fscience.aax2342",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "DistributedOptimizat175": {
+    "action": "confirmed",
+    "external_title": "Distributed optimization and statistical learning via the alternating direction method of multipliers",
+    "source_url": "https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "DistributedRepresent176": {
+    "action": "confirmed",
+    "external_title": "Distributed representations of words and phrases and their compositionality",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "DistributionFreePred177": {
+    "action": "confirmed",
+    "external_title": "Distribution-free predictive inference for regression",
+    "source_url": "https://www.stat.cmu.edu/~ryantibs/papers/conformal.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ECBGuidetoInternalMo190": {
+    "action": "confirmed",
+    "external_title": "{ECB} guide to internal models",
+    "source_url": "https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.supervisory_guide202507.en.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "EqualityofOpportunit197": {
+    "action": "confirmed",
+    "external_title": "Equality of opportunity in supervised learning",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2016/file/6a9659feb1216f14f7384ba499518b38-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "EthicsOwnersANewMode199": {
+    "action": "confirmed",
+    "external_title": "Ethics owners: a new model of organizational responsibility in data-driven technology companies",
+    "source_url": "https://datasociety.net/wp-content/uploads/2020/09/Ethics-Owners_20200923-DataSociety.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "EvaluationofMeasurem206": {
+    "action": "confirmed",
+    "external_title": "Evaluation of measurement data -- guide to the expression of uncertainty in measurement",
+    "source_url": "https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf/cb0ef43f-baa5-11cf-3f85-4dcd86f77bd6",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ExaminingProposedUse209": {
+    "action": "confirmed",
+    "external_title": "Examining proposed uses of {LLMs} to produce or assess assurance arguments",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20250001849/downloads/NASA-TM-20250001849.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ExplainingExplanatio214": {
+    "action": "confirmed",
+    "external_title": "Explaining explanations: an approach to evaluating interpretability of machine learning",
+    "source_url": "https://arxiv.org/pdf/1806.00069v1",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ExploringtheLimitsof218": {
+    "action": "confirmed",
+    "external_title": "Exploring the limits of transfer learning with a unified text-to-text transformer",
+    "source_url": "https://www.jmlr.org/papers/volume21/20-074/20-074.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "FairAttributionofFun227": {
+    "action": "confirmed",
+    "external_title": "Fair Attribution of Functional Contribution in Artificial and Biological Networks",
+    "source_url": "https://api.crossref.org/works/10.1162%2F0899766041336387",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "FeatureRelevanceQuan240": {
+    "action": "confirmed",
+    "external_title": "Feature relevance quantification in explainable {AI}: a causal problem",
+    "source_url": "https://proceedings.mlr.press/v108/janzing20a/janzing20a.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "FrontierModelForumWh255": {
+    "action": "confirmed",
+    "external_title": "Frontier model forum: what is red teaming?",
+    "source_url": "https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "GAMINetAnExplainable256": {
+    "action": "confirmed",
+    "external_title": "GAMI-Net: An explainable neural network based on generalized additive models with structured interactions",
+    "source_url": "https://api.crossref.org/works/10.1016%2Fj.patcog.2021.108192",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "GenderShadesIntersec258": {
+    "action": "confirmed",
+    "external_title": "Gender shades: intersectional accuracy disparities in commercial gender classification",
+    "source_url": "https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "GeneralizedLowRankMo261": {
+    "action": "confirmed",
+    "external_title": "Generalized Low Rank Models",
+    "source_url": "https://api.crossref.org/works/10.1561%2F9781680831412",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "GloveGlobalvectorsfo271": {
+    "action": "confirmed",
+    "external_title": "Glove: global vectors for word representation",
+    "source_url": "https://aclanthology.org/D14-1162.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "GLUEAMultitaskBenchm272": {
+    "action": "confirmed",
+    "external_title": "{GLUE}: a multi-task benchmark and analysis platform for natural language understanding",
+    "source_url": "https://aclanthology.org/W18-5446.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "GradientBasedLearnin278": {
+    "action": "confirmed",
+    "external_title": "Gradient-based learning applied to document recognition",
+    "source_url": "https://api.crossref.org/works/10.1109%2F5.726791",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "GreedyFunctionApprox279": {
+    "action": "confirmed",
+    "external_title": "Greedy function approximation: A gradient boosting machine.",
+    "source_url": "https://api.crossref.org/works/10.1214%2Faos%2F1013203451",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "GuidelinesfortheResp281": {
+    "action": "confirmed",
+    "external_title": "Guidelines for the responsible use of explainable machine learning",
+    "source_url": "https://arxiv.org/pdf/1906.03533",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "HallucinationsLeader294": {
+    "action": "confirmed",
+    "external_title": "Hallucinations Leaderboard - a Hugging Face Space by hallucinations-leaderboard",
+    "source_url": "https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard",
+    "method": "Authoritative page title with harmless formatting differences",
+    "reason": "Same title after removing descriptive prefix or website suffix, punctuation and capitalization.",
+    "evidence_kind": "page"
+  },
+  "HierarchicalAggregat298": {
+    "action": "confirmed",
+    "external_title": "Hierarchical aggregation for information visualization: overview, techniques, and design guidelines",
+    "source_url": "https://inria.hal.science/hal-00696751/PDF/hieragg.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "HierarchicalGraphRep299": {
+    "action": "confirmed",
+    "external_title": "Hierarchical graph representation learning with differentiable pooling",
+    "source_url": "https://cs.stanford.edu/people/jure/pubs/diffpool-neurips18.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "HOGWILDALockfreeAppr300": {
+    "action": "confirmed",
+    "external_title": "{HOGWILD}: a lock-free approach to parallelizing stochastic gradient descent",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2011/file/218a0aefd1d1a4be65601cc6ddc1520e-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "HowCanWeFoolLIMEandS304": {
+    "action": "confirmed",
+    "external_title": "How can we fool {LIME} and {SHAP}? adversarial attacks on post-hoc explanation methods",
+    "source_url": "https://arxiv.org/pdf/1911.02508v1",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "HumanCalibratedAutom310": {
+    "action": "confirmed",
+    "external_title": "Human-calibrated automated testing and validation of generative language models: an overview",
+    "source_url": "https://arxiv.org/pdf/2411.16391",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "HumanCentredMachineL311": {
+    "action": "confirmed",
+    "external_title": "Human-Centred Machine Learning",
+    "source_url": "https://api.crossref.org/works/10.1145%2F2851581.2856492",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "ImageNetClassificati317": {
+    "action": "confirmed",
+    "external_title": "{ImageNet} classification with deep convolutional neural networks",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ImprovingReproducibi322": {
+    "action": "confirmed",
+    "external_title": "Improving reproducibility in machine learning research (a report from the {NeurIPS} 2019 reproducibility program)",
+    "source_url": "https://www.jmlr.org/papers/volume22/20-303/20-303.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ISO353412006Statisti340": {
+    "action": "confirmed",
+    "external_title": "ISO 3534-1:2006 - Statistics — Vocabulary and symbols — Part 1: General statistical terms and terms used in probability",
+    "source_url": "https://www.iso.org/standard/40145.html",
+    "method": "Authoritative page title with harmless formatting differences",
+    "reason": "Same title after removing descriptive prefix or website suffix, punctuation and capitalization.",
+    "evidence_kind": "page"
+  },
+  "JailbrokenHowdoesLLM347": {
+    "action": "confirmed",
+    "external_title": "Jailbroken: how does {LLM} safety training fail?",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/fd6613131889a4b656206c50a8bd7790-Paper-Conference.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "KDDCup2004Resultsand350": {
+    "action": "confirmed",
+    "external_title": "{KDD} cup 2004: results and analysis",
+    "source_url": "https://www.cs.cornell.edu/people/tj/publications/caruana_etal_04a.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "LabelSegmentFeaturiz351": {
+    "action": "confirmed",
+    "external_title": "Label, Segment, Featurize: A Cross Domain Framework for Prediction Engineering",
+    "source_url": "https://api.crossref.org/works/10.1109%2Fdsaa.2016.54",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "Labeledfacesinthewil352": {
+    "action": "confirmed",
+    "external_title": "Labeled faces in the wild: a database for studying face recognition in unconstrained environments",
+    "source_url": "https://tamaraberg.com/papers/Huang_eccv2008-lfw.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "LanguageModelsareFew353": {
+    "action": "confirmed",
+    "external_title": "Language models are few-shot learners",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "LanguageModelsareUns354": {
+    "action": "confirmed",
+    "external_title": "Language models are unsupervised multitask learners",
+    "source_url": "https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "LearningCertifiablyO358": {
+    "action": "confirmed",
+    "external_title": "Learning certifiably optimal rule lists for categorical data",
+    "source_url": "https://www.jmlr.org/papers/volume18/17-716/17-716.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "LearningDeepArchitec359": {
+    "action": "confirmed",
+    "external_title": "Learning Deep Architectures for AI",
+    "source_url": "https://api.crossref.org/works/10.1561%2F9781601982957",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "LearningFairRepresen360": {
+    "action": "confirmed",
+    "external_title": "Learning fair representations",
+    "source_url": "https://proceedings.mlr.press/v28/zemel13.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "MachineLearningExpla375": {
+    "action": "confirmed",
+    "external_title": "Machine learning explainability in finance: an application to default risk analysis",
+    "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "MachineLearningInter377": {
+    "action": "confirmed",
+    "external_title": "Machine learning interpretability with {H2O} driverless {AI}",
+    "source_url": "https://docs.h2o.ai/driverless-ai/latest-stable/docs/booklets/MLIBooklet.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ManagementInformatio381": {
+    "action": "confirmed",
+    "external_title": "Management Information Systems: Managing the Digital Firm - Kenneth C. Laudon, Jane Price Laudon - Google Books",
+    "source_url": "https://books.google.com/books/about/Management_Information_Systems.html?id=79SLQgAACAAJ",
+    "method": "Authoritative page title with harmless formatting differences",
+    "reason": "Same title after removing descriptive prefix or website suffix, punctuation and capitalization.",
+    "evidence_kind": "page"
+  },
+  "MicrosoftResponsible393": {
+    "action": "confirmed",
+    "external_title": "{Microsoft} responsible {AI} impact assessment guide",
+    "source_url": "https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "MicrosoftResponsible394": {
+    "action": "confirmed",
+    "external_title": "{Microsoft} responsible {AI} impact assessment template",
+    "source_url": "https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ModelRiskManagementG398": {
+    "action": "confirmed",
+    "external_title": "Model risk management guidance",
+    "source_url": "https://www.fhfa.gov/advisory-bulletin/ab-2013-07",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ModeltrackerRedesign399": {
+    "action": "confirmed",
+    "external_title": "Modeltracker: redesigning performance analysis tools for machine learning",
+    "source_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/amershi.CHI2015.ModelTracker.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "MonotonicCalibratedI400": {
+    "action": "confirmed",
+    "external_title": "Monotonic calibrated interpolated lookup tables",
+    "source_url": "https://www.jmlr.org/papers/volume17/15-243/15-243.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "MultivariateAdaptive404": {
+    "action": "confirmed",
+    "external_title": "Multivariate Adaptive Regression Splines",
+    "source_url": "https://api.crossref.org/works/10.1214%2Faos%2F1176347963",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "NeuralAdditiveModels407": {
+    "action": "confirmed",
+    "external_title": "Neural additive models: interpretable machine learning with neural nets",
+    "source_url": "https://proceedings.neurips.cc/paper/2021/file/251bd0442dfcc53b5a761e050f8022b8-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "OptimizedPreprocessi424": {
+    "action": "confirmed",
+    "external_title": "Optimized pre-processing for discrimination prevention",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/9a49a25d845a483fae4be7e341368e36-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ParticipatoryAIforhu429": {
+    "action": "confirmed",
+    "external_title": "Participatory {AI} for humanitarian innovation: a briefing paper",
+    "source_url": "https://media.nesta.org.uk/documents/Nesta_Participatory_AI_for_humanitarian_innovation_Final.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "PleaseStopExplaining438": {
+    "action": "confirmed",
+    "external_title": "Please stop explaining black box models for high stakes decisions",
+    "source_url": "https://arxiv.org/pdf/1811.10154v1",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "PredictingGoodProbab445": {
+    "action": "confirmed",
+    "external_title": "Predicting good probabilities with supervised learning",
+    "source_url": "https://api.crossref.org/works/10.1145%2F1102351.1102430",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "PredictiveLearningVi446": {
+    "action": "confirmed",
+    "external_title": "Predictive learning via rule ensembles",
+    "source_url": "https://api.crossref.org/works/10.1214%2F07-aoas148",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "PrivacyRisksofExplai452": {
+    "action": "confirmed",
+    "external_title": "Privacy risks of explaining machine learning models",
+    "source_url": "https://arxiv.org/pdf/1907.00164v1",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "PrivacyPreservingDat453": {
+    "action": "confirmed",
+    "external_title": "Privacy-preserving data mining",
+    "source_url": "https://api.crossref.org/works/10.1145%2F342009.335438",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "ProbabilisticProgram454": {
+    "action": "confirmed",
+    "external_title": "Probabilistic programming in Python using PyMC3",
+    "source_url": "https://api.crossref.org/works/10.7717%2Fpeerj-cs.55",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "ProximalAlgorithms465": {
+    "action": "confirmed",
+    "external_title": "Proximal algorithms",
+    "source_url": "https://web.stanford.edu/~boyd/papers/pdf/prox_algs.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "PsychologicalFoundat466": {
+    "action": "confirmed",
+    "external_title": "Psychological foundations of explainability and interpretability in artificial intelligence",
+    "source_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=931426",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "PyRITAFrameworkforSe467": {
+    "action": "confirmed",
+    "external_title": "{PyRIT}: a framework for security risk identification and red teaming in generative {AI} systems",
+    "source_url": "https://arxiv.org/pdf/2410.02828",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "QuantifyingInterpret469": {
+    "action": "confirmed",
+    "external_title": "Quantifying interpretability of arbitrary machine learning models through functional decomposition",
+    "source_url": "https://arxiv.org/pdf/1904.03867v1",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "RandomSearchforHyper476": {
+    "action": "confirmed",
+    "external_title": "Random search for hyper-parameter optimization",
+    "source_url": "https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "RealtoxicitypromptsE481": {
+    "action": "confirmed",
+    "external_title": "Realtoxicityprompts: evaluating neural toxic degeneration in language models",
+    "source_url": "https://aclanthology.org/2020.findings-emnlp.301.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ReducingtheDimension487": {
+    "action": "confirmed",
+    "external_title": "Reducing the Dimensionality of Data with Neural Networks",
+    "source_url": "https://api.crossref.org/works/10.1126%2Fscience.1127647",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "RegressionShrinkagea488": {
+    "action": "confirmed",
+    "external_title": "Regression Shrinkage and Selection Via the Lasso",
+    "source_url": "https://api.crossref.org/works/10.1111%2Fj.2517-6161.1996.tb02080.x",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "RegularizationPathsf490": {
+    "action": "confirmed",
+    "external_title": "Regularization Paths for Generalized Linear Models via Coordinate Descent",
+    "source_url": "https://api.crossref.org/works/10.18637%2Fjss.v033.i01",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; no year correction is inferred.",
+    "evidence_kind": "registry"
+  },
+  "Reliabilityofcontent492": {
+    "action": "confirmed",
+    "external_title": "Reliability of Content Analysis: The Case of Nominal Scale Coding",
+    "source_url": "https://api.crossref.org/works/10.1086%2F266577",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "RetrievalaugmentedGe497": {
+    "action": "confirmed",
+    "external_title": "Retrieval-augmented generation for knowledge-intensive {NLP} tasks",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "SparsePrincipalCompo520": {
+    "action": "confirmed",
+    "external_title": "Sparse principal component analysis",
+    "source_url": "https://sites.cc.gatech.edu/home/isbell/classes/reading/papers/sparsepc.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "SQuAD100000Questions522": {
+    "action": "confirmed",
+    "external_title": "{SQuAD}: 100,000+ questions for machine comprehension of text",
+    "source_url": "https://aclanthology.org/D16-1264.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "StatisticalModelingT523": {
+    "action": "confirmed",
+    "external_title": "Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)",
+    "source_url": "https://api.crossref.org/works/10.1214%2Fss%2F1009213726",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "StatisticalPowerAnal524": {
+    "action": "confirmed",
+    "external_title": "Statistical Power Analysis for the Behavioral Sciences",
+    "source_url": "https://api.crossref.org/works/10.4324%2F9780203771587",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; no year correction is inferred.",
+    "evidence_kind": "registry"
+  },
+  "StealingMachineLearn526": {
+    "action": "confirmed",
+    "external_title": "Stealing machine learning models via prediction {API}s",
+    "source_url": "https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "StrongRulesforDiscar531": {
+    "action": "confirmed",
+    "external_title": "Strong Rules for Discarding Predictors in Lasso-Type Problems",
+    "source_url": "https://api.crossref.org/works/10.1111%2Fj.1467-9868.2011.01004.x",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "SuperGLUEAStickierBe535": {
+    "action": "confirmed",
+    "external_title": "{SuperGLUE}: a stickier benchmark for general-purpose language understanding systems",
+    "source_url": "https://papers.neurips.cc/paper/2019/file/4496bf24afe7fab6f046bf4923da8de6-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "SurelyYoureJokingMrF538": {
+    "action": "confirmed",
+    "external_title": "‘‘Surely You’re Joking Mr. Feynman!’’ Adventures of a Curious Character",
+    "source_url": "https://api.crossref.org/works/10.1119%2F1.14087",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "SurfaceReservoirChar539": {
+    "action": "confirmed",
+    "external_title": "Surface reservoir characteristics from subsurface seismic images with deep learning methodologies",
+    "source_url": "https://api.crossref.org/works/10.1190%2Fice2016-6319324.1",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "SurveyarticleInterco540": {
+    "action": "confirmed",
+    "external_title": "Inter-Coder Agreement for Computational Linguistics",
+    "source_url": "https://api.crossref.org/works/10.1162%2Fcoli.07-034-R2",
+    "method": "Authoritative page title with harmless formatting differences",
+    "reason": "Same title after removing descriptive prefix or website suffix, punctuation and capitalization.",
+    "evidence_kind": "page"
+  },
+  "The1980ACMTuringAwar554": {
+    "action": "confirmed",
+    "external_title": "The 1980 ACM Turing Award Lecture",
+    "source_url": "https://api.crossref.org/works/10.1145%2F3477355.3477357",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; no year correction is inferred.",
+    "evidence_kind": "registry"
+  },
+  "TheAssessingRisksand557": {
+    "action": "confirmed",
+    "external_title": "The assessing risks and impacts of {AI} ({ARIA}) program evaluation design document",
+    "source_url": "https://ai-challenges.nist.gov/uassets/ARIA_Program_Companion_Document_Dec20.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "TheDatasetNutritionL564": {
+    "action": "corrected",
+    "external_title": "The dataset nutrition label: a framework to drive higher data quality standards",
+    "source_url": "https://arxiv.org/pdf/1805.03677",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publication title area provides the corrected wording; author and publication identity match.",
+    "evidence_kind": "reviewed",
+    "new_title": "The dataset nutrition label: a framework to drive higher data quality standards"
+  },
+  "TheElementsofStatist565": {
+    "action": "confirmed",
+    "external_title": "The Elements of Statistical Learning",
+    "source_url": "https://api.crossref.org/works/10.1007%2F978-0-387-21606-5",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "TheLanguageofTrustwo575": {
+    "action": "confirmed",
+    "external_title": "The language of trustworthy {AI}: an in-depth glossary of terms",
+    "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-3.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "TheSecurityofMachine588": {
+    "action": "confirmed",
+    "external_title": "The security of machine learning",
+    "source_url": "https://people.eecs.berkeley.edu/~adj/publications/paper-files/SecML-MLJ2010.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "TowardsaCommonReport600": {
+    "action": "confirmed",
+    "external_title": "Towards a common reporting framework for {AI} incidents",
+    "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/towards-a-common-reporting-framework-for-ai-incidents_8c488fdb/f326d4ac-en.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "TruthfulQAMeasuringH612": {
+    "action": "confirmed",
+    "external_title": "{TruthfulQA}: measuring how models mimic human falsehoods",
+    "source_url": "https://aclanthology.org/2022.acl-long.229.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "UsingH2ODriverlessAI620": {
+    "action": "confirmed",
+    "external_title": "Using {H2O} driverless {AI}",
+    "source_url": "https://docs.h2o.ai/driverless-ai/latest-lts/docs/booklets/DriverlessAIBooklet.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "VADERAParsimoniousRu622": {
+    "action": "confirmed",
+    "external_title": "VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text",
+    "source_url": "https://api.crossref.org/works/10.1609%2Ficwsm.v8i1.14550",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "ValueSensitiveDesign624": {
+    "action": "confirmed",
+    "external_title": "Value sensitive design: theory and methods",
+    "source_url": "https://research.cs.vt.edu/ns/cs5724papers/6.theoriesofuse.cwaandvsd.friedman.vsd.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "VerifiableReinforcem626": {
+    "action": "confirmed",
+    "external_title": "Verifiable reinforcement learning via policy extraction",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2018/file/e6d8545daa42d5ced125a4bf747b3688-Paper.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "VisualizingBigDataOu628": {
+    "action": "confirmed",
+    "external_title": "Visualizing Big Data Outliers Through Distributed Aggregation",
+    "source_url": "https://api.crossref.org/works/10.1109%2Ftvcg.2017.2744685",
+    "method": "DOI registry title and author match",
+    "reason": "Title and author match; publication year also matches.",
+    "evidence_kind": "registry"
+  },
+  "WhyshouldItrustyouEx637": {
+    "action": "confirmed",
+    "external_title": "Why should i trust you?: explaining the predictions of any classifier",
+    "source_url": "https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf",
+    "method": "Publication opening-page title and author matched",
+    "reason": "Opening-page title matches after formatting normalization; author is present.",
+    "evidence_kind": "pdf"
+  },
+  "ABriefHistoryofIntel003": {
+    "action": "confirmed",
+    "external_title": "A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains",
+    "source_url": "https://books.google.com/books/about/A_Brief_History_of_Intelligence.html?id=tymCEAAAQBAJ",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publisher-supplied Google Books metadata confirms full title, author Max S. Bennett and 2023.",
+    "evidence_kind": "reviewed"
+  },
+  "AnEfficientPatternRe056": {
+    "action": "confirmed",
+    "external_title": "An efficient pattern recognition approach with applications",
+    "source_url": "https://support.sas.com/resources/papers/proceedings16/SAS3100-2016.pdf",
+    "method": "Alternative authoritative publication title",
+    "reason": "Title matches after capitalization, punctuation and LaTeX normalization.",
+    "evidence_kind": "pdf"
+  },
+  "AnOverviewofMachineL061": {
+    "action": "confirmed",
+    "external_title": "An overview of machine learning with {SAS} enterprise miner",
+    "source_url": "https://support.sas.com/resources/papers/proceedings14/SAS313-2014.pdf",
+    "method": "Alternative authoritative publication title",
+    "reason": "Title matches after capitalization, punctuation and LaTeX normalization.",
+    "evidence_kind": "pdf"
+  },
+  "PrimeMinistersetsout451": {
+    "action": "confirmed",
+    "external_title": "Prime Minister sets out blueprint to turbocharge AI",
+    "source_url": "https://www.gov.uk/government/news/prime-minister-sets-out-blueprint-to-turbocharge-ai",
+    "method": "Alternative authoritative publication title",
+    "reason": "Title matches after capitalization, punctuation and LaTeX normalization.",
+    "evidence_kind": "page"
+  },
+  "SequencetoSequenceLe507": {
+    "action": "confirmed",
+    "external_title": "Sequence to sequence learning with neural networks",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2014/file/5a18e133cbf9f257297f410bb7eca942-Paper.pdf",
+    "method": "Alternative authoritative publication title",
+    "reason": "Title matches after capitalization, punctuation and LaTeX normalization.",
+    "evidence_kind": "pdf"
+  },
+  "TowardsBetterUnderst604": {
+    "action": "confirmed",
+    "external_title": "Towards better understanding of gradient-based attribution methods for Deep Neural Networks",
+    "source_url": "https://cgl.ethz.ch/publications/papers/paperAnc18a.php",
+    "method": "Alternative authoritative publication title",
+    "reason": "Title matches after capitalization, punctuation and LaTeX normalization.",
+    "evidence_kind": "page"
+  },
+  "CounterfactualExplan137": {
+    "action": "corrected",
+    "external_title": "Counterfactual explanations without opening the black box: automated decisions and the {GDPR}",
+    "source_url": "https://arxiv.org/pdf/1711.00399",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publication title area provides the corrected wording; author and publication identity match.",
+    "evidence_kind": "reviewed",
+    "new_title": "Counterfactual explanations without opening the black box: automated decisions and the {GDPR}"
+  },
+  "DebuggingMachineLear152": {
+    "action": "corrected",
+    "external_title": "Debugging machine learning via model assertions",
+    "source_url": "https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_27.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publication title area provides the corrected wording; author and publication identity match.",
+    "evidence_kind": "reviewed",
+    "new_title": "Debugging machine learning via model assertions"
+  },
+  "TaxonomyofFailureMod548": {
+    "action": "corrected",
+    "external_title": "Taxonomy of failure mode in agentic {AI} systems",
+    "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publication title area provides the corrected wording; author and publication identity match.",
+    "evidence_kind": "reviewed",
+    "new_title": "Taxonomy of failure mode in agentic {AI} systems"
+  },
+  "WarningSignsPrivacya630": {
+    "action": "corrected",
+    "external_title": "Warning signs: the future of privacy and security in an age of machine learning",
+    "source_url": "https://fpf.org/wp-content/uploads/2019/09/FPF_WarningSigns_Report.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publication title area provides the corrected wording; author and publication identity match.",
+    "evidence_kind": "reviewed",
+    "new_title": "Warning signs: the future of privacy and security in an age of machine learning"
+  },
+  "AI6001GenerativeAIRi039": {
+    "action": "corrected",
+    "external_title": "Artificial intelligence risk management framework: generative artificial intelligence profile",
+    "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publication title area provides the corrected wording; author and publication identity match.",
+    "evidence_kind": "reviewed",
+    "new_title": "Artificial intelligence risk management framework: generative artificial intelligence profile"
+  },
+  "ThreeNaiveBayesAppro595": {
+    "action": "corrected",
+    "external_title": "Three naive {Bayes} approaches for discrimination-free classification",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s10618-010-0190-x.pdf?error=cookies_not_supported&code=49e3d9e5-5d39-4f50-8c42-46ad89832774",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publication title area provides the corrected wording; author and publication identity match.",
+    "evidence_kind": "reviewed",
+    "new_title": "Three naive {Bayes} approaches for discrimination-free classification"
+  },
+  "LettheDataPaintthePi364": {
+    "action": "corrected",
+    "external_title": "Let the data paint the picture: data-driven, interactive and animated visualizations using {SAS}, {Java} and the processing graphics",
+    "source_url": "https://support.sas.com/resources/papers/proceedings12/275-2012.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publication title area provides the corrected wording; author and publication identity match.",
+    "evidence_kind": "reviewed",
+    "new_title": "Let the data paint the picture: data-driven, interactive and animated visualizations using {SAS}, {Java} and the processing graphics"
+  },
+  "IdentifyingtheEconom315": {
+    "action": "corrected",
+    "external_title": "Identifying the economic implications of artificial intelligence for copyright policy",
+    "source_url": "https://api.crossref.org/works/10.2139%2Fssrn.5143605",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "SSRN DOI record matches all ten authors and 2025; remove date and publication notes appended to the title.",
+    "evidence_kind": "reviewed",
+    "new_title": "Identifying the economic implications of artificial intelligence for copyright policy"
+  },
+  "EnshitificationWhyEv196": {
+    "action": "corrected",
+    "external_title": "Enshittification: why everything suddenly got worse and what to do about it",
+    "source_url": "https://academic.macmillan.com/academictrade/9780374619329/enshittification/",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publisher title, author Cory Doctorow, 2025 and ISBN 9780374619329 identify the book; correct missing t.",
+    "evidence_kind": "reviewed",
+    "new_title": "Enshittification: why everything suddenly got worse and what to do about it"
+  },
+  "AdvisoryBulletin2022037": {
+    "action": "confirmed",
+    "external_title": "Advisory Bulletin AB 2022-03: Supplemental Guidance to Advisory Bulletin 2013-07 – Model Risk Management Guidance",
+    "source_url": "https://www.fhfa.gov/advisory-bulletin/ab-2022-03",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Bulletin identifiers match; AB abbreviation and omitted repeated AB label are harmless.",
+    "evidence_kind": "reviewed"
+  },
+  "ArtificialIntelligen075": {
+    "action": "confirmed",
+    "external_title": "Artificial Intelligence (AI) in the Securities Industry",
+    "source_url": "https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "FINRA June 2020 cover confirms the same title; parenthetical AI abbreviation is harmless.",
+    "evidence_kind": "reviewed"
+  },
+  "DraftforPublicCommen185": {
+    "action": "confirmed",
+    "external_title": "Ongoing Face Recognition Vendor Test (FRVT) Part 5: Face Image Quality Assessment",
+    "source_url": "https://pages.nist.gov/frvt/reports/quality/frvt_quality_report.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Cover matches Grother and draft status; descriptive draft-for-public-comment prefix is harmless.",
+    "evidence_kind": "reviewed"
+  },
+  "NISTAI1003TheLanguag409": {
+    "action": "confirmed",
+    "external_title": "The Language of Trustworthy AI: An In-Depth Glossary of Terms",
+    "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-3.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Cover title, authors and NIST AI 100-3 report identifier match; report-number prefix is harmless.",
+    "evidence_kind": "reviewed"
+  },
+  "EfficientBackProp191": {
+    "action": "confirmed",
+    "external_title": "Efficient BackProp",
+    "source_url": "http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "DOI 10.1007/3-540-49430-8_2 matches all authors and 1998; malformed PDF ligature explains extraction difference.",
+    "evidence_kind": "reviewed"
+  },
+  "tClosenessPrivacyBey544": {
+    "action": "confirmed",
+    "external_title": "t-Closeness: Privacy Beyond k-Anonymity and ℓ-Diversity",
+    "source_url": "https://personal.utdallas.edu/~mxk055100/courses/privacy08f_files/tcloseness.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Publication title and Ninghui Li match; mathematical ℓ and ordinary l denote the same term.",
+    "evidence_kind": "reviewed"
+  },
+  "AnIntroductiontoMach060": {
+    "action": "confirmed",
+    "external_title": "An Introduction to Machine Learning Interpretability: An Applied Perspective on Fairness, Accountability, Transparency, and Explainable AI, Second Edition",
+    "source_url": "https://h2o.ai/content/dam/h2o/en/marketing/documents/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Visually reviewed original PDF cover confirms title, subtitle, edition, Patrick Hall and Navdeep Gill.",
+    "evidence_kind": "reviewed"
+  },
+  "ResponsibleArtificia494": {
+    "action": "confirmed",
+    "external_title": "Responsible Artificial Intelligence in Financial Markets: Opportunities, Risks & Recommendations",
+    "source_url": "https://www.cftc.gov/media/10626/TAC_AIReport050224/download",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Visually reviewed CFTC report cover confirms title and institutional identity.",
+    "evidence_kind": "reviewed"
+  },
+  "MachineLearning373": {
+    "action": "confirmed",
+    "external_title": "Machine Learning",
+    "source_url": "https://www.cs.cmu.edu/~tom/mlbook.html",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Author homepage states Machine Learning, Tom Mitchell, McGraw Hill, 1997.",
+    "evidence_kind": "reviewed"
+  },
+  "DemocraticInputstoAI164": {
+    "action": "confirmed",
+    "external_title": "Democratic inputs to AI grant program: lessons learned and implementation plans",
+    "source_url": "https://openai.com/index/democratic-inputs-to-ai-grant-program-update/",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Official OpenAI article title and January 16, 2024 date match.",
+    "evidence_kind": "reviewed"
+  },
+  "PresidioDataProtecti448": {
+    "action": "confirmed",
+    "external_title": "Presidio: Data Protection and De-identification SDK",
+    "source_url": "https://github.com/microsoft/presidio",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Official Microsoft project documentation confirms the project title.",
+    "evidence_kind": "reviewed"
+  },
+  "AIAssuranceAuditofRo042": {
+    "action": "confirmed",
+    "external_title": "AI Assurance Audit of RoBERTa, an Open Source, Pretrained Large Language Model",
+    "source_url": "https://www.iqt.org/knowledge-hub?2d34173a_page=2&c6fb1237_page=9",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "Official IQT Knowledge Hub lists the report under this title; capitalization is harmless.",
+    "evidence_kind": "reviewed"
+  },
+  "SupersparseLinearInt536": {
+    "action": "confirmed",
+    "external_title": "Supersparse linear integer models for optimized medical scoring systems",
+    "source_url": "https://dspace.mit.edu/entities/publication/1f155f7d-39ee-45e2-aba0-8cf0456eb6a2",
+    "method": "Reviewed authoritative title and publication identity",
+    "reason": "MIT institutional repository identifies the cited Ustun/Rudin publication; retain its title despite an older linked conference PDF.",
+    "evidence_kind": "reviewed"
+  }
+}

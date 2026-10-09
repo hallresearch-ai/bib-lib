@@ -1,0 +1,62 @@
+[
+  {
+    "citation_key": "h2oPythonInterfacefo290",
+    "year": "2015",
+    "method": "Official recommended citation for original package/software version",
+    "source_url": "https://raw.githubusercontent.com/h2oai/h2o-3/master/h2o-docs/src/product/howto/FAQ.md",
+    "reason": "H2O official FAQ explicitly supplies year 2015 for this exact title and version 3.1.0.99999, recovered from the original BibTeX note. This is a historical citation year, not the current release year.",
+    "before": null,
+    "after": "2015",
+    "row": 290
+  },
+  {
+    "citation_key": "h2oRInterfaceforH2O291",
+    "year": "2015",
+    "method": "Official recommended citation for original package/software version",
+    "source_url": "https://raw.githubusercontent.com/h2oai/h2o-3/master/h2o-docs/src/product/howto/FAQ.md",
+    "reason": "H2O official FAQ explicitly supplies year 2015 for this exact title and version 3.1.0.99999, recovered from the original BibTeX note. This is a historical citation year, not the current release year.",
+    "before": null,
+    "after": "2015",
+    "row": 291
+  },
+  {
+    "citation_key": "H2OScalableMachineLe292",
+    "year": "2015",
+    "method": "Official recommended citation for original package/software version",
+    "source_url": "https://raw.githubusercontent.com/h2oai/h2o-3/master/h2o-docs/src/product/howto/FAQ.md",
+    "reason": "H2O official FAQ explicitly supplies year 2015 for this exact title and version 3.1.0.99999, recovered from the original BibTeX note. This is a historical citation year, not the current release year.",
+    "before": null,
+    "after": "2015",
+    "row": 292
+  },
+  {
+    "citation_key": "H2Odocumentation283",
+    "year": "2015",
+    "method": "Official historical bibliography matches title and URL",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/master/3232/docs-website/h2o-docs/booklets/R_Vignette.pdf",
+    "reason": "The reference list on printed page 41 of the 2015 H2O R manual explicitly cites this documentation resource with year 2015 and the same URL. Use the historical citation year; latest-stable redirects now identify newer versions and are not used to date the old citation.",
+    "before": null,
+    "after": "2015",
+    "row": 283
+  },
+  {
+    "citation_key": "H2ORPackageDocumenta288",
+    "year": "2015",
+    "method": "Official historical bibliography matches title and URL",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/master/3232/docs-website/h2o-docs/booklets/R_Vignette.pdf",
+    "reason": "The reference list on printed page 41 of the 2015 H2O R manual explicitly cites this documentation resource with year 2015 and the same URL. Use the historical citation year; latest-stable redirects now identify newer versions and are not used to date the old citation.",
+    "before": null,
+    "after": "2015",
+    "row": 288
+  },
+  {
+    "citation_key": "H2OGitHubrepositoryf285",
+    "year": "2015",
+    "method": "Date of last published directory revision corroborated by contemporary booklet",
+    "source_url": "https://github.com/h2oai/h2o-2/commit/293b1777441e9210e9eed0024e8ccabe3af3dac3 ; https://raw.githubusercontent.com/h2oai/h2o/master/docs/deeplearning/DeepLearningBookletV1.pdf",
+    "reason": "The cited legacy DeepLearningRVignetteDemo directory has 23 commits, beginning 2014-07-29 and ending with a readme update 2015-02-25. The accompanying official booklet is dated February 2015 (second edition) and cites the exact directory. Year 2015 dates the last published directory revision referenced by the cited master URL, not its initial creation in 2014. No replacement with H2O-3 examples or current packages.",
+    "before": null,
+    "after": "2015",
+    "row": 285
+  }
+]

@@ -1,0 +1,4441 @@
+{
+  "reserved_keys": [
+    "AIIncidentsinFinanci046",
+    "H2ODatasets282",
+    "H2OJIRA286",
+    "H2Ostream293",
+    "H2Owebsite289",
+    "Nonlinearresonantcir410",
+    "Notwhatyouvesignedup412",
+    "TheAssessingRisksand558",
+    "WhitepaperProgrammin636"
+  ],
+  "schema_version": 1,
+  "rule": "Stable citation-key rule v1 (2026-10-08): Assign once as LeadNameYearShortTitle, for example Hall2020MachineLearning. LeadName is the first personal author surname including particles, or the first three significant words of a braced corporate author; use the first editor if author is absent, then institution/organization, then Anon. Year is the four-digit publication year, or nd when undated. ShortTitle is the first three significant title words, or Untitled. Decode LaTeX, transliterate Latin accents, remove punctuation, and capitalize each ASCII alphanumeric word. Stop words: a, an, and, are, as, at, be, by, for, from, in, is, of, on, or, that, the, these, this, those, to, with. If a key begins with a digit, prefix Ref. Keys are unique ignoring case. For simultaneous collisions, suffix every colliding new key with x plus the first eight hexadecimal digits of the SHA-256 of canonical identity metadata; extend by four digits if needed. Identity metadata consists of author, editor, year, title, entry_type, doi, eprint, edition, journal, booktitle, number, url, in that order, trimmed and whitespace-collapsed, serialized as a UTF-8 JSON array with compact separators. Identical unregistered identities require manual differentiation; never merge them automatically. Existing keys and historical aliases take precedence over metadata-derived candidates. Once assigned, never regenerate a key for sorting, insertion, deletion, metadata correction, or a new collision. New collisions receive a suffix without changing existing keys. Persist citation-key-registry.json with the library, preserve literal citation_key values on all imports/exports, and reserve deleted keys permanently. The migration map resolves legacy keys; historical evidence retains its original references. This supersedes the previous row-number formula and alphabetical-suffix advice. The workbook Change audit records every rename and this rule; Citation key map and citation-key-migration.csv provide aliases.",
+  "entries": [
+    {
+      "key": "Abadi2016DeepLearningDifferential",
+      "aliases": [
+        "DeepLearningwithDiff157"
+      ],
+      "identity_sha256": "61be51676be353de10e6c76d02f60a7405bf465afc7a1473f1ffbc30cc1b1ee1"
+    },
+    {
+      "key": "Abercrombie2024CollaborativeHumanCentred",
+      "aliases": [
+        "Acollaborativehumanc004"
+      ],
+      "identity_sha256": "9d1ca3c57c0ca25a075f8d9a031bff7de5fed33a68a382c47648ce9d4d07aeaf"
+    },
+    {
+      "key": "AbuMostafa2012LearningData",
+      "aliases": [
+        "LearningfromData361"
+      ],
+      "identity_sha256": "6955611d4137357dffa48bec881ca2bbdc832a44508184176f8a3c0cc11707ad"
+    },
+    {
+      "key": "Acemoglu2024SimpleMacroeconomicsAi",
+      "aliases": [
+        "TheSimpleMacroeconom590"
+      ],
+      "identity_sha256": "c9698ca61712853eb7967a86802e85771f8ff6c2d1ce2e2e1d5166f96df98015"
+    },
+    {
+      "key": "Achiam2024Gpt4Technical",
+      "aliases": [
+        "GPT4technicalreport276"
+      ],
+      "identity_sha256": "395bd28a29753cf9f1dde76611dbcab3e21bd280968a39fedd8bc42fd80c25b8"
+    },
+    {
+      "key": "Adcock2001MeasurementValidityShared",
+      "aliases": [
+        "MeasurementvalidityA387"
+      ],
+      "identity_sha256": "bfc294fe846b9c503c7634057d2a8318af464dfd33132f30c1033da252bc68e6"
+    },
+    {
+      "key": "AdversaAindTrustedAiBlog",
+      "aliases": [
+        "TrustedAIBlogSeries610"
+      ],
+      "identity_sha256": "ecd715396f3bbd04b22286911cb37516071362ae846ad244b1b2bd16b58e0f74"
+    },
+    {
+      "key": "Agarwal2021NeuralAdditiveModels",
+      "aliases": [
+        "NeuralAdditiveModels407"
+      ],
+      "identity_sha256": "05cb6d84d6af1bb1572aa0fb5b42a816c24c51329b8674e936ea7441315f9cc6"
+    },
+    {
+      "key": "Agrawal2000PrivacyPreservingData",
+      "aliases": [
+        "PrivacyPreservingDat453"
+      ],
+      "identity_sha256": "529b73bb736eec985a8d57d2025b62779ecab4e1000723828c248ba6945ce99e"
+    },
+    {
+      "key": "Aiello2015FastScalableR",
+      "aliases": [
+        "FastScalableRwithH2O237"
+      ],
+      "identity_sha256": "782735de75ac0d86d0c7488d836585bf01cd8c432c69cc771a198274c9e4c67c"
+    },
+    {
+      "key": "Aivodji2019FairwashingRiskRationalization",
+      "aliases": [
+        "Fairwashingtheriskof234"
+      ],
+      "identity_sha256": "15670d557ecda62b66d8121289c0271cfad205e0557518c040924d1f38fbf8ad"
+    },
+    {
+      "key": "Alkaissi2023ArtificialHallucinationsChatgpt",
+      "aliases": [
+        "ArtificialHallucinat071"
+      ],
+      "identity_sha256": "61d0a14fb07a4c912c7ad69770a3021e24627300f9f4f44dcd12dd084c9e1bab"
+    },
+    {
+      "key": "Alsallakh2022SystemLevelTransparency",
+      "aliases": [
+        "SystemlevelTranspare542"
+      ],
+      "identity_sha256": "ae99803e433b9cdecc78af8cb8d0478ffb6a9b1fd8c7cfa1dffccc2d64785bc9"
+    },
+    {
+      "key": "Ameller2012HowDoSoftware",
+      "aliases": [
+        "Howdosoftwarearchite305"
+      ],
+      "identity_sha256": "bd492ffadbf18028c87d48d9bc43ec2da29278da7265da13cd2bd39d92ab9be9"
+    },
+    {
+      "key": "Amershi2015ModeltrackerRedesigningPerformance",
+      "aliases": [
+        "ModeltrackerRedesign399"
+      ],
+      "identity_sha256": "903a3ef68c320d4496faf910ccb1a3c064f150c93d7252b3061dd0e1b184fcff"
+    },
+    {
+      "key": "Amershi2019GuidelinesHumanAi",
+      "aliases": [
+        "GuidelinesforhumanAI280"
+      ],
+      "identity_sha256": "e9ca548841284880ab2b31102b8903dcba567869c5df96e4b18ee686429e79cf"
+    },
+    {
+      "key": "Amironesei2023RelationalityOffensiveSpeech",
+      "aliases": [
+        "RelationalityandOffe491"
+      ],
+      "identity_sha256": "1bb7ffc48969fbcaf6785fd951d0847c45696a027e669979e2eb534c604df87d"
+    },
+    {
+      "key": "Amironesei2025AssessingRisksImpacts",
+      "aliases": [
+        "AssessingRisksandImp081"
+      ],
+      "identity_sha256": "6c15973e4ade9354d1b50276748d0e2d20df3b17dac6d910c20f6d19d1e750b7"
+    },
+    {
+      "key": "Ancona2018TowardsBetterUnderstanding",
+      "aliases": [
+        "TowardsBetterUnderst604"
+      ],
+      "identity_sha256": "879dea80a885eb5b98995e02d997672e3749f99728d14e6efee798b51365179d"
+    },
+    {
+      "key": "Angelino2017LearningCertifiablyOptimal",
+      "aliases": [
+        "LearningCertifiablyO358"
+      ],
+      "identity_sha256": "63d29747ce204b83992c23c6d0ab810b84cd433d18b8902beecf804220a0b589"
+    },
+    {
+      "key": "Apley2016VisualizingEffectsPredictor",
+      "aliases": [
+        "VisualizingtheEffect629"
+      ],
+      "identity_sha256": "1f87bb24c8982a8a5469d95b6e18f7a7a9e78cce1cf0af8235885ce2c96c81cf"
+    },
+    {
+      "key": "AppelndGenerativeAiHas",
+      "aliases": [
+        "GenerativeAIHasanInt262"
+      ],
+      "identity_sha256": "0c6bce3226c5513dd59f5d019d9c603bb9c8c6dea89c6c23288080f3e9b2e8d2"
+    },
+    {
+      "key": "Arora2015DeepLearningH2o",
+      "aliases": [
+        "DeepLearningwithH2O158"
+      ],
+      "identity_sha256": "9e356d3fc17902f78afa4ed084734f580464a84d9b5912784a5a815cc2f6707e"
+    },
+    {
+      "key": "Artstein2008SurveyArticleInter",
+      "aliases": [
+        "SurveyarticleInterco540"
+      ],
+      "identity_sha256": "543ce077d8509677d33556407b2e089d24fd4b6704a1e2c8d10fc8c230075bbe"
+    },
+    {
+      "key": "AstmInternational2016AstmE301216",
+      "aliases": [
+        "ASTME301216StandardG083"
+      ],
+      "identity_sha256": "6736631ab5cb80136e8ca0b1a608af52735d37ff95113edd3d2505f8a78d4741"
+    },
+    {
+      "key": "Atari2023WhichHumans",
+      "aliases": [
+        "WhichHumans635"
+      ],
+      "identity_sha256": "a3a9dbcf24554c67781269f7d4316adce92c1febfd07f1b1b14d3abbb9bcc197"
+    },
+    {
+      "key": "Atherton2023LanguageTrustworthyAi",
+      "aliases": [
+        "TheLanguageofTrustwo575"
+      ],
+      "identity_sha256": "1a5dda8c1c508eed320530e2da6f2de626e8f3347a912086cd0bf439276f05c4"
+    },
+    {
+      "key": "Atherton2023NistAi100",
+      "aliases": [
+        "NISTAI1003TheLanguag409"
+      ],
+      "identity_sha256": "be838c3a1c432ad7ab5e2506dd4944fb8c4f3d08491c6f530ba1e2ae09c8d2ae"
+    },
+    {
+      "key": "Atherton2024DeepfakesChildSafety",
+      "aliases": [
+        "DeepfakesandChildSaf162"
+      ],
+      "identity_sha256": "2e5f3a27b8cd7b0fce0e4655ab12b70fc43a3fdeca6ab89c32864f7bb0d63930"
+    },
+    {
+      "key": "Autio2024ArtificialIntelligenceRisk",
+      "aliases": [
+        "ArtificialIntelligen078"
+      ],
+      "identity_sha256": "13e822c380fb5450861fe7a797f033f7359c5ba264d00b4c7341e34b6bd80401"
+    },
+    {
+      "key": "Aven2024RiskLiteracyFoundational",
+      "aliases": [
+        "RiskliteracyFoundati498"
+      ],
+      "identity_sha256": "14acc5144765671aa2beac0b7f0aa6f7e07a9f8ff5d1c84595267cc179c58e44"
+    },
+    {
+      "key": "Bach2022PromptsourceIntegratedDevelopment",
+      "aliases": [
+        "PromptSourceAnIntegr462"
+      ],
+      "identity_sha256": "55d363d90b1d52e44d365e63583021f3207b7d5522c8cb8dc6524694690425f5"
+    },
+    {
+      "key": "Bai2022ConstitutionalAiHarmlessness",
+      "aliases": [
+        "ConstitutionalAIHarm132"
+      ],
+      "identity_sha256": "2597ee252ff3214ce823776abf0d0abf44176c46e200803090715bc3406c59ab"
+    },
+    {
+      "key": "Bai2022TrainingHelpfulHarmless",
+      "aliases": [
+        "TrainingaHelpfulandH606"
+      ],
+      "identity_sha256": "cd6b1d03ab5e651f3266859cca406d58a2f647f90eec6eef73d5f5f37476125b"
+    },
+    {
+      "key": "Balafoutas2025IncentivesReplicationCrisis",
+      "aliases": [
+        "Incentivesandtherepl323"
+      ],
+      "identity_sha256": "7e71eb46757f44eb81bd2022209c2896e3f86a98e1083feccaa55b504200a0a7"
+    },
+    {
+      "key": "Balloccu2024LeakCheatRepeat",
+      "aliases": [
+        "LeakcheatrepeatDatac356"
+      ],
+      "identity_sha256": "42e189d7a987a95926d5324979376b648349d05e7f04a05fa1685eec825c7a03"
+    },
+    {
+      "key": "Bandarkar2024BelebeleBenchmarkParallel",
+      "aliases": [
+        "TheBelebeleBenchmark559"
+      ],
+      "identity_sha256": "74899c693da47921e927c73797e437020b0a19dfe9f5403a7798c772fd2de582"
+    },
+    {
+      "key": "Baniecki2022FoolingPartialDependence",
+      "aliases": [
+        "Foolingpartialdepend246"
+      ],
+      "identity_sha256": "1385b230fbc3afd0af1b494e66bae862ee17fb25dcaa2ae79db81bb821150d14"
+    },
+    {
+      "key": "Barocas2019FairnessMachineLearning",
+      "aliases": [
+        "FairnessandMachineLe230"
+      ],
+      "identity_sha256": "bc93288df7db40a5c570aada9c18f0dd1166991c576e279b877d48437cca8c9b"
+    },
+    {
+      "key": "Barreno2010SecurityMachineLearning",
+      "aliases": [
+        "TheSecurityofMachine588"
+      ],
+      "identity_sha256": "2b5acc7eda92fbe404349238c28b7e1524a7d487a8e23c886937588ed6fdf9eb"
+    },
+    {
+      "key": "Bastani2017InterpretingBlackboxModels",
+      "aliases": [
+        "Interpretingblackbox332"
+      ],
+      "identity_sha256": "3ab5ee1a6bb16ca206c2e18307e1ad925bc95668f070d25678d14a9bcaaa8922"
+    },
+    {
+      "key": "Bastani2018VerifiableReinforcementLearning",
+      "aliases": [
+        "VerifiableReinforcem626"
+      ],
+      "identity_sha256": "37189a1dc1e090e3c6fe6297726aa019d69cbd21fd728138e945d3377713862b"
+    },
+    {
+      "key": "Bauer1974ComputationalGraphsRounding",
+      "aliases": [
+        "Computationalgraphsa128"
+      ],
+      "identity_sha256": "fc449b693bf3ca397d9fd834fc5dd084ecabc8f0431ee64939edd02aae17d189"
+    },
+    {
+      "key": "Beede2020HumanCenteredEvaluation",
+      "aliases": [
+        "Ahumancenteredevalua010"
+      ],
+      "identity_sha256": "92ffaf50392e0e91c0bf37301a9e31adaa192c3089cd1c0f2f580c1f23ee126a"
+    },
+    {
+      "key": "Bellamy2018AiFairness360",
+      "aliases": [
+        "AIFairness360AnExten043"
+      ],
+      "identity_sha256": "f63476610904ac95be5a291efe3d6a0e2c2f0e918888d7054b53ae4ff3e4f2c0"
+    },
+    {
+      "key": "Bender2018DataStatementsNatural",
+      "aliases": [
+        "Datastatementsfornat145"
+      ],
+      "identity_sha256": "beca505ebf98e0a0fb75241b48df2dffb4e6723b29168f8efddce85f75d080f1"
+    },
+    {
+      "key": "Bender2021DangersStochasticParrots",
+      "aliases": [
+        "Onthedangersofstocha417"
+      ],
+      "identity_sha256": "9239faa92b3d3f427f94d19b1fa8dc0f54a83ca0b2ee8074c900b487fb9ee84f"
+    },
+    {
+      "key": "Bengio2009LearningDeepArchitectures",
+      "aliases": [
+        "LearningDeepArchitec359"
+      ],
+      "identity_sha256": "d173bfb9bd5457012df453095489c7ad3113a45e9a0db13df4cac74a3559260a"
+    },
+    {
+      "key": "Bennet2025ImplementingAiBill",
+      "aliases": [
+        "ImplementingAIBillof320"
+      ],
+      "identity_sha256": "fa83648de9f570470e699fe63d7ce892ab3849c06c64a78a46b20ffa4436eb3b"
+    },
+    {
+      "key": "Bennett2023BriefHistoryIntelligence",
+      "aliases": [
+        "ABriefHistoryofIntel003"
+      ],
+      "identity_sha256": "104a04b93de209268e76a5839edf8f3e86df204a125188496601ba4500ae8878"
+    },
+    {
+      "key": "Berditchevskaia2021ParticipatoryAiHumanitarian",
+      "aliases": [
+        "ParticipatoryAIforhu429"
+      ],
+      "identity_sha256": "407d1948086168c1720bef22044175d4878efaea59c7decd05f097be7763ac40"
+    },
+    {
+      "key": "Bergstra2012RandomSearchHyper",
+      "aliases": [
+        "RandomSearchforHyper476"
+      ],
+      "identity_sha256": "0b8c70e9c77587803100734ea54095072c30798f166fbc475bd5e07b95d03d0c"
+    },
+    {
+      "key": "Bernard2012SocialResearchMethods",
+      "aliases": [
+        "SocialResearchMethod513"
+      ],
+      "identity_sha256": "04a6430cd106d9e0d7b3cccca7ae089fef131b760f3af1a8d676766b8d7e20a2"
+    },
+    {
+      "key": "Bertrand2004EmilyGregMore",
+      "aliases": [
+        "AreEmilyandGregmoree068"
+      ],
+      "identity_sha256": "d3073ff830114f85d588c29f1d27e566b8a479315b9cf312306612fb066ae609"
+    },
+    {
+      "key": "Bhattacherjee2019SocialScienceResearch",
+      "aliases": [
+        "SocialScienceResearc514"
+      ],
+      "identity_sha256": "d155911ba5ccb1f01611aa2b54f506bf7af739c6af975a964cac8541061d2977"
+    },
+    {
+      "key": "Bianchi2023EasilyAccessibleText",
+      "aliases": [
+        "Easilyaccessibletext189"
+      ],
+      "identity_sha256": "df3296695c5c7d700540ae9705b8dc0a5393f6f13eb817ba6cf241e3bc392089"
+    },
+    {
+      "key": "Bien2012StrongRulesDiscarding",
+      "aliases": [
+        "StrongRulesforDiscar531"
+      ],
+      "identity_sha256": "3ce9f517e35163dcb012d235cc26a4640f5d61fb726567d6b818a73740ba373e"
+    },
+    {
+      "key": "Bilson2025MetrologicalFrameworkUncertainty",
+      "aliases": [
+        "Ametrologicalframewo013"
+      ],
+      "identity_sha256": "d70b0c2392c38c364cccadc5f8db971b73d63f3dfba9740801b9b5c36f14e123"
+    },
+    {
+      "key": "Birhane2022PowerPeopleOpportunities",
+      "aliases": [
+        "PowertothePeopleOppo443"
+      ],
+      "identity_sha256": "da5619e1e242a1923271ee47532cbba49b085b9c0bbc801e0669e89a6da37abb"
+    },
+    {
+      "key": "Bishop2006PatternRecognitionMachine",
+      "aliases": [
+        "PatternRecognitionan430"
+      ],
+      "identity_sha256": "adb65517d9e79a50e991287e01471a71ef04ab8fc54f980e72ac638e9d4bb127"
+    },
+    {
+      "key": "Blaire2024LegalRedTeaming",
+      "aliases": [
+        "LegalRedTeamingASyst363"
+      ],
+      "identity_sha256": "ff4f7491f0cd5b94bdd56d2d950ec51f5398fd0a508ce94bbfcfafcc7a5b2586"
+    },
+    {
+      "key": "Blondel2008FastUnfoldingCommunities",
+      "aliases": [
+        "FastUnfoldingofCommu239"
+      ],
+      "identity_sha256": "f8651a22199e3f97c641a54966f01fcbf34d857af2fb59933fc6179b31b59fb6"
+    },
+    {
+      "key": "BoardGovernorsFederal2011SupervisoryGuidanceModel",
+      "aliases": [
+        "SupervisoryGuidanceo537"
+      ],
+      "identity_sha256": "5731ae377f7a8d24f87d962911e3e86fdff7641774fe1533245e1c23b3ba0239"
+    },
+    {
+      "key": "BoardGovernorsFederal2022StressTests",
+      "aliases": [
+        "StressTests530"
+      ],
+      "identity_sha256": "9415758175737245414df80ba7cd821815a1606ae797ab01f68e3855a7646a41"
+    },
+    {
+      "key": "Bogucka2024AtlasAiRisks",
+      "aliases": [
+        "AtlasofAIRisksEnhanc085"
+      ],
+      "identity_sha256": "1250def5cd92f598d3354372cf22385edfbd22e51c0b821f2a4ca662d8ab2365"
+    },
+    {
+      "key": "Bommasani2022PickingSamePerson",
+      "aliases": [
+        "Pickingonthesamepers435"
+      ],
+      "identity_sha256": "dad48dcf3962b6493b3cf9ffad30e11bc42392100fa94a72d6eba0eaf3e3fd11"
+    },
+    {
+      "key": "Bommasani2023HolisticEvaluationLanguage",
+      "aliases": [
+        "HolisticEvaluationof301"
+      ],
+      "identity_sha256": "245cb65a60ba72eb366a3e8ff6f38348d5a1caf1ef87e7e714bec359f95b0444"
+    },
+    {
+      "key": "Bonney2024ImpactAiWorkforce",
+      "aliases": [
+        "TheimpactofAIonthewo574"
+      ],
+      "identity_sha256": "d1cded4504660ea8cfe1d786cf4f96d87b0aa53c311a3716ff17840ebdaab125"
+    },
+    {
+      "key": "Borsci2022ChatbotUsabilityScale",
+      "aliases": [
+        "Thechatbotusabilitys561"
+      ],
+      "identity_sha256": "3914b1ed1aaf262433a6d41240ef1afcda2fbbe190e8c609f26f6150a3e2922b"
+    },
+    {
+      "key": "BouFranch2018AnalyzingDigitalDiscourse",
+      "aliases": [
+        "Analyzingdigitaldisc064"
+      ],
+      "identity_sha256": "22f86b16d6c74e1fe32008312bc3f8589e25914da374e4bec7785109a018bae2"
+    },
+    {
+      "key": "Box2005StatisticsExperimentersDesign",
+      "aliases": [
+        "StatisticsforExperim525"
+      ],
+      "identity_sha256": "8e4ce6eda9615dc22114075558391d03de325289fd10d57a3df33370b0d4eba1"
+    },
+    {
+      "key": "Boyarskaya2020OvercomingFailuresImagination",
+      "aliases": [
+        "OvercomingFailuresof425"
+      ],
+      "identity_sha256": "a909836515c4d1687b347492a0fc80da735e33e1f2012637b72fa2b3ce939de1"
+    },
+    {
+      "key": "Boyd1996DistributedOptimizationStatistical",
+      "aliases": [
+        "DistributedOptimizat175"
+      ],
+      "identity_sha256": "0d037388b66027416c94aa2667dae160a4819d859eb228477425b4c2f9fb253e"
+    },
+    {
+      "key": "Bracke2019MachineLearningExplainability",
+      "aliases": [
+        "MachineLearningExpla375"
+      ],
+      "identity_sha256": "d138dcdbbffa20eec68a762eca1b3ae32f4a3ab9abf7ff1a01063da0f70a8242"
+    },
+    {
+      "key": "Brahman2024ArtSayingNo",
+      "aliases": [
+        "TheArtofSayingNoCont556"
+      ],
+      "identity_sha256": "c145e24ebbdbaa6c9174d74365724901c73bd19995664514597f09a8b80b886d"
+    },
+    {
+      "key": "Breiman2001RandomForests",
+      "aliases": [
+        "Randomforests475"
+      ],
+      "identity_sha256": "2d93981fbb909b6775758243832a0b5a70e30703960499f2ac171e1a1e8ecdef"
+    },
+    {
+      "key": "Breiman2001StatisticalModelingTwo",
+      "aliases": [
+        "StatisticalModelingT523"
+      ],
+      "identity_sha256": "12c052860692fe5b8d1f8c546ae57b22ad7500989e379e50feab59aef257ab94"
+    },
+    {
+      "key": "Brennen2022AiAssuranceAudit",
+      "aliases": [
+        "AIAssuranceAuditofRo042"
+      ],
+      "identity_sha256": "02ac4916af960b8e1dfa24c72df36057b9e9af27c1a45f580c5976dca2946edc"
+    },
+    {
+      "key": "Broniatowski2021PsychologicalFoundationsExplainability",
+      "aliases": [
+        "PsychologicalFoundat466"
+      ],
+      "identity_sha256": "60f95da54713d007d3b1dab3af6e118934517b24da9740f757b651960bb12484"
+    },
+    {
+      "key": "Brown2020LanguageModelsFew",
+      "aliases": [
+        "LanguageModelsareFew353"
+      ],
+      "identity_sha256": "ead2ff250c1093c27fe13510a5cf263a023f483dd9526594c1e12f021ded6934"
+    },
+    {
+      "key": "Brundage2020TowardTrustworthyAi",
+      "aliases": [
+        "TowardTrustworthyAID599"
+      ],
+      "identity_sha256": "3d77df03fdad6122439df7768420efa0f4e7fa6951acd28003846e607c9ab7f9"
+    },
+    {
+      "key": "Bryan2025TaxonomyFailureMode",
+      "aliases": [
+        "TaxonomyofFailureMod548"
+      ],
+      "identity_sha256": "1ddcd1280163c30a0f305b8b6da56b88df4a7feeb7e26d6ddd5185dbc9ff42b6"
+    },
+    {
+      "key": "Bubeck2023SparksArtificialGeneral",
+      "aliases": [
+        "SparksofArtificialGe519"
+      ],
+      "identity_sha256": "2c2ecb2f50533e967cc08164b29cd6f0d32c0fb5b2d58dd3186bb8d40012481b"
+    },
+    {
+      "key": "Buehler2021GettingKnowandManageyour",
+      "aliases": [
+        "Gettingtoknowandmana267"
+      ],
+      "identity_sha256": "65abcdf171f19d8815f507e77c2fecd011f085bd8140a3aa7afbd3f7245e45bc"
+    },
+    {
+      "key": "BugcrowdndConductoraiBiasBounty",
+      "aliases": [
+        "ConductorAIBiasBount130"
+      ],
+      "identity_sha256": "307ec409d1dd88e6ddaac9a0821e8fec61b6bbfb2a253a9dcd28559b997c070e"
+    },
+    {
+      "key": "Buolamwini2018GenderShadesIntersectional",
+      "aliases": [
+        "GenderShadesIntersec258"
+      ],
+      "identity_sha256": "deca661fa6fa5f5fde14b6b9510156e09022324812c6d87fd5ebc471916048aa"
+    },
+    {
+      "key": "Burt2020WhatDoWhen",
+      "aliases": [
+        "WhattoDoWhenAIFails631"
+      ],
+      "identity_sha256": "564f58efe1d9c5da913328a53348c65203379b9a0a86cecfedef7aad09c49730"
+    },
+    {
+      "key": "Bussman2019ExplainableAiCredit",
+      "aliases": [
+        "ExplainableAIinCredi212"
+      ],
+      "identity_sha256": "46f7be9f02347fb245d1f4f44403810627f47344807a6a5192a3fa6b322500a9"
+    },
+    {
+      "key": "Calders2010ThreeNaiveBayes",
+      "aliases": [
+        "ThreeNaiveBayesAppro595"
+      ],
+      "identity_sha256": "69d376c5881e30ebdeeb758854c86988d29c041bb8433e938052cee84d1117b4"
+    },
+    {
+      "key": "Calmon2017OptimizedPreProcessing",
+      "aliases": [
+        "OptimizedPreprocessi424"
+      ],
+      "identity_sha256": "f8b679c2fea08c32c52935f7b9372ccf3555443147bf16e274ebc08dc2ca9f28"
+    },
+    {
+      "key": "Camerer2016EvaluatingReplicabilityLaboratory",
+      "aliases": [
+        "Evaluatingreplicabil203"
+      ],
+      "identity_sha256": "d68de6f5cca5d1f36cddb36fa769484db177a732276172163cebc654c6381558"
+    },
+    {
+      "key": "Camerer2018EvaluatingReplicabilitySocial",
+      "aliases": [
+        "Evaluatingthereplica204"
+      ],
+      "identity_sha256": "04e9d73f18819268678d147dc5f1c7c635d4ab0667554a7b11d65835352c93c2"
+    },
+    {
+      "key": "Candel2015DefinitivePerformanceTuning",
+      "aliases": [
+        "DefinitivePerformanc163"
+      ],
+      "identity_sha256": "cfca0d3d575b1556e8a67e11f10ecb62bf94f39e12b799e1db3c79e9c414208a"
+    },
+    {
+      "key": "Carlini2021ExtractingTrainingData",
+      "aliases": [
+        "Extractingtrainingda219"
+      ],
+      "identity_sha256": "339f91ffe687316a620602d90d5910241840ea5faf455a0b1d3b9c771c495eb4"
+    },
+    {
+      "key": "Carlini2023QuantifyingMemorizationAcross",
+      "aliases": [
+        "QuantifyingMemorizat470"
+      ],
+      "identity_sha256": "baa48c07fa50629c8d1f1da818ba74e99865a96187420e29b6898bc32a16d39a"
+    },
+    {
+      "key": "Carlini2024StealingPartProduction",
+      "aliases": [
+        "StealingPartofaProdu527"
+      ],
+      "identity_sha256": "f3b6f45bf0efe76a6f0b4e60e727928ea9404fd557c83367a99312eba5e06596"
+    },
+    {
+      "key": "Caruana2004KddCup2004",
+      "aliases": [
+        "KDDCup2004Resultsand350"
+      ],
+      "identity_sha256": "c546818f9b62026f3784d133af1ea1bf6b44ea2c8f56b4593a7e76fb9194040d"
+    },
+    {
+      "key": "Casper2023OpenProblemsFundamental",
+      "aliases": [
+        "OpenProblemsandFunda420"
+      ],
+      "identity_sha256": "e02d492f31b4320bfe819e2c2c2003b994619521cf122d592d298e48f3e97e01"
+    },
+    {
+      "key": "CenterResearchFoundation2025HolisticFrameworkEvaluating",
+      "aliases": [
+        "AHolisticFrameworkfo009"
+      ],
+      "identity_sha256": "95048f335712fb37381b0171c7d2f0222e0166c3c9beeec42addcaaae65d1620"
+    },
+    {
+      "key": "Centola2022NetworkScienceCollective",
+      "aliases": [
+        "Thenetworkscienceofc581"
+      ],
+      "identity_sha256": "38048d715cf72fdfbb7180eb96c9a3a072559ccb5683349c66739b002b637452"
+    },
+    {
+      "key": "Chang2024SurveyEvaluationLarge",
+      "aliases": [
+        "Asurveyonevaluationo023"
+      ],
+      "identity_sha256": "1bfa179c26197a7805cd0b0ebee5d9396a4989e71b38c5310a9072930c49d316"
+    },
+    {
+      "key": "Chao2024JailbreakingBlackBox",
+      "aliases": [
+        "JailbreakingBlackBox346"
+      ],
+      "identity_sha256": "87d4ff98fe75e22c5ba5eb68051b8c853e842f21bc44938338101e04eca2fa65"
+    },
+    {
+      "key": "Chazette2022HowCanWe",
+      "aliases": [
+        "Howcanwedevelopexpla303"
+      ],
+      "identity_sha256": "cffc62fc631b4fd7639f3fccb13635c567f74a7073084ee71c945fd261eb14e3"
+    },
+    {
+      "key": "Chehbouni2024RepresentationalHarmsQuality",
+      "aliases": [
+        "FromRepresentational254"
+      ],
+      "identity_sha256": "c8d58318cc2f13cc934a4bd1cbd99dd130e70ecc7548c0c5f22831d8325023bd"
+    },
+    {
+      "key": "Chen2019LooksLikeDeep",
+      "aliases": [
+        "ThisLooksLikeThatDee594"
+      ],
+      "identity_sha256": "89be02ad3fd42cd254a25c7fbd376154d29a524b7d2a7e92c0cf68e227059354"
+    },
+    {
+      "key": "Chen2021EvaluatingLargeLanguage",
+      "aliases": [
+        "Evaluatinglargelangu202"
+      ],
+      "identity_sha256": "b5df2481867d3df3b13e57f38ed8bfa8089fc63b498d6d578bcd9100bb3d001b"
+    },
+    {
+      "key": "Chen2023FelmBenchmarkingFactuality",
+      "aliases": [
+        "FelmBenchmarkingfact241"
+      ],
+      "identity_sha256": "0041a22d1a5a3b335ff38f434cb5d93cf5f3287e7e78a87dade80bf2ea06553f"
+    },
+    {
+      "key": "Chen2024CanLlmsPlan",
+      "aliases": [
+        "CanLLMsPlanPathsinth109"
+      ],
+      "identity_sha256": "1466ce2870931a8e96303e56010a97a8bd941cbfae3c4d3eceff8f4feb23bd35"
+    },
+    {
+      "key": "Chen2025ParapoAligningLanguage",
+      "aliases": [
+        "ParaPOAligningLangua427"
+      ],
+      "identity_sha256": "b19378fbdf92f46eff3d4b2d5a262dbf7efd6021f085612f5b0a1f192db8b9bc"
+    },
+    {
+      "key": "Chiu2020AssessingImageQuality",
+      "aliases": [
+        "AssessingImageQualit080"
+      ],
+      "identity_sha256": "9821e7be6aaf46b4ec5e2920ba43227161e9f4ba16a788f7f2eb9bfb9fbef648"
+    },
+    {
+      "key": "Chouldechova2024SharedStandardValid",
+      "aliases": [
+        "ASharedStandardforVa018"
+      ],
+      "identity_sha256": "08379334ff74046349900fdba8230530fd01b3f6e630c14e8163b0f88ff386c2"
+    },
+    {
+      "key": "Chowdhury2021IntroducingTwittersFirst",
+      "aliases": [
+        "IntroducingTwittersF337"
+      ],
+      "identity_sha256": "6c3f43d6500599f48c54e06f0a0b78cb690b28ece1c87a5ec4c8ca44f18a0066"
+    },
+    {
+      "key": "Click2013BuildingDistributedGbm",
+      "aliases": [
+        "BuildingaDistributed105"
+      ],
+      "identity_sha256": "fedce5b9173efd6e622d4fdbc844ba214c0820a947ff80e5934da233421aaf83"
+    },
+    {
+      "key": "Click2015GradientBoostedModels",
+      "aliases": [
+        "GradientBoostedModel277"
+      ],
+      "identity_sha256": "0db6023b8070d033ba8665d69b48c298de90b36589591142c0f71e22d3215279"
+    },
+    {
+      "key": "Cohen1988StatisticalPowerAnalysis",
+      "aliases": [
+        "StatisticalPowerAnal524"
+      ],
+      "identity_sha256": "1846021616ba50da60c9164fa89f62285b06037353c54d7eec90cd5c45576991"
+    },
+    {
+      "key": "Cohen1992PowerPrimer",
+      "aliases": [
+        "APowerPrimer014"
+      ],
+      "identity_sha256": "609e96216b0bec02c6fd904a849868e65cd6c305a2183533104a6739819c26f6"
+    },
+    {
+      "key": "Coldicutt2024AiSafetyNarrative",
+      "aliases": [
+        "AIsafetyisanarrative047"
+      ],
+      "identity_sha256": "d262024fd57e6cce860e6fa3eb6e0131387296128a8566c64eb2c4d6c2ca7fb9"
+    },
+    {
+      "key": "CommodityFuturesTrading2024ResponsibleArtificialIntelligence",
+      "aliases": [
+        "ResponsibleArtificia494"
+      ],
+      "identity_sha256": "bc69ba50ecca5500453cfa03403999f6c12a6e091d3ce57840b5da4700283dda"
+    },
+    {
+      "key": "Conitzer2024SocialChoiceAi",
+      "aliases": [
+        "SocialchoiceforAIali512"
+      ],
+      "identity_sha256": "84f35c83e2926ba6c869480f83a7e1c91cf3afa40e55f121c157ef08a2d699bf"
+    },
+    {
+      "key": "Conmy2023TowardsAutomatedCircuit",
+      "aliases": [
+        "Towardsautomatedcirc603"
+      ],
+      "identity_sha256": "3c3a69cd76228864c596e6a6f4fb4cbf3566af5f645be3ec63040f4bce7581ea"
+    },
+    {
+      "key": "ConsumerFinancialProtection2014UsingPubliclyAvailable",
+      "aliases": [
+        "Usingpubliclyavailab621"
+      ],
+      "identity_sha256": "4b70f1f09de59eb3c0709baba6c0cb8b2ce817dcd95145d67275ac852bda276a"
+    },
+    {
+      "key": "ConsumerFinancialProtection2022AdverseActionNotification",
+      "aliases": [
+        "AdverseActionNotific036"
+      ],
+      "identity_sha256": "60e121ca99817c95adc8a5c203a62522ed7aa5a701bfa966708549a2a51954d2"
+    },
+    {
+      "key": "ConsumerFinancialProtection2023ChatbotsConsumerFinance",
+      "aliases": [
+        "ChatbotsinConsumerFi117"
+      ],
+      "identity_sha256": "11cc4335b8d68127a82a72565b647ade5d8465e16f5fcaef9ddc5f171abea1e1"
+    },
+    {
+      "key": "ConsumerFinancialProtection2024OfficialInterpretationsRegulation",
+      "aliases": [
+        "OfficialInterpretati413"
+      ],
+      "identity_sha256": "49f1de4fec4f1c3183e633255d21891a19a35b37d9ffe7bdac6afba668e88cde"
+    },
+    {
+      "key": "ConsumerFinancialProtectionndMortgageDataHmda",
+      "aliases": [
+        "MortgagedataHMDA402"
+      ],
+      "identity_sha256": "958ca9f7c11b393c19d40aeb70afbde486a77cab418a6855c79af83904d853a5"
+    },
+    {
+      "key": "Craven1996ExtractingTreeStructured",
+      "aliases": [
+        "ExtractingTreeStruct220"
+      ],
+      "identity_sha256": "1b545ea4e0f78ed798f4de06d90e06f7ff99fb39af5aa870d5113b0c4b603d3f"
+    },
+    {
+      "key": "Cronbach1955ConstructValidityPsychological",
+      "aliases": [
+        "Constructvalidityinp133"
+      ],
+      "identity_sha256": "a34d01f4527c8feba6aeffe9562cc60acef1b7136326bde942a097f1befd95db"
+    },
+    {
+      "key": "Cummings2021SubjectivityCreationMachine",
+      "aliases": [
+        "SubjectivityintheCre534"
+      ],
+      "identity_sha256": "bb22063b901ffea8cf2205c56e2ad16bfb347b895804a44675f5b1b3dc961e9e"
+    },
+    {
+      "key": "Dai2025AggregatedIndividualReporting",
+      "aliases": [
+        "Aggregatedindividual038"
+      ],
+      "identity_sha256": "4dc869efb8a70fe87220e9c3a31c727793e1bf6b7786121f84289bb1bafbd368"
+    },
+    {
+      "key": "DAmour2022UnderspecificationPresentsChallenges",
+      "aliases": [
+        "Underspecificationpr618"
+      ],
+      "identity_sha256": "47547eccc9acdaaea37958199c3d5a584f30e8f5d5741ca667fd8e88eed19f63"
+    },
+    {
+      "key": "Darnell2020FutureAnalyticsNew",
+      "aliases": [
+        "TheFutureofAnalytics568"
+      ],
+      "identity_sha256": "f7bdc10da8c39d8a8b50da81a8aa30ce0a82b1da01d1b3dd97719734320b40ee"
+    },
+    {
+      "key": "Davani2022DealingDisagreementsLooking",
+      "aliases": [
+        "Dealingwithdisagreem150"
+      ],
+      "identity_sha256": "fdfbe3541874f5fe3047efa9a1a86e766022af4da71e46ec14cd38591ef8373c"
+    },
+    {
+      "key": "Dawkins2014PrincipleGoodFaith",
+      "aliases": [
+        "ThePrincipleofGoodFa584"
+      ],
+      "identity_sha256": "1d97d153604d86a357a05169dadc6c3f810453ce2da74d48560a64b7d9400c94"
+    },
+    {
+      "key": "DefenseAdvancedResearchndHeilmeierCatechism",
+      "aliases": [
+        "TheHeilmeierCatechis571"
+      ],
+      "identity_sha256": "5291a4065d6ff5a5af9a974e90d5ddbf129d794c43f9f2ebb237e1915beef3c4"
+    },
+    {
+      "key": "Deng2009ImagenetLargeScale",
+      "aliases": [
+        "ImagenetAlargescaleh319"
+      ],
+      "identity_sha256": "e383f4b891a216ea81bfd0373811fc5d0811b615c81600350853d1bcff3904d7"
+    },
+    {
+      "key": "DepartmentScienceInnovation2025PrimeMinisterSets",
+      "aliases": [
+        "PrimeMinistersetsout451"
+      ],
+      "identity_sha256": "5ee09f3906e9d8a54e22e57ec9ab546acb28c5180cf20359ff56458a5c2efac9"
+    },
+    {
+      "key": "Derczynski2024GarakFrameworkSecurity",
+      "aliases": [
+        "garakAFrameworkforSe257"
+      ],
+      "identity_sha256": "80baffa2bbe3329ec75bfffa8fa21c4029a7909eede1a98451ac30bd966b03fc"
+    },
+    {
+      "key": "Devlin2019BertPreTraining",
+      "aliases": [
+        "BERTPreTrainingofDee093"
+      ],
+      "identity_sha256": "4c1b84b7a4ae068e9347fd46eb0872b474fc82bac25288911886598615007d3d"
+    },
+    {
+      "key": "DeWynter2023EvaluationLargeLanguage",
+      "aliases": [
+        "Anevaluationonlargel058"
+      ],
+      "identity_sha256": "7b99aa94269add06dfb4d41396cfc132145325a03932873f5adf68bd5d0970fc"
+    },
+    {
+      "key": "Dhamala2021BoldDatasetMetrics",
+      "aliases": [
+        "BOLDDatasetandMetric102"
+      ],
+      "identity_sha256": "3f35cabbe7174dd25e47c4a8dcb5a3d9a37a7ae4952e6284a773c2c123cd6d72"
+    },
+    {
+      "key": "Dietterich1995MachineLearningBias",
+      "aliases": [
+        "MachineLearningBiasS374"
+      ],
+      "identity_sha256": "22b9e07a661479830a0501b4cbc24a1d0a8f1c33bddba3aeeecae248ed7bf200"
+    },
+    {
+      "key": "Dignum2019ResponsibleArtificialIntelligence",
+      "aliases": [
+        "ResponsibleArtificia495"
+      ],
+      "identity_sha256": "253fd0c648a1a0ca00103eaa5bbb85655b25c3cc474234468f08b48f3d6ef9dd"
+    },
+    {
+      "key": "Dobbe2021HardChoicesArtificial",
+      "aliases": [
+        "Hardchoicesinartific295"
+      ],
+      "identity_sha256": "77b12e9b7670edf6f941770f8da28d651bbfa907d75756933a8a0ce7641bb65b"
+    },
+    {
+      "key": "Doctorow2025EnshittificationWhyEverything",
+      "aliases": [
+        "EnshitificationWhyEv196"
+      ],
+      "identity_sha256": "3120b7963d7552f4518379b3e2e3f0f47b256bf345bd77f2e7a5a218954bea9d"
+    },
+    {
+      "key": "Doddington1998SheepGoatsLambs",
+      "aliases": [
+        "SHEEPGOATSLAMBSandWO509"
+      ],
+      "identity_sha256": "c0a5b78db250b546c3898cc6f20d6a084439438dfc917101ccf07af7d7de5bda"
+    },
+    {
+      "key": "Dodge2019ShowYourWork",
+      "aliases": [
+        "ShowYourWorkImproved510"
+      ],
+      "identity_sha256": "f7f1440ed4d157a089aa39aed8e54b210c386bbfd23e9a8b376c6d4a65eb2f17"
+    },
+    {
+      "key": "Donia2021CoDesignEthical",
+      "aliases": [
+        "Codesignandethicalar121"
+      ],
+      "identity_sha256": "a62ccf1cca86fa1e5fed517af7fd842337217bea7b5d9879d7137f53b4cc4e50"
+    },
+    {
+      "key": "Donoho201750YearsData",
+      "aliases": [
+        "50YearsofDataScience001"
+      ],
+      "identity_sha256": "d64557b6953bde5455b280ac70fe7937e5fe91ff1acc216264c10cce9d62c7b7"
+    },
+    {
+      "key": "Dorn2024HarmfulSpeechDetection",
+      "aliases": [
+        "Harmfulspeechdetecti296"
+      ],
+      "identity_sha256": "f5b9efeaa90b4c519cd0dee7521ea32622e0ee54d9a4a352a865257a6d338827"
+    },
+    {
+      "key": "DoshiVelez2017TowardsRigorousScience",
+      "aliases": [
+        "TowardsaRigorousScie601"
+      ],
+      "identity_sha256": "6ee20dce6095712e6a4fc67ee9e06a78b3e1bb7076ba127f78c4922cccd0721b"
+    },
+    {
+      "key": "Duan2024DoMembershipInference",
+      "aliases": [
+        "Domembershipinferenc181"
+      ],
+      "identity_sha256": "55a3670b4ca9397782f9f956260af4f369da416bfd13d28a84206c508003e073"
+    },
+    {
+      "key": "Duran2022InterAnnotatorAgreement",
+      "aliases": [
+        "Interannotatoragreem326"
+      ],
+      "identity_sha256": "c135357ec3394d0b767ab8ca3edf507f535ac1ebf054c54d209daea13438078e"
+    },
+    {
+      "key": "Dwork2012FairnessThroughAwareness",
+      "aliases": [
+        "FairnessThroughAware233"
+      ],
+      "identity_sha256": "d2b7cef8df07a74371f1e602687eb0658402a42c328803472d5fbc0a823e4a8b"
+    },
+    {
+      "key": "Eckert2001StyleSociolinguisticVariation",
+      "aliases": [
+        "Styleandsociolinguis532"
+      ],
+      "identity_sha256": "c2be980c4d48766cd761fcaac5a3a0472fedca6ff14ce80fa1400d24b958d87b"
+    },
+    {
+      "key": "Ekstrand2019FairnessDiscriminationRetrieval",
+      "aliases": [
+        "FairnessandDiscrimin229"
+      ],
+      "identity_sha256": "93873bef40f34931e531870a35b4f105b5ad55264ffa4b72014278d51de6741d"
+    },
+    {
+      "key": "Ekstrand2022FairnessInformationAccess",
+      "aliases": [
+        "FairnessinInformatio232"
+      ],
+      "identity_sha256": "e0002c15615fad2ea3f12b42c92913c642e1ddc0c11b90b4c7979ab3944f63ae"
+    },
+    {
+      "key": "Elith2008WorkingGuideBoosted",
+      "aliases": [
+        "AWorkingGuidetoBoost030"
+      ],
+      "identity_sha256": "8ee2602023e12e04d0dec31675fd57a3479fd3337cbd6b7d2734b39e4ffc0407"
+    },
+    {
+      "key": "ElMhamdi2023ImpossibleSafetyLarge",
+      "aliases": [
+        "OntheImpossibleSafet419"
+      ],
+      "identity_sha256": "b9a1078b785b2d96d0dccebd5bff64e7605cb31079b7abb556f696a084ffe15e"
+    },
+    {
+      "key": "Elmqvist2009HierarchicalAggregationInformation",
+      "aliases": [
+        "HierarchicalAggregat298"
+      ],
+      "identity_sha256": "db48c4fddf2bb3152e87c695296d083cf83ee656b943d1cf87c53ccfe250e950"
+    },
+    {
+      "key": "EmbraceRed2023BingChatData",
+      "aliases": [
+        "BingChatDataExfiltra100"
+      ],
+      "identity_sha256": "6a3af5c29019758b847580d57f93b4feabdbd64ba0eec050c17192b52363dd70"
+    },
+    {
+      "key": "Erickson2025TabarenaLivingBenchmark",
+      "aliases": [
+        "TabArenaALivingBench545"
+      ],
+      "identity_sha256": "3e095effd91be7cda8e15e632e9bcdc5545375391d2424840a43b6b5b9a6b50f"
+    },
+    {
+      "key": "Eriksson2025CanWeTrust",
+      "aliases": [
+        "CanWeTrustAIBenchmar110"
+      ],
+      "identity_sha256": "63ce1e7fb9f4fe90a6952901c34448b857211cb08960918af4f631ca542486fe"
+    },
+    {
+      "key": "Escher2024CodeIfyingLaw",
+      "aliases": [
+        "CodeifyingtheLawHowD122"
+      ],
+      "identity_sha256": "58a0a351c247786953aa12350353457e247506dc56ecb81348b612992f9f6eab"
+    },
+    {
+      "key": "EuropeanCentralBank2025EcbGuideInternal",
+      "aliases": [
+        "ECBGuidetoInternalMo190"
+      ],
+      "identity_sha256": "0e071fe1713be49bc082d442d66e4fc72037ebc0a39bbc6fcdc3171877f401e5"
+    },
+    {
+      "key": "EuropeanUnion2024ArtificialIntelligenceAct",
+      "aliases": [
+        "ArtificialIntelligen073"
+      ],
+      "identity_sha256": "6675755c1d06085838c2f237886475e29b86ef3f2be2c7942ada66e51083dcf0"
+    },
+    {
+      "key": "Farrell2025LargeAiModels",
+      "aliases": [
+        "LargeAImodelsarecult355"
+      ],
+      "identity_sha256": "dc8374d614a48fe36aa405d6f625910e08e1df1a7d8a51432461d695af1ba7a9"
+    },
+    {
+      "key": "FederalHousingFinance2013ModelRiskManagement",
+      "aliases": [
+        "ModelRiskManagementG398"
+      ],
+      "identity_sha256": "8faf4469e1c9af3af501aac993bc23faa9548ce0423510467b3e08a925034a85"
+    },
+    {
+      "key": "FederalHousingFinance2022AdvisoryBulletin2022",
+      "aliases": [
+        "AdvisoryBulletin2022037"
+      ],
+      "identity_sha256": "5959f16d80da0b5bd907c8f6ceade0cbe2405f92d08323c58d54d9c83886adc0"
+    },
+    {
+      "key": "Feldman2015CertifyingRemovingDisparate",
+      "aliases": [
+        "CertifyingandRemovin112"
+      ],
+      "identity_sha256": "5ae9d2b6fce3e43022d29d5d3e98245b5720aee27820d9a022d3667b25c7ef70"
+    },
+    {
+      "key": "Feynman1985SurelyYouRe",
+      "aliases": [
+        "SurelyYoureJokingMrF538"
+      ],
+      "identity_sha256": "b60a36a4e41d88e09e54e8d3c98ad1fe8aad76dffbe340931e704128feccd8aa"
+    },
+    {
+      "key": "Ficklin2020InnovationSpotlightProviding",
+      "aliases": [
+        "InnovationSpotlightP325"
+      ],
+      "identity_sha256": "34ae6e722458ed52c5c4277754943a5bf282e6aa0a714262c17126c6598c61ae"
+    },
+    {
+      "key": "FinancialIndustryRegulatory2020ArtificialIntelligenceSecurities",
+      "aliases": [
+        "ArtificialIntelligen075"
+      ],
+      "identity_sha256": "047f71e6bd5fb5329a565f171e62431635c6b755eec9070db8135aecbb52366d"
+    },
+    {
+      "key": "Fleiss1971MeasuringNominalScale",
+      "aliases": [
+        "Measuringnominalscal389"
+      ],
+      "identity_sha256": "78b1590f35f29193c4cc15427f3d63f743fa79377b991690b37d6ccd32525047"
+    },
+    {
+      "key": "Flores2016FalsePositivesFalse",
+      "aliases": [
+        "FalsePositivesFalseN236"
+      ],
+      "identity_sha256": "4e675b3126b64dc281c26e2549343f67e08bd169d67a61217faf1c6257e9c06f"
+    },
+    {
+      "key": "Friedler2019AssessingLocalInterpretability",
+      "aliases": [
+        "AssessingtheLocalInt082"
+      ],
+      "identity_sha256": "68ef58d9fb441e6039e936c52c6be9944e2c1a8672da4bfb5070b0a0f56cecc4"
+    },
+    {
+      "key": "Friedler2019ComparativeStudyFairness",
+      "aliases": [
+        "AComparativeStudyofF005"
+      ],
+      "identity_sha256": "056d9105fc527b5ac0b21906919fb92e6c06c264e1904afa0320a1c9872e4dd4"
+    },
+    {
+      "key": "Friedman1979TreeStructuredApproach",
+      "aliases": [
+        "ATreestructuredAppro026"
+      ],
+      "identity_sha256": "fa2e06c802dc22451fe78d9c62386d90b7adabde64bab7c27a618e2977bfe946"
+    },
+    {
+      "key": "Friedman1991MultivariateAdaptiveRegression",
+      "aliases": [
+        "MultivariateAdaptive404"
+      ],
+      "identity_sha256": "559976b138d29b5f36215ae2e84e7a8396973b81cf8be8f1e3ed2546ae39c504"
+    },
+    {
+      "key": "Friedman1998AdditiveLogisticRegression",
+      "aliases": [
+        "AdditiveLogisticRegr035"
+      ],
+      "identity_sha256": "e13c988eba46999fd6dc809719ffd086ce497bab583c8a74332bed96835f0cb0"
+    },
+    {
+      "key": "Friedman2001ElementsStatisticalLearning",
+      "aliases": [
+        "TheElementsofStatist565"
+      ],
+      "identity_sha256": "362a680831d62e78287eb6a8b6213244b43c878a5a5b1b94d56cea5b16876c73"
+    },
+    {
+      "key": "Friedman2001GreedyFunctionApproximation",
+      "aliases": [
+        "GreedyFunctionApprox279"
+      ],
+      "identity_sha256": "03a51576a49303ddbe7728dab89ce348c116e4b6ea3ec81ae98abe9effc9f3d9"
+    },
+    {
+      "key": "Friedman2003ValueSensitiveDesign",
+      "aliases": [
+        "ValueSensitiveDesign624"
+      ],
+      "identity_sha256": "9afe02a490f7472fd479697bff3100928a6f16d616a6a2c4d3e14c2b5fab5be1"
+    },
+    {
+      "key": "Friedman2004DiscussionBoostingPapers",
+      "aliases": [
+        "DiscussionofBoosting173"
+      ],
+      "identity_sha256": "900b500652f8050c63203e1be973b0555909b9bcf4564d7f0b1d458dfc2309a1"
+    },
+    {
+      "key": "Friedman2008PredictiveLearningVia",
+      "aliases": [
+        "PredictiveLearningVi446"
+      ],
+      "identity_sha256": "88bdd8c5329fcbf6f8780a427669eeeb651a698b32f208619ef5577c340b54eb"
+    },
+    {
+      "key": "Friedman2009RegularizationPathsGeneralized",
+      "aliases": [
+        "RegularizationPathsf490"
+      ],
+      "identity_sha256": "398923cb17bc46372dd91410b6076af86568111d1ff3fd7c1783c2a1e2df82cb"
+    },
+    {
+      "key": "FrontierModelForum2023FrontierModelForum",
+      "aliases": [
+        "FrontierModelForumWh255"
+      ],
+      "identity_sha256": "212a94e390c171c38cd69f2cb49886d06583b278aeb5a3a1d49298ae293760b5"
+    },
+    {
+      "key": "Frye2020AsymmetricShapleyValues",
+      "aliases": [
+        "AsymmetricShapleyVal084"
+      ],
+      "identity_sha256": "4484191d93690ca803d9ad40cedf79e9f543557a3a9bd30465678a061db03d6c"
+    },
+    {
+      "key": "Gal2016DropoutBayesianApproximation",
+      "aliases": [
+        "DropoutasaBayesianAp187"
+      ],
+      "identity_sha256": "37483f050c85a1f0eae4f8fdf1362d068874d58cc0b309b6cfca9533bba909cf"
+    },
+    {
+      "key": "Gallegos2024BiasFairnessLarge",
+      "aliases": [
+        "BiasandFairnessinLar099"
+      ],
+      "identity_sha256": "84f0d7b40c5ef9c39cc471deb340f811ddd9ed8192271276a706679d3d966596"
+    },
+    {
+      "key": "GallupndAmericansUseAi",
+      "aliases": [
+        "AmericansUseAIinEver054"
+      ],
+      "identity_sha256": "60277d3118a6ac54bf16e463226e856396eddc53d3df6b80a59e2bb39d4a81a0"
+    },
+    {
+      "key": "Ganguli2022RedTeamingLanguage",
+      "aliases": [
+        "RedTeamingLanguageMo482"
+      ],
+      "identity_sha256": "299cca38670b9f06acbbb26274a8c8820ce6ddb3a5445a294c0db7938a74f4d4"
+    },
+    {
+      "key": "Gao2021FrameworkFewShot",
+      "aliases": [
+        "AFrameworkforFewShot008"
+      ],
+      "identity_sha256": "9d20dfc938218b42204b9e1d3e407b5f207a6343869fa72ff98cc4f9957dc0c1"
+    },
+    {
+      "key": "Gebru2021DatasheetsDatasets",
+      "aliases": [
+        "DatasheetsforDataset148"
+      ],
+      "identity_sha256": "8a7a2e3ca553889962f5a81d06502b94439fafba5860d404c30cf9c76866f15e"
+    },
+    {
+      "key": "Gehman2020RealtoxicitypromptsEvaluatingNeural",
+      "aliases": [
+        "RealtoxicitypromptsE481"
+      ],
+      "identity_sha256": "e0a82a2b742036238612594c41e152f9d80079e0698823a6723ffe614d3748a1"
+    },
+    {
+      "key": "GhanindDealingBiasFairness",
+      "aliases": [
+        "DealingwithBiasandFa149"
+      ],
+      "identity_sha256": "b0dd0a0d9c27191576422baacac6d06a991cb44c9c2f7f7d3b0958e76a279c33"
+    },
+    {
+      "key": "Giancoli2008PhysicsScientistsEngineers",
+      "aliases": [
+        "PhysicsforScientists434"
+      ],
+      "identity_sha256": "4ef80fb76d318cd56f4583f8321eb7e3fabab608edabff489e9e2d3ff4a72926"
+    },
+    {
+      "key": "Gill2020ResponsibleMachineLearning",
+      "aliases": [
+        "AResponsibleMachineL015"
+      ],
+      "identity_sha256": "b7189799fef6a10777d73a4fcf9b788d9b193fe319401e6b00a2fce5bc1ea176"
+    },
+    {
+      "key": "Gillespie2025TrustAttitudesUse",
+      "aliases": [
+        "Trustattitudesanduse609"
+      ],
+      "identity_sha256": "8e1eaf0ac201bde534bd6a7cfcd6d0044f3f5cc06ed440a006a3aa69cc4604f9"
+    },
+    {
+      "key": "Gillies2016HumanCentredMachine",
+      "aliases": [
+        "HumanCentredMachineL311"
+      ],
+      "identity_sha256": "7075171659f270f741b2757b768e2438fb3d75cfaa1731393cffbb942fded41f"
+    },
+    {
+      "key": "Gilpin2018ExplainingExplanationsApproach",
+      "aliases": [
+        "ExplainingExplanatio214"
+      ],
+      "identity_sha256": "f22894d0249ce7a5db15e399852760fbb387813fd65b18b59a234c5bf2d20e08"
+    },
+    {
+      "key": "Goldstein2015PeekingInsideBlack",
+      "aliases": [
+        "PeekingInsidetheBlac431"
+      ],
+      "identity_sha256": "32867e3dc3ae8a95637d68def705a74ce340fa0150f607b3a6fc16635afa08ec"
+    },
+    {
+      "key": "Goodfellow2013MaxoutNetworks",
+      "aliases": [
+        "Maxoutnetworks385"
+      ],
+      "identity_sha256": "ac94fc68e82b2dbfe169eb6f4773aa535fd6863b5e5e93e563d4b82b54a23fdb"
+    },
+    {
+      "key": "Goodhart1984ProblemsMonetaryManagement",
+      "aliases": [
+        "Problemsofmonetaryma455"
+      ],
+      "identity_sha256": "0bf42fe01528c0a1ecc861d30ea2c015b4b68c9d37b89119cc12477a9a965b00"
+    },
+    {
+      "key": "GooglePeopleAi2019PeopleAiGuidebook",
+      "aliases": [
+        "PeopleAIGuidebook433"
+      ],
+      "identity_sha256": "30c01ddccc02a42e7f6f0c1ed591896e879f0db5f3712dcb81ca9b575e521edc"
+    },
+    {
+      "key": "Gopinathan1998FraudDetectionUsing",
+      "aliases": [
+        "FraudDetectionusingP249"
+      ],
+      "identity_sha256": "43aedb2c8583199e63879e6e9d91aa2ef73cba41627bd7613b57cc3553119f3d"
+    },
+    {
+      "key": "Gosiewska2019SafeMlSurrogate",
+      "aliases": [
+        "SAFEMLSurrogateAssis500"
+      ],
+      "identity_sha256": "677d1f5f9920294388a2b329dd12a07b09a72e1c6801edad2a641d4a1379712a"
+    },
+    {
+      "key": "Grari2019FairAdversarialGradient",
+      "aliases": [
+        "FairAdversarialGradi226"
+      ],
+      "identity_sha256": "7b6b486e1561f17ca9d86388cf3062dc1cf71e00320394ccfaab8c543ff0954c"
+    },
+    {
+      "key": "Graydon2025ExaminingProposedUses",
+      "aliases": [
+        "ExaminingProposedUse209"
+      ],
+      "identity_sha256": "12bade8b3c71eae82d2b33b5487536c24b9199eeca7c7ae658e3ba3043b46c71"
+    },
+    {
+      "key": "Greenberg2025BranchingOutBroadening",
+      "aliases": [
+        "BranchingOutBroadeni103"
+      ],
+      "identity_sha256": "8363757efdfa641788145cc7df6812fa783caf9daf656ab88b6e0ef703ff7a56"
+    },
+    {
+      "key": "Greshake2023MoreThanYou",
+      "aliases": [
+        "Morethanyouveaskedfo401"
+      ],
+      "identity_sha256": "d0d74532a7075583ce5991fc563c208f4fc27bfa49b7778c8fed4286a7b95b50"
+    },
+    {
+      "key": "Greshake2023NotWhatYou",
+      "aliases": [
+        "Notwhatyouvesignedup411"
+      ],
+      "identity_sha256": "60a095dd841f0aeb449a3cbdbfe4ef46e2b95ae204f6801062a13eec185a0336"
+    },
+    {
+      "key": "Grother2022DraftPublicComment",
+      "aliases": [
+        "DraftforPublicCommen185"
+      ],
+      "identity_sha256": "83bb2ccfb877da0ceb02dee2c141225934a38936251493ff648400870198c80a"
+    },
+    {
+      "key": "Guidotti2018SurveyMethodsExplaining",
+      "aliases": [
+        "ASurveyofMethodsforE020"
+      ],
+      "identity_sha256": "924b25d1728bcac21d61cf77ad4e33406537f40f209577fbea558d499adf8e15"
+    },
+    {
+      "key": "Gupta2016MonotonicCalibratedInterpolated",
+      "aliases": [
+        "MonotonicCalibratedI400"
+      ],
+      "identity_sha256": "6533ec96aa8b6b9e10cdc699d8e06d0e9e5e4d7e2d347d80ee723bbbbf53c4da"
+    },
+    {
+      "key": "Gwet2002InterRaterReliability",
+      "aliases": [
+        "Interraterreliabilit327"
+      ],
+      "identity_sha256": "fdefea9b49a1892f8e4408d8027b834121b820f4a4d753c4223bf12dac572d25"
+    },
+    {
+      "key": "H2oAiTeam2015H2oDocumentation",
+      "aliases": [
+        "H2Odocumentation283"
+      ],
+      "identity_sha256": "303e59814f3615a6d78375c7af9b489b32e4c78de3b26c2bcadaf6c9867cda8c"
+    },
+    {
+      "key": "H2oAiTeam2015H2oGithubRepositoryx20e55da8",
+      "aliases": [
+        "H2OGitHubrepositoryf285"
+      ],
+      "identity_sha256": "20e55da82a382b9c94469618dd3e81c7f569e6edfebce619aef66d0fc2221063"
+    },
+    {
+      "key": "H2oAiTeam2015H2oGithubRepositoryx32d4d520",
+      "aliases": [
+        "H2OGitHubRepository284"
+      ],
+      "identity_sha256": "32d4d52062a8c5019ecd7b3dd69b02659978d76666afcb814d11d5ac5ccd5c00"
+    },
+    {
+      "key": "H2oAiTeam2015H2oPythonDocumentation",
+      "aliases": [
+        "H2OPythonDocumentati287"
+      ],
+      "identity_sha256": "1da23633aaf8864361c5a58649c4dbb0fc182f0a14fc88f6b3c1b2830d990e9b"
+    },
+    {
+      "key": "H2oAiTeam2015H2oPythonInterface",
+      "aliases": [
+        "h2oPythonInterfacefo290"
+      ],
+      "identity_sha256": "ff3a7748b16226f4685040e4f985cdee055dcb692e5f2ec964daf2af56ec5314"
+    },
+    {
+      "key": "H2oAiTeam2015H2oRInterface",
+      "aliases": [
+        "h2oRInterfaceforH2O291"
+      ],
+      "identity_sha256": "e952aef429ae2170963e2d0a0d01c2ae81f751e8fc2c5061455a006547bfc4c7"
+    },
+    {
+      "key": "H2oAiTeam2015H2oRPackage",
+      "aliases": [
+        "H2ORPackageDocumenta288"
+      ],
+      "identity_sha256": "adea0b39292ae0fda3eb90c12bc2e0161aebbf61c12c3708139d5bbc4d8c8d61"
+    },
+    {
+      "key": "H2oAiTeam2015H2oScalableMachine",
+      "aliases": [
+        "H2OScalableMachineLe292"
+      ],
+      "identity_sha256": "0a42b6fe495971ec34e7e3d0e1b80e0a384adc680afb36e85e13dff65fd3da6e"
+    },
+    {
+      "key": "HackFuture2023GenerativeRedTeam",
+      "aliases": [
+        "GenerativeRedTeamCha266"
+      ],
+      "identity_sha256": "dc0fd29635bfed0b64b629cc35ed7cfc69443a62ad84dc117df8699babd2757e"
+    },
+    {
+      "key": "Haidt2024AnxiousGenerationHow",
+      "aliases": [
+        "TheAnxiousGeneration555"
+      ],
+      "identity_sha256": "e22ceecc605e8ddcd99639d8b938cf74f955ee75e7ae0e5daa4d2bf57209a7b4"
+    },
+    {
+      "key": "Hall2014OverviewMachineLearning",
+      "aliases": [
+        "AnOverviewofMachineL061"
+      ],
+      "identity_sha256": "1c7219c8572c27ff1d9daccbbeba7bc2b75ea6ca2e1c9028ac4bac691845e364"
+    },
+    {
+      "key": "Hall2016EfficientPatternRecognition",
+      "aliases": [
+        "AnEfficientPatternRe056"
+      ],
+      "identity_sha256": "4793f529a1713ac8e07e94401aa7d1bdca0e9a75995fbbf0c52ff0c408554b2a"
+    },
+    {
+      "key": "Hall2016EvolutionAnalytics",
+      "aliases": [
+        "TheEvolutionofAnalyt566"
+      ],
+      "identity_sha256": "fcde3ec445f6ba4e246ae5dc312cdf51a7c637ef67d39d534cc1bcaba4eaac91"
+    },
+    {
+      "key": "Hall2016PredictiveModelingStriking",
+      "aliases": [
+        "PredictiveModelingSt447"
+      ],
+      "identity_sha256": "ef4c2603fd298809f8f82c5125af1b467bc5fab697a905b4e6383109ed05d02d"
+    },
+    {
+      "key": "Hall2016PreoccupationTestError",
+      "aliases": [
+        "ThePreoccupationwith583"
+      ],
+      "identity_sha256": "32aa72ddf5fea92bb06e2b8d516e44f7248f8dbf4878502303624b0eee9e657d"
+    },
+    {
+      "key": "Hall2017DebuggingBlackBox",
+      "aliases": [
+        "DebuggingtheBlackBox153"
+      ],
+      "identity_sha256": "6a6f25051bad2b27f128f03a8edeb9da1701ca5fc1d8be5d612659cc27a392c9"
+    },
+    {
+      "key": "Hall2017IdeasInterpretingMachine",
+      "aliases": [
+        "IdeasonInterpretingm313"
+      ],
+      "identity_sha256": "7c025c30c5e7b8c6b7ddcefdc168592a15dc494cdb64976a0922f23a25abae62"
+    },
+    {
+      "key": "Hall2017MachineLearningInterpretability",
+      "aliases": [
+        "MachineLearningInter377"
+      ],
+      "identity_sha256": "e67a720d862fa8e8f46e7547c89e92cfe12530f174d5e1d12e399fb9c29591aa"
+    },
+    {
+      "key": "Hall2017UsingH2oDriverless",
+      "aliases": [
+        "UsingH2ODriverlessAI620"
+      ],
+      "identity_sha256": "c970ac41e608754f4941271ddb48e9a10d308122aa1e1a89efe5245b27a8fb9c"
+    },
+    {
+      "key": "Hall2018TestingMachineLearning",
+      "aliases": [
+        "TestingMachineLearni552"
+      ],
+      "identity_sha256": "c92b9d5f3bf0ec49ca855e06660b99bf5ff65a39252033f7b9779b05fb030e19"
+    },
+    {
+      "key": "Hall2019ArtScienceMachine",
+      "aliases": [
+        "OntheArtandScienceof416"
+      ],
+      "identity_sha256": "a9c6b8a113f32843b1ff7b74c790674dfef5a0b881404d24575e77402ff9306c"
+    },
+    {
+      "key": "Hall2019GuidelinesResponsibleUse",
+      "aliases": [
+        "GuidelinesfortheResp281"
+      ],
+      "identity_sha256": "b439b050f4df48c2f8c6e4c5592ecc0c5a00c35e745852832bc91b43293dcc77"
+    },
+    {
+      "key": "Hall2019IntroductionMachineLearning",
+      "aliases": [
+        "AnIntroductiontoMach060"
+      ],
+      "identity_sha256": "268b5c7a5d3e0da318d0c45ebfe703f839070cf4ca8b42b7a3fce698c990ca94"
+    },
+    {
+      "key": "Hall2019ProposalsModelVulnerability",
+      "aliases": [
+        "ProposalsforModelVul463"
+      ],
+      "identity_sha256": "9f4ffaaba70bced96c37648d77337d95279deb41f2bce03c37eefa7c2bd0bdbd"
+    },
+    {
+      "key": "Hall2019ProposedGuidelinesResponsible",
+      "aliases": [
+        "ProposedGuidelinesfo464"
+      ],
+      "identity_sha256": "f7309673678f7b5428d910b33683928b476bbbc14402f8e00d2f41b3a55105de"
+    },
+    {
+      "key": "Hall2019RealWorldStrategies",
+      "aliases": [
+        "RealworldStrategiesf479"
+      ],
+      "identity_sha256": "0511c05888f0a71373329fae3ac8940d490e025bc6120d1c1b3b248c23399438"
+    },
+    {
+      "key": "Hall2019WhyYouShould",
+      "aliases": [
+        "WhyYouShouldCareAbou639"
+      ],
+      "identity_sha256": "06df3bb57bd1fc520f0a701f32dd46fdd59637e3caa2b12ec9b6f876bd2c7af7"
+    },
+    {
+      "key": "Hall2020BuildYourAi",
+      "aliases": [
+        "BuildYourAIIncidentR104"
+      ],
+      "identity_sha256": "f4e435611d0c5695d4d14d4dafdf04e59ad2c7bc65d5c60e756e9bcb254090d8"
+    },
+    {
+      "key": "Hall2020ExplainingMachineLearning",
+      "aliases": [
+        "ExplainingMachineLea216"
+      ],
+      "identity_sha256": "031c12037ab7d7c5c7c105ea31e044b78276d59568c5df9c3314997e7e0acdd1"
+    },
+    {
+      "key": "Hall2020GlmGbmPart",
+      "aliases": [
+        "FromGLMtoGBMPart2How251"
+      ],
+      "identity_sha256": "8d501d8c35552d9d5989872d924929ee8207724d9de9ad3893c6f9ffa69966d7"
+    },
+    {
+      "key": "Hall2020MachineLearningConsiderations",
+      "aliases": [
+        "MachineLearningConsi378"
+      ],
+      "identity_sha256": "a8a49dc9656d50e4590ccef75d9a7d1cab8bb179c1e235c4607708eac7d8a8d3"
+    },
+    {
+      "key": "Hall2020ResponsibleMachineLearning",
+      "aliases": [
+        "ResponsibleMachineLe496"
+      ],
+      "identity_sha256": "4e37a9e55975b9e844ebabc50a465b84b57919f60c1d0c1e04d730da7c7dedec"
+    },
+    {
+      "key": "Hall2020SampleAiIncident",
+      "aliases": [
+        "SampleAIIncidentResp501"
+      ],
+      "identity_sha256": "c799523babced5d4c43eea121e5a2073c4b18d058bb06a574f63181f0792aa31"
+    },
+    {
+      "key": "Hall2021SevenLegalQuestions",
+      "aliases": [
+        "SevenLegalQuestionsf508"
+      ],
+      "identity_sha256": "e1ec3f9627da885d827fa7fb514db778818eab236f90196557abf60e4c8d1601"
+    },
+    {
+      "key": "Hall2021UnitedStatesFair",
+      "aliases": [
+        "AUnitedStatesFairLen028"
+      ],
+      "identity_sha256": "986e19d263aa0078caac0df44264e243b0dd180c91a87adbe619380b456d3b85"
+    },
+    {
+      "key": "Hall2022DataScientificMethod",
+      "aliases": [
+        "TheDataScientificMet563"
+      ],
+      "identity_sha256": "8173adb954cbd0e040a7eb98c4fa7f729d0c155d6c91db6fe031733f79dd8180"
+    },
+    {
+      "key": "Hall2022WhatWeLearned",
+      "aliases": [
+        "WhatWeLearnedAuditin632"
+      ],
+      "identity_sha256": "0df2348901b6ea23d6de9468e56eb1da1cac4f0642088270d6bc1926dd5927b2"
+    },
+    {
+      "key": "Hall2023MachineLearningHigh",
+      "aliases": [
+        "MachineLearningforHi376"
+      ],
+      "identity_sha256": "d8080a02c52347d7be2b01f44fc615f6ea032da617880655b467648e18032b26"
+    },
+    {
+      "key": "Hall2024AwesomeMachineLearning",
+      "aliases": [
+        "AwesomeMachineLearni088"
+      ],
+      "identity_sha256": "c80dbfb415b5cabf4b00efdcb623d46035f1361f6aa431fa3c4b6506f732fed9"
+    },
+    {
+      "key": "Hall2024GenerativeAiRisk",
+      "aliases": [
+        "GenerativeAIRiskMana264"
+      ],
+      "identity_sha256": "a6f5a620cfcf151d0b22e8e5b245b34abb3aac66ef9be75c92bd9a6f00032320"
+    },
+    {
+      "key": "Handa2025WhichEconomicTasks",
+      "aliases": [
+        "WhichEconomicTasksar634"
+      ],
+      "identity_sha256": "e92107578fa61b37b8888b42a65619b605954bb2be00bbcc444dc3c6ff32c2de"
+    },
+    {
+      "key": "Hansson2014RiskAnalysisScientific",
+      "aliases": [
+        "Isriskanalysisscient339"
+      ],
+      "identity_sha256": "77423facf58b173443c5d86ced200f2cef622c06af133528d419bdaca90a914e"
+    },
+    {
+      "key": "Hanu2020Detoxify",
+      "aliases": [
+        "Detoxify169"
+      ],
+      "identity_sha256": "626307c5256d317e0547686b9c725e605e4e61814431df83712c47f03ba7849c"
+    },
+    {
+      "key": "Hao2025EmpireAiDreams",
+      "aliases": [
+        "EmpireofAIDreamsandN193"
+      ],
+      "identity_sha256": "daa604e586fd311f1928ce3ce6a553ae060ff5acf5e15943f19ffabf3e0e52b0"
+    },
+    {
+      "key": "Hardt2016EqualityOpportunitySupervised",
+      "aliases": [
+        "EqualityofOpportunit197"
+      ],
+      "identity_sha256": "6abddaa22a22f2a3fedcdf7b57f3fce799e9c41e128c56209dfd9304955df638"
+    },
+    {
+      "key": "Hasan2022AlgorithmicBiasRisk",
+      "aliases": [
+        "AlgorithmicBiasandRi051"
+      ],
+      "identity_sha256": "30b901b8cd73b08d67b0b32f7a661c55341a9f99c4c10b96175d20590c9e2639"
+    },
+    {
+      "key": "Hayes2007AnsweringCallStandard",
+      "aliases": [
+        "Answeringthecallfora066"
+      ],
+      "identity_sha256": "47e0f04e6f846d6bc51607f8ecbe8a537101b80d478139bc64d82d57ccc16d5d"
+    },
+    {
+      "key": "He2015DeepResidualLearning",
+      "aliases": [
+        "DeepResidualLearning161"
+      ],
+      "identity_sha256": "523012b90ec3d4409fb79c676f3c05a601a43acaba795cc5b774c276753cbbed"
+    },
+    {
+      "key": "Henderson2018DeepReinforcementLearning",
+      "aliases": [
+        "DeepReinforcementLea160"
+      ],
+      "identity_sha256": "24183362202f907666b2255e3bd608da90d990bd7d7c437b9827d83b19b76848"
+    },
+    {
+      "key": "Hendrycks2021MeasuringMassiveMultitask",
+      "aliases": [
+        "MeasuringMassiveMult388"
+      ],
+      "identity_sha256": "2e84a8687716d8f1393b190c2d3117e805e1c3b4871fe0c5b9f10562e1c6c2d2"
+    },
+    {
+      "key": "HernandezOrallo2017EvaluationArtificialIntelligence",
+      "aliases": [
+        "Evaluationinartifici205"
+      ],
+      "identity_sha256": "ad51fc051a696a12c29fd57baa2f9d4534bb1217986aadfc51457c2bdc1cd40e"
+    },
+    {
+      "key": "Hinton2006ReducingDimensionalityData",
+      "aliases": [
+        "ReducingtheDimension487"
+      ],
+      "identity_sha256": "25e89aa16f1bc8a301821407cd2747f9463c38c8949a5d1e5cfc9258fa1d3718"
+    },
+    {
+      "key": "Hinton2012ImprovingNeuralNetworks",
+      "aliases": [
+        "Improvingneuralnetwo321"
+      ],
+      "identity_sha256": "ee9ab1a5b57c1ab73c6a5b7be7ee24a4b92ae3cab6d31ac66c844e8b3e424ff6"
+    },
+    {
+      "key": "Hirshorn2017NasaSystemsEngineering",
+      "aliases": [
+        "NASASystemsEngineeri405"
+      ],
+      "identity_sha256": "2f2b1b0d5aa758e383da3b840130c2464a64fde29e628af2978c04c13a544055"
+    },
+    {
+      "key": "Hoare19811980AcmTuring",
+      "aliases": [
+        "The1980ACMTuringAwar554"
+      ],
+      "identity_sha256": "55d69c3f11cf2fb68175a4176e3785334bb84f1192aa8aa2ad978ba4b025e540"
+    },
+    {
+      "key": "Hoes2025ExistentialRiskNarratives",
+      "aliases": [
+        "Existentialrisknarra211"
+      ],
+      "identity_sha256": "6a8cb75f86aa7d65cb3d6848c82681f00783038af58fa83a33c5c7afbae521a7"
+    },
+    {
+      "key": "Hoffmann2023AddingStructureAi",
+      "aliases": [
+        "AddingStructuretoAIH034"
+      ],
+      "identity_sha256": "a5e814d5604387caafadcd9e559cc82c0e0ca420ca424abe28ba944ef13f27bf"
+    },
+    {
+      "key": "Hofmann2024AiGeneratesCovertly",
+      "aliases": [
+        "AIgeneratescovertlyr044"
+      ],
+      "identity_sha256": "f78a32388c48d4cdb7c3ad4a100634166917e24d069e001b9b3b4ce95c57006c"
+    },
+    {
+      "key": "Holdaway2016SurfaceReservoirCharacteristics",
+      "aliases": [
+        "SurfaceReservoirChar539"
+      ],
+      "identity_sha256": "ff0389718b9791972f7007550d28b743a603936a45904d53096988c9c1bcea2b"
+    },
+    {
+      "key": "Holen2024WomensAttitudesPerspectives",
+      "aliases": [
+        "Womensattitudesandpe640"
+      ],
+      "identity_sha256": "d18075f4147c1d38fff7a63b4c3b835715c05a53b8566fa42982f9e7628086e5"
+    },
+    {
+      "key": "Holland2020DatasetNutritionLabel",
+      "aliases": [
+        "TheDatasetNutritionL564"
+      ],
+      "identity_sha256": "676c723671aeb43e8dc8a6af40503b65420b907562816ce92440377e2719ea29"
+    },
+    {
+      "key": "Holohan2019DiffprivlibIbmDifferential",
+      "aliases": [
+        "DiffprivlibTheIBMDif171"
+      ],
+      "identity_sha256": "cf0d8156d1df66a91983363ee653431c6cf775fd59cedde60b9e48d305a01d6a"
+    },
+    {
+      "key": "Hu2018LocallyInterpretableModels",
+      "aliases": [
+        "LocallyInterpretable371"
+      ],
+      "identity_sha256": "4f7537bf8ce1318a8dc649b511b38b806ba72ea666710fcf9293f9e0b1311f33"
+    },
+    {
+      "key": "Hu2019OptimalSparseDecision",
+      "aliases": [
+        "OptimalSparseDecisio423"
+      ],
+      "identity_sha256": "535d3d10efe7dd744ff6add428d4943452165add5359c46c05cecb8b233f0b38"
+    },
+    {
+      "key": "Hu2022LoraLowRank",
+      "aliases": [
+        "LoraLowrankAdaptatio372"
+      ],
+      "identity_sha256": "f6e20f62b14390e1553b0518bef3f8634f03393e6318aeb2873071115d01acd6"
+    },
+    {
+      "key": "Huang2008LabeledFacesWild",
+      "aliases": [
+        "Labeledfacesinthewil352"
+      ],
+      "identity_sha256": "7ef60d15f314b6820eaff4f7d68fb4e8647f5a7cc0ec750696038e9b37f31265"
+    },
+    {
+      "key": "Huang2023CatastrophicJailbreakOpen",
+      "aliases": [
+        "CatastrophicJailbrea111"
+      ],
+      "identity_sha256": "007ef20b40a217edf05539162911d0b04ee9969df349450b5638ae9a69d3077c"
+    },
+    {
+      "key": "Huang2024CEvalMulti",
+      "aliases": [
+        "CevalAmultilevelmult106"
+      ],
+      "identity_sha256": "0333a3fd712aff301706e9f20af304d929afc76d7f1521155a282f71c0be3e37"
+    },
+    {
+      "key": "Huang2025SurveyHallucinationLarge",
+      "aliases": [
+        "ASurveyonHallucinati024"
+      ],
+      "identity_sha256": "21a6cf40ba6f90c85d41d9a9e3814558719c800e70b0467ac42ff5a2ff80cd81"
+    },
+    {
+      "key": "Hubinger2025AnthropicResponsibleScaling",
+      "aliases": [
+        "AnthropicResponsible067"
+      ],
+      "identity_sha256": "04aa7c6de3571aa01a1d6bd34ed8641e941bc7c3a42e7ec9afe5d1d456d417e6"
+    },
+    {
+      "key": "HuggingfacendHallucinationsLeaderboard",
+      "aliases": [
+        "HallucinationsLeader294"
+      ],
+      "identity_sha256": "74e2fa1ff2489802a94ee6b0d7473b239a3dfbefb91c702eb6997f8adccf481c"
+    },
+    {
+      "key": "Hulot2020FastTreeAggregation",
+      "aliases": [
+        "FastTreeAggregationf238"
+      ],
+      "identity_sha256": "cd61decab5d1a70b3df214d2e6a142d5a0cf31ff7131b2023ae18b04dfc4f51f"
+    },
+    {
+      "key": "Hunter2019TowardsComputationalPersuasion",
+      "aliases": [
+        "Towardscomputational605"
+      ],
+      "identity_sha256": "d8b8cda621f4f341016e2184875aab80f629a492b1fcfa0d7e910c1f8d74ee85"
+    },
+    {
+      "key": "Hussami2015GeneralizedLinearModeling",
+      "aliases": [
+        "GeneralizedLinearMod260"
+      ],
+      "identity_sha256": "fca5bc6898a1e3999ed13edb76744b536b8ecc240e9484ceb6d4114a46aa70af"
+    },
+    {
+      "key": "Hussein2018SurveySentimentAnalysis",
+      "aliases": [
+        "Asurveyonsentimentan025"
+      ],
+      "identity_sha256": "e5419aa530f9a6e56bacbe745fee7b10937a25f3dc906e8233f82d4adb2ffd36"
+    },
+    {
+      "key": "Hutchby2008ConversationAnalysis",
+      "aliases": [
+        "Conversationanalysis134"
+      ],
+      "identity_sha256": "8812e21e94d23bf67238c98b0f6227ce1c635fff83cbe622dbd9266ba19b5353"
+    },
+    {
+      "key": "Hutchinson201950YearsTest",
+      "aliases": [
+        "50YearsofTestUnFairn002"
+      ],
+      "identity_sha256": "e0eb629befa82f42c1dddc29ae46a0e8186da3e10f6857e95f967c63fc8c6c6a"
+    },
+    {
+      "key": "Hutto2014VaderParsimoniousRule",
+      "aliases": [
+        "VADERAParsimoniousRu622"
+      ],
+      "identity_sha256": "ba9576a1bfcd0909b8ba09688cb51fc7f837774a310546c84ba8a293645c6887"
+    },
+    {
+      "key": "Inan2023LlamaGuardLlm",
+      "aliases": [
+        "LlamaguardLLMbasedin367"
+      ],
+      "identity_sha256": "3b9710f6b2a58d3c07e6f24f6362edaf93bf422abdb95cdf772874c6257c7408"
+    },
+    {
+      "key": "InstituteElectricalElectronics2025IeeeStandardSystem",
+      "aliases": [
+        "IEEEStandardforSyste316"
+      ],
+      "identity_sha256": "432420f766710b1db35213d978aefa326d468abfa5562dca8cbb639a0c003af4"
+    },
+    {
+      "key": "InternationalAssociationPrivacyndGlobalLawPolicy",
+      "aliases": [
+        "GlobalLawandPolicyTr269"
+      ],
+      "identity_sha256": "4a4c06b5acb45751180c333365432efaccb90cf1837be54da80c38046e19fbf2"
+    },
+    {
+      "key": "InternationalBusinessMachinesndIbmDesignAi",
+      "aliases": [
+        "IBMDesignforAI312"
+      ],
+      "identity_sha256": "a0b4e9bc23ae182b4501687d5ecc4e7d57d182c7bb4bed6c3ecab26e5bc4fa14"
+    },
+    {
+      "key": "InternationalOrganizationStandardization2006Iso35341",
+      "aliases": [
+        "ISO353412006Statisti340"
+      ],
+      "identity_sha256": "4b8b8f1ad66fba10a286643e046dd4de547d2f793d0b35a4fd228c8994140d2b"
+    },
+    {
+      "key": "InternationalOrganizationStandardization2015QualityManagementSystemsfundamentals",
+      "aliases": [
+        "Qualitymanagementsys468"
+      ],
+      "identity_sha256": "c12ff74cddc20d94c9e75e460e3686c6f79bd0f70935b21a163827eece170bd1"
+    },
+    {
+      "key": "InternationalOrganizationStandardization2017SystemsSoftwareEngineering",
+      "aliases": [
+        "Systemsandsoftwareen543"
+      ],
+      "identity_sha256": "d2e6e9afd4730f544c12e4fe6d35ce91133f1b6b4aa1b0d86ea1f7ce972c9d2a"
+    },
+    {
+      "key": "InternationalOrganizationStandardization2018ErgonomicsHumanSystem",
+      "aliases": [
+        "Ergonomicsofhumansys198"
+      ],
+      "identity_sha256": "d8b05c9b32f435a01850305336616f0a232aa5cb96ffd964b6355e92a6a1edd3"
+    },
+    {
+      "key": "InternationalOrganizationStandardization2022TrustworthinessVocabulary",
+      "aliases": [
+        "TrustworthinessVocab611"
+      ],
+      "identity_sha256": "2c94dd14ca9d6f2967ecad96c7f72bf4c1c6e07fcc7483d5de2c485b06d37fb1"
+    },
+    {
+      "key": "InternationalOrganizationStandardization2023IsoIec42001",
+      "aliases": [
+        "ISOIEC420012023Artif341"
+      ],
+      "identity_sha256": "c63a2d5c308890e9868aa4e838d06a714c04bb1afb4bd176784fd196a44824f1"
+    },
+    {
+      "key": "InternationalOrganizationStandardization2025IsoIec42005",
+      "aliases": [
+        "ISOIEC420052025Infor342"
+      ],
+      "identity_sha256": "5551525ea2bc91ebdb4710746af7723535556235c335a68d1c9d13eec423c2d2"
+    },
+    {
+      "key": "Ioffe2015BatchNormalizationAccelerating",
+      "aliases": [
+        "BatchNormalizationAc089"
+      ],
+      "identity_sha256": "2f58de85c67420a863d378d1874a0ebbd8986f53e593c789200ab9acabd5f291"
+    },
+    {
+      "key": "Ivanova2023RunningCognitiveEvaluations",
+      "aliases": [
+        "Runningcognitiveeval499"
+      ],
+      "identity_sha256": "e39c5b2af15d4a4f0f0a4b594f6fc202a6ba300e214767e3f56d023ae56c0b2a"
+    },
+    {
+      "key": "Ivanova2024TowardBestResearch",
+      "aliases": [
+        "Towardbestresearchpr598"
+      ],
+      "identity_sha256": "9a0de69318c743579df1de806c080573d783908a9d27a0752975907ef36830fe"
+    },
+    {
+      "key": "Jacobs2021MeasurementFairness",
+      "aliases": [
+        "Measurementandfairne386"
+      ],
+      "identity_sha256": "5186dc4edaaa24440a79afe9128ec3798a70a7502fa8945d51ae4b0b7dc75eca"
+    },
+    {
+      "key": "Jansma2021CoCreationSupport",
+      "aliases": [
+        "Cocreationinsupporto120"
+      ],
+      "identity_sha256": "3435cd69b20c9b6bb96c437522327402f57034bf73b96d5d5b1eeec93aae7df2"
+    },
+    {
+      "key": "Janzing2020FeatureRelevanceQuantification",
+      "aliases": [
+        "FeatureRelevanceQuan240"
+      ],
+      "identity_sha256": "8f1ea93e9487c45b8eac3677eee90f2085d5493418adc414721faa46a287c3d1"
+    },
+    {
+      "key": "Ji2014DifferentialPrivacyMachine",
+      "aliases": [
+        "DifferentialPrivacya170"
+      ],
+      "identity_sha256": "ee359803b5b6f2b9df00dcbef3e9a067ee191bb8b2615ece4504b43bbcf5d965"
+    },
+    {
+      "key": "Ji2023SurveyHallucinationNatural",
+      "aliases": [
+        "Surveyofhallucinatio541"
+      ],
+      "identity_sha256": "82f31d598151e01e21255daab41244b092c555b8c678ef1248db92450fd49893"
+    },
+    {
+      "key": "JointCommitteeGuides2008EvaluationMeasurementData",
+      "aliases": [
+        "EvaluationofMeasurem206"
+      ],
+      "identity_sha256": "7159a7872dba3d9c8a23dd6a9098bb37dd4a64f8c05f0086349d71af57eff743"
+    },
+    {
+      "key": "JointTaskForce2013SecurityPrivacyControls",
+      "aliases": [
+        "SecurityandPrivacyCo505"
+      ],
+      "identity_sha256": "b932f7fcf986e189cc053e5e401128cfa571cdac2b611e7a67f273f61074be5b"
+    },
+    {
+      "key": "Jones2015DiscourseDigitalPractices",
+      "aliases": [
+        "Discourseanddigitalp172"
+      ],
+      "identity_sha256": "23705cb7a16045a53897677a58429f6a47259e317be2b9d97d620db1ca718b5c"
+    },
+    {
+      "key": "Kamiran2012DataPreprocessingTechniques",
+      "aliases": [
+        "DataPreprocessingTec144"
+      ],
+      "identity_sha256": "b9d49d1fd91b722483590b0194d3b67dc4a25a202b1adf83689f6c86298db637"
+    },
+    {
+      "key": "Kamiran2012DecisionTheoryDiscrimination",
+      "aliases": [
+        "DecisionTheoryforDis154"
+      ],
+      "identity_sha256": "ae8c58028a05bc5fd5a2207f52ec1e86faecc08181dcbbade7ec48cff09c1fd6"
+    },
+    {
+      "key": "KangndDebuggingMachineLearning",
+      "aliases": [
+        "DebuggingMachineLear152"
+      ],
+      "identity_sha256": "723fff358195e015457a2a90f9cc73f3a715a7bb01b6ad5a748d7604c13f60d5"
+    },
+    {
+      "key": "Kanter2015DeepFeatureSynthesis",
+      "aliases": [
+        "DeepFeatureSynthesis156"
+      ],
+      "identity_sha256": "adbd3473015eeeb626a0360528e2792559d659ef952526ce889d1516dd8731ba"
+    },
+    {
+      "key": "Kanter2016LabelSegmentFeaturize",
+      "aliases": [
+        "LabelSegmentFeaturiz351"
+      ],
+      "identity_sha256": "78f6a977d62932954dfecd9f5ff42d9b04f56b249e0ea41f10a6286bebc0c7a1"
+    },
+    {
+      "key": "Kantorovich1957MathematicalSymbolismConvenient",
+      "aliases": [
+        "Onamathematicalsymbo414"
+      ],
+      "identity_sha256": "2bd742f4ed54875bd5dae37bc5686afe1c42c3e1b0b7fcc17785095a846ba958"
+    },
+    {
+      "key": "Kapoor2022LeakageReproducibilityCrisis",
+      "aliases": [
+        "LeakageandtheReprodu357"
+      ],
+      "identity_sha256": "f4ce1f405cb1792f41f2626d5a489d6cc72c49fc7ffa078b6e0a82af47561022"
+    },
+    {
+      "key": "Kapoor2023OpenaisPoliciesHinder",
+      "aliases": [
+        "OpenAIsPoliciesHinde422"
+      ],
+      "identity_sha256": "a8828b68d0ccbdd2575c7e24f3d6fea99e18d5d90ab8fc9bcbdd0362b99b2cf1"
+    },
+    {
+      "key": "Keinan2004FairAttributionFunctional",
+      "aliases": [
+        "FairAttributionofFun227"
+      ],
+      "identity_sha256": "e2508a4a31013a9b358adf493513e3aa80c50a32a4ca8b410c730c1b08cefa01"
+    },
+    {
+      "key": "Kendall1939ProblemMRankings",
+      "aliases": [
+        "Theproblemofmranking585"
+      ],
+      "identity_sha256": "95d1df6e0f9ab7015ac1136ac7fcb6b20f5986c019c9ce537ef7c289f5cbbdad"
+    },
+    {
+      "key": "Khalid2020StyleMattersInvestigating",
+      "aliases": [
+        "StylemattersInvestig533"
+      ],
+      "identity_sha256": "b35753c370c761a4c1b3beeaeaf24daf07f84ac450864cc5f1f0e51687a7a66d"
+    },
+    {
+      "key": "Khoury2023HowSecureCode",
+      "aliases": [
+        "Howsecureiscodegener306"
+      ],
+      "identity_sha256": "ec65db49b33e3473bfb5fe88105e9653a3fc15a06adc4fc80463949fbd33e461"
+    },
+    {
+      "key": "Kiela2021DynabenchRethinkingBenchmarking",
+      "aliases": [
+        "DynabenchRethinkingB188"
+      ],
+      "identity_sha256": "881afa9b0a023bec53aad1aa8c35cc1edcd58e370a40471d99c81e69fc1fe657"
+    },
+    {
+      "key": "Kim2019AudiocapsGeneratingCaptions",
+      "aliases": [
+        "AudioCapsGeneratingC087"
+      ],
+      "identity_sha256": "f499cb68a3832415622bafe3c564f14327954d757791c7977890966e5f486563"
+    },
+    {
+      "key": "Kleinberg2017InherentTradeOffs",
+      "aliases": [
+        "InherentTradeOffsint324"
+      ],
+      "identity_sha256": "8a2a77db6a1015596882917e8c5d0af1043098b680ab1c404dabf0fe77be8905"
+    },
+    {
+      "key": "Kohavi1998GlossaryTermsSpecial",
+      "aliases": [
+        "GlossaryofTermsSpeci270"
+      ],
+      "identity_sha256": "251ceb0034f87528b636efa7418a910ca3557b42549c04746cf16b5c380f9fb6"
+    },
+    {
+      "key": "Kononenko2010EfficientExplanationIndividual",
+      "aliases": [
+        "AnEfficientExplanati055"
+      ],
+      "identity_sha256": "a84e980367f3a27ae8a4e97d962df7b4c14e7ee2a26d5fc1f0451a85653a3afc"
+    },
+    {
+      "key": "Korbmacher2023ReplicationCrisisHas",
+      "aliases": [
+        "Thereplicationcrisis586"
+      ],
+      "identity_sha256": "ef77cabfebdba95e1ac90b18c38c4a4c1354ade768a5f375c440281c69250a11"
+    },
+    {
+      "key": "Kraprayoon2025AiAgentGovernance",
+      "aliases": [
+        "AIAgentGovernanceAFi040"
+      ],
+      "identity_sha256": "583fb352ab6fa70afb7f064bc691dab864737b11c077332b281524b444a0bffd"
+    },
+    {
+      "key": "Krizhevsky2012ImagenetClassificationDeep",
+      "aliases": [
+        "ImageNetClassificati317"
+      ],
+      "identity_sha256": "069e903d9da6b671ed775a67716627f5a391cbd6735d7a489020f678e7b301fb"
+    },
+    {
+      "key": "Kuhn1970StructureScientificRevolutions",
+      "aliases": [
+        "TheStructureofScient592"
+      ],
+      "identity_sha256": "ae53838415392913125ebcd5f1d87cd67f3339c3e3f182e94b2e9351d41bb24b"
+    },
+    {
+      "key": "Kumar2020ProblemsShapleyValue",
+      "aliases": [
+        "ProblemswithShapleyv456"
+      ],
+      "identity_sha256": "fc3cebe756bae63e54a60db970ec988e8197982e38cb7a3e008e585f7d7e8d93"
+    },
+    {
+      "key": "Lamba2021EmpiricalComparisonBias",
+      "aliases": [
+        "AnEmpiricalCompariso057"
+      ],
+      "identity_sha256": "ae06c5f8d08da3aea8b81e63930824e26e76a0e8a53407ad802b482e4b018ba0"
+    },
+    {
+      "key": "Lambert2023HistoryRisksReinforcement",
+      "aliases": [
+        "TheHistoryandRisksof572"
+      ],
+      "identity_sha256": "85ef6a35cd12a89457b154536cbcd6a21475ec177c2adebfcd2907914316e70b"
+    },
+    {
+      "key": "Landau2024ChallengingMachineContestability",
+      "aliases": [
+        "ChallengingtheMachin116"
+      ],
+      "identity_sha256": "f642659ccfbc559c65df8cf2a6ba05a978a8d9555f8c963a6e217bce25013986"
+    },
+    {
+      "key": "Laudon2004ManagementInformationSystems",
+      "aliases": [
+        "ManagementInformatio381"
+      ],
+      "identity_sha256": "0f6c8873b0fce43573348946868918f372ced3bebc748f4c924d85b7ba44d247"
+    },
+    {
+      "key": "Leask2019FrameworkPrinciplesRecommendations",
+      "aliases": [
+        "Frameworkprinciplesa248"
+      ],
+      "identity_sha256": "d58f96ffee871248a0c0a6a00334c1c4c5ecf9a64f667062df4861109dc239cd"
+    },
+    {
+      "key": "Lecun1998EfficientBackprop",
+      "aliases": [
+        "EfficientBackProp191"
+      ],
+      "identity_sha256": "c15220ef67daafd1e4602aaa85f3b58850fdc99b9b45cb10600c1c172cd642bc"
+    },
+    {
+      "key": "Lecun1998GradientBasedLearning",
+      "aliases": [
+        "GradientBasedLearnin278"
+      ],
+      "identity_sha256": "4bb2019c73e553bbf0d708c5dbb5f693cc356eb9e7c27f31fe6bb39fe94bc6fa"
+    },
+    {
+      "key": "LecunndMnistDatabaseHandwritten",
+      "aliases": [
+        "TheMNISTDatabaseOfHa578"
+      ],
+      "identity_sha256": "78fccc97de449c4cc8ff8b748c5adf61ad73035943938bad18638a8eeb42d0f8"
+    },
+    {
+      "key": "Ledell2014REnsembleDocumentation",
+      "aliases": [
+        "REnsembleDocumentati472"
+      ],
+      "identity_sha256": "09665cc03cf15b0e9de75d58bf4a328dd808c34e01dcb9cb5a668fdc0783f5ad"
+    },
+    {
+      "key": "Lee1999LearningPartsObjects",
+      "aliases": [
+        "LearningthePartsofOb362"
+      ],
+      "identity_sha256": "22c9bc21d1affae12f8a4d11cd916414e9fd0f946a738781c4cbacb920f677cc"
+    },
+    {
+      "key": "Lee2022DetectingSentimentToward",
+      "aliases": [
+        "Detectingsentimentto168"
+      ],
+      "identity_sha256": "482ec3e4f8a573b7483747e87b7cb42ae65cc70d608895ea2319a649ba44a187"
+    },
+    {
+      "key": "Lee2023DoLanguageModels",
+      "aliases": [
+        "Dolanguagemodelsplag180"
+      ],
+      "identity_sha256": "0df3a19be2d6af3b63c40bbf20bfedeca5d7fd6f2220ba1302776026461c66ab"
+    },
+    {
+      "key": "Lee2025PlagbenchExploringDuality",
+      "aliases": [
+        "PlagBenchExploringth436"
+      ],
+      "identity_sha256": "f9bb9d8a0274d66cd18ac1a9f1334157f7e2d29aaa05f77a804a1216b4b31cbe"
+    },
+    {
+      "key": "Leech2024QuestionablePracticesMachine",
+      "aliases": [
+        "Questionablepractice471"
+      ],
+      "identity_sha256": "641e1736212fc7ba34a2c991f0afe1fad178aada4bd11a84b48afad65ded9ae8"
+    },
+    {
+      "key": "Lei2017DistributionFreePredictive",
+      "aliases": [
+        "DistributionFreePred177"
+      ],
+      "identity_sha256": "4b38e1a8b8e2c6cf77a68b347b354dfa645818c75d078ab7ed5a112df136d8e8"
+    },
+    {
+      "key": "LenaertsBergmans2024DataPoisoningExploitation",
+      "aliases": [
+        "DataPoisoningTheExpl143"
+      ],
+      "identity_sha256": "a4d3ac0fe01bef962582ffda75cde1497da6efc1ebcb894911edf72233a286fe"
+    },
+    {
+      "key": "Leon2006IsoprenoidBiosynthesisDrug",
+      "aliases": [
+        "IsoprenoidBiosynthes343"
+      ],
+      "identity_sha256": "327da994db62f4bc713f331194ebf380e835dab783b60eb9df2ddf80c581b0a7"
+    },
+    {
+      "key": "Leong2021FiveThingsLawyers",
+      "aliases": [
+        "FiveThingsLawyersSho243"
+      ],
+      "identity_sha256": "c940361d4ff24779890d2b4f74a56851cfa10d9f974c8d40d8c2b30fc629e575"
+    },
+    {
+      "key": "Leslie2024AiSustainabilityPractice",
+      "aliases": [
+        "AISustainabilityinPr048"
+      ],
+      "identity_sha256": "826536421c03a043ef69679a55862a5f89ec1bce17169991f2841a0167bd17a0"
+    },
+    {
+      "key": "Levene2024LifeCycleTrustworthy",
+      "aliases": [
+        "ALifeCycleforTrustwo011"
+      ],
+      "identity_sha256": "f05c0f7a0fc3bbaf6564d4344c75c55338fa17172d7968f9030d691446a33280"
+    },
+    {
+      "key": "Lewis2020RetrievalAugmentedGeneration",
+      "aliases": [
+        "RetrievalaugmentedGe497"
+      ],
+      "identity_sha256": "c60784a84698de65c3ca84debf0e08047fc5efb83dc5a6f8235ece54d256edc1"
+    },
+    {
+      "key": "Li2007TClosenessPrivacy",
+      "aliases": [
+        "tClosenessPrivacyBey544"
+      ],
+      "identity_sha256": "fd2fd7bd761df4203a281eeab3e8dc1f145355965b5e928f591f6578a4416751"
+    },
+    {
+      "key": "Li2024LlmDefensesNot",
+      "aliases": [
+        "LLMDefensesAreNotRob368"
+      ],
+      "identity_sha256": "e328b3f961399e8bfe6da826cfa368f015241c9973e180daf06a52281b01603f"
+    },
+    {
+      "key": "Li2024TaskContaminationLanguage",
+      "aliases": [
+        "TaskcontaminationLan546"
+      ],
+      "identity_sha256": "d297e33642bc8251aa9ec26bc033f5040805bd5a0010d03f123b7ecd45abf32b"
+    },
+    {
+      "key": "Li2024WmdpBenchmarkMeasuring",
+      "aliases": [
+        "TheWMDPBenchmarkMeas593"
+      ],
+      "identity_sha256": "7b2e2298fb30d45f6cc2129f228691ec157ce7fe113dbaf8261e8db9167a7061"
+    },
+    {
+      "key": "Li2025LlmsCaughtCrossfire",
+      "aliases": [
+        "LLMscaughtinthecross370"
+      ],
+      "identity_sha256": "7422de3d6ce471d48b680e68b6d497a216f62dd0f25ee0e68f81a60fb7afc03a"
+    },
+    {
+      "key": "Li2025MakingAiLess",
+      "aliases": [
+        "MakingAILessThirstyU379"
+      ],
+      "identity_sha256": "3c1f37ed2dfb94ca99085e638d87cf6ba85c836361865ce57781ee42f3bc7c97"
+    },
+    {
+      "key": "Liang2023HolisticEvaluationLanguage",
+      "aliases": [
+        "HolisticEvaluationof302"
+      ],
+      "identity_sha256": "e75223cf3fb85ab9df7ee2819886d4cac8c27feace6d4be6c0d71ec414ea0c35"
+    },
+    {
+      "key": "Liang2024SurveyMultimodelLarge",
+      "aliases": [
+        "ASurveyofMultimodelL021"
+      ],
+      "identity_sha256": "94a3616975c68b662029e772e3a7caca5b42739a7c04865f6aef4d8600b5bac2"
+    },
+    {
+      "key": "Liao2021WeLearningYet",
+      "aliases": [
+        "AreWeLearningYetAMet070"
+      ],
+      "identity_sha256": "333f3618da4818516e9bd41fb9a54dc9a899acd9fca333232241d6a8f9141c40"
+    },
+    {
+      "key": "Lichman2013UciMachineLearning",
+      "aliases": [
+        "UCIMachineLearningRe616"
+      ],
+      "identity_sha256": "85a122c5d6ac3c71e43befa355a1c4d0c583aea925b818ca9db8ea73d8ac2e41"
+    },
+    {
+      "key": "Liljequist2019IntraclassCorrelationaDiscussion",
+      "aliases": [
+        "Intraclasscorrelatio335"
+      ],
+      "identity_sha256": "4806bb9a5f2d118f5c1045b611528b6797d3e6d0191dc8e27ae73438f5622d9a"
+    },
+    {
+      "key": "Lin2014MicrosoftCocoCommon",
+      "aliases": [
+        "MicrosoftCOCOCommono392"
+      ],
+      "identity_sha256": "9ec3993f9e0631f87b2db4171c137f417344980c2b472cc2abbfc76a406f6859"
+    },
+    {
+      "key": "Lin2022TruthfulqaMeasuringHow",
+      "aliases": [
+        "TruthfulQAMeasuringH612"
+      ],
+      "identity_sha256": "061ee61eacf1cc8d9166c067130c8218175ba4e3736da12446d5373af9208da4"
+    },
+    {
+      "key": "Lipovetsky2001AnalysisRegressionGame",
+      "aliases": [
+        "AnalysisofRegression062"
+      ],
+      "identity_sha256": "74d061d54f340788ad6c6260d565bfe7dc37f397a95c66086c15b61cc346ffc1"
+    },
+    {
+      "key": "Lipton2016MythosModelInterpretability",
+      "aliases": [
+        "TheMythosofModelInte580"
+      ],
+      "identity_sha256": "f15d60dde5254c704784f77d10cb10e07747a3bded98aeac1d32c31dcbf6f063"
+    },
+    {
+      "key": "Liu2023PromptInjectionAttack",
+      "aliases": [
+        "PromptInjectionattac459"
+      ],
+      "identity_sha256": "50b93404e3a7e8cd6f9ce41526b503a8e8d37d7694494a164ad9263ecd361b9a"
+    },
+    {
+      "key": "Lohninger1999TeachMeData",
+      "aliases": [
+        "TeachMeDataAnalysis550"
+      ],
+      "identity_sha256": "a28e2dbaf774038367108b4a063c513038d9511ea67801fa3944b6994207fb5b"
+    },
+    {
+      "key": "Longbine2021RedTeamingPast",
+      "aliases": [
+        "RedTeamingPastandPre485"
+      ],
+      "identity_sha256": "cfe34cb93ee83f8055038ea37ba6dd445d1d9d33b6d7e320eed76d2a66ab5ac4"
+    },
+    {
+      "key": "Lou2013AccurateIntelligibleModels",
+      "aliases": [
+        "AccurateIntelligible031"
+      ],
+      "identity_sha256": "c0a3edd5fa47cf1397fb647f1c285b95c9deb08882e89ffc7996916bfd90d304"
+    },
+    {
+      "key": "Luccioni2024PowerHungryProcessing",
+      "aliases": [
+        "Powerhungryprocessin442"
+      ],
+      "identity_sha256": "54e29c69e10079e6035934e3a1403ef0818164c223cf2be1918450963e18350e"
+    },
+    {
+      "key": "Lundberg2017ConsistentIndividualizedFeature",
+      "aliases": [
+        "ConsistentIndividual131"
+      ],
+      "identity_sha256": "81c4ca86b263635f06257035b975c2c5ce8daca1b68ee8cf4b34f5aa594e5130"
+    },
+    {
+      "key": "Lundberg2017UnifiedApproachInterpreting",
+      "aliases": [
+        "AUnifiedApproachtoIn027"
+      ],
+      "identity_sha256": "c390361348298687f012519c79951b7dbaa477889c520e80002f57291f047180"
+    },
+    {
+      "key": "Lutes2025IdentifyingEconomicImplications",
+      "aliases": [
+        "IdentifyingtheEconom315"
+      ],
+      "identity_sha256": "414b9e5e36780e0a56db6c4e3509978a3b82173ac4611f733d100adf75692898"
+    },
+    {
+      "key": "Madaio2024TinkerTailorConfigure",
+      "aliases": [
+        "TinkerTailorConfigur596"
+      ],
+      "identity_sha256": "80a831b16f75fc4ee3c752856b2accc2a4b3e50783671347fe1688a788927a03"
+    },
+    {
+      "key": "Maloney2016UnifiedModel1",
+      "aliases": [
+        "Unifiedmodelof1Dpuls619"
+      ],
+      "identity_sha256": "f9f9200a0fd63713a05a856327844e06f2a7379e806086934f8677373a47474f"
+    },
+    {
+      "key": "Mangrulkar2022PeftStateArt",
+      "aliases": [
+        "PEFTStateoftheartPar432"
+      ],
+      "identity_sha256": "b46835a1b24d5b03554dc23de32416140ead73aff504910e7366cad8724ae472"
+    },
+    {
+      "key": "Martinez2024ReEvaluatingGpt",
+      "aliases": [
+        "ReevaluatingGPT4sbar477"
+      ],
+      "identity_sha256": "f178ad5355caaf6149918cb7cfcda6554fd56572e7cd33da2f1a10cd787d5bfd"
+    },
+    {
+      "key": "Mason2012CollaborativeLearningNetworks",
+      "aliases": [
+        "Collaborativelearnin123"
+      ],
+      "identity_sha256": "fe52045536bb2650b033bc81f1c08718e492795ac50c647222532d00cd7f7be0"
+    },
+    {
+      "key": "Matti2022CoCreationPolicy",
+      "aliases": [
+        "CocreationforpolicyP119"
+      ],
+      "identity_sha256": "2bb3ab13ca9c530d857bcf11888a47753738d28dc73dfcc940386e09c080982e"
+    },
+    {
+      "key": "Mcclain2025HowUS",
+      "aliases": [
+        "HowtheUSPublicandAIE307"
+      ],
+      "identity_sha256": "9ece8319e41454b2d61d8b83579bb0645de625f1c118ad2c4eb0406f4804cda2"
+    },
+    {
+      "key": "Mccormick2021ExploringPublicConcerns",
+      "aliases": [
+        "Exploringpublicconce217"
+      ],
+      "identity_sha256": "fcbd16b1bb4bca56f23c567910ef57a9cbabef79a70f5c21abb11b60932f448b"
+    },
+    {
+      "key": "Mcgenity2024ArtificialIntelligenceDigital",
+      "aliases": [
+        "Artificialintelligen074"
+      ],
+      "identity_sha256": "21e1a0c85b76967a66d35f22b01eac2b8812054b07bac0e5045db3b6e126f73e"
+    },
+    {
+      "key": "Mcgregor2021PreventingRepeatedReal",
+      "aliases": [
+        "PreventingRepeatedRe450"
+      ],
+      "identity_sha256": "1f2336d80195461bf887474ac44baf1ccf4c8c5888161ce95d229c6e98f8c29b"
+    },
+    {
+      "key": "Mchugh2012InterraterReliabilityKappa",
+      "aliases": [
+        "Interraterreliabilit334"
+      ],
+      "identity_sha256": "3d70adba55005ef040333350b86f5dd9233bab32710c42ef51fac1d0e85eee61"
+    },
+    {
+      "key": "McmillanMajor2024DataStatementsTechnical",
+      "aliases": [
+        "DatastatementsFromte146"
+      ],
+      "identity_sha256": "5bae27a0ffd91e0b4115897c9507c1b0051048aef2c9d4def7beeaaf9486a7b8"
+    },
+    {
+      "key": "Mehrabi2021SurveyBiasFairness",
+      "aliases": [
+        "ASurveyonBiasandFair022"
+      ],
+      "identity_sha256": "e32ae809c266e7bafd7d8c0ddc09baf4ef3aaf53d525bcc6def9972da78f2815"
+    },
+    {
+      "key": "Mehrotra2024TreeAttacksJailbreaking",
+      "aliases": [
+        "TreeofAttacksJailbre607"
+      ],
+      "identity_sha256": "cc243e25d00ec49af4331c0baa3dd92d06bca5771c0f13a494fb93055248df71"
+    },
+    {
+      "key": "Menze2014MultimodalBrainTumor",
+      "aliases": [
+        "Themultimodalbraintu579"
+      ],
+      "identity_sha256": "88473b4540e5be3afe78cf993dc4ae4c9fc55fc7a71b66ff79bd0890a8614e91"
+    },
+    {
+      "key": "Messick1987Validity",
+      "aliases": [
+        "Validity623"
+      ],
+      "identity_sha256": "6d2fd497d79109d059cb25bf134903f5f21183854b19a6d12d2ca6d1c0b28174"
+    },
+    {
+      "key": "Meta2021FacebooksFivePillars",
+      "aliases": [
+        "FacebooksFivePillars224"
+      ],
+      "identity_sha256": "b968f28e8f43bc92e5a74bcd5267dfd64592d499d7c2a9942d3be94cbc3d4002"
+    },
+    {
+      "key": "Microsoft2022MicrosoftResponsibleAix16ff105b",
+      "aliases": [
+        "MicrosoftResponsible394"
+      ],
+      "identity_sha256": "16ff105b8e69c2fd080a850c7f9cc3b7994167cee16b13cd2d72cf31f1db2be5"
+    },
+    {
+      "key": "Microsoft2022MicrosoftResponsibleAix1abc1623",
+      "aliases": [
+        "MicrosoftResponsible393"
+      ],
+      "identity_sha256": "1abc1623bb91d771b85317f1bc8757788a167f81ece4c78ec5a7ca56c1c4de46"
+    },
+    {
+      "key": "Microsoft2024PresidioDataProtection",
+      "aliases": [
+        "PresidioDataProtecti448"
+      ],
+      "identity_sha256": "41305928997159e00d067bbb7b149f933ebda54c2157479f0509b1f6a6680aea"
+    },
+    {
+      "key": "MicrosoftndMicrosoftAiBounty",
+      "aliases": [
+        "MicrosoftAIBountyPro391"
+      ],
+      "identity_sha256": "50c674f4aa92182044767d3aedf51bfbee5299c1ccffd902b481843188e0ca10"
+    },
+    {
+      "key": "MicrosoftResearchndHaxToolkitProject",
+      "aliases": [
+        "TheHAXToolkitProject570"
+      ],
+      "identity_sha256": "46d9aaf3f713701a33fe083fd4f0de2b76987194e3b0e2f8ec9f01bd8da390b2"
+    },
+    {
+      "key": "Mikolov2013DistributedRepresentationsWords",
+      "aliases": [
+        "DistributedRepresent176"
+      ],
+      "identity_sha256": "114dde71425600adae7cdf323efa4fb72acdc3be157575422d2b1444a4e6c286"
+    },
+    {
+      "key": "Mikolov2013EfficientEstimationWord",
+      "aliases": [
+        "EfficientEstimationo192"
+      ],
+      "identity_sha256": "b2454f4cfb3a3d19f534d3a7c6711da0cb9d18853bd00c4e76e2438bffb9f120"
+    },
+    {
+      "key": "MilaGarcia2018PragmaticAnnotationMulti",
+      "aliases": [
+        "Pragmaticannotationf444"
+      ],
+      "identity_sha256": "dc2a341036c5829d5d43d6e6743020abd4a73bd039c6ee426647b650d45d8ce1"
+    },
+    {
+      "key": "Mishra2020DqiMeasuringData",
+      "aliases": [
+        "DQIMeasuringdataqual184"
+      ],
+      "identity_sha256": "43e18a0fbd608627efa22aa7b8d05d83f48236091081f1759643be59d80298b0"
+    },
+    {
+      "key": "Mislove2023RedTeamingLarge",
+      "aliases": [
+        "RedTeamingLargeLangu486"
+      ],
+      "identity_sha256": "30d5356163607c60a7fe82ac377ef90b3856877da1187af90e5e5aaa81012728"
+    },
+    {
+      "key": "Mitchell1997MachineLearning",
+      "aliases": [
+        "MachineLearning373"
+      ],
+      "identity_sha256": "982d2fce8e29f96c93ae4e3ec5a88785f08f61910e14d0217e65624d8ae414e8"
+    },
+    {
+      "key": "Mitchell2019ModelCardsModel",
+      "aliases": [
+        "ModelCardsforModelRe396"
+      ],
+      "identity_sha256": "c45209de17003639e228233f4fc4c70cf2c6d805a3f7bfaa7cf1a4011a37afae"
+    },
+    {
+      "key": "Mohammad2017ChallengesSentimentAnalysis",
+      "aliases": [
+        "Challengesinsentimen115"
+      ],
+      "identity_sha256": "cf8c071f21cdb3b46930208d83d0c945ea3aec193dfa83b4ba75ba4bd449fbd3"
+    },
+    {
+      "key": "Mohapatra2024ConversationalGroundingAnnotation",
+      "aliases": [
+        "ConversationalGround136"
+      ],
+      "identity_sha256": "563303a8b2d40de1d8974d8cb541035a62323341e02e911d95672be2d66d36e5"
+    },
+    {
+      "key": "Molnar2019QuantifyingInterpretabilityArbitrary",
+      "aliases": [
+        "QuantifyingInterpret469"
+      ],
+      "identity_sha256": "90cba7a668f6fbb8a98bd0806ff0ec1529bd9e551a68aa4318eb42d1fbf9636e"
+    },
+    {
+      "key": "Molnar2020LimitationsInterpretableMachine",
+      "aliases": [
+        "LimitationsofInterpr365"
+      ],
+      "identity_sha256": "638dd56523850e2582763bdc310b717092e083e02df622a1e513ba61b4218fe9"
+    },
+    {
+      "key": "Molnar2025InterpretableMachineLearning",
+      "aliases": [
+        "InterpretableMachine329"
+      ],
+      "identity_sha256": "cbb6199a9f8db1d3b8dbaae09ed2baa377ed169449dc7b8d3b81e9d9783f03f7"
+    },
+    {
+      "key": "Montgomery2019DesignAnalysisExperiments",
+      "aliases": [
+        "Designandanalysisofe165"
+      ],
+      "identity_sha256": "b3b6d1c89cde939aedc6cb9ef3239d0728253c09d1b5063a7366f6b510195913"
+    },
+    {
+      "key": "Morris2020TextattackFrameworkAdversarial",
+      "aliases": [
+        "TextAttackAFramework553"
+      ],
+      "identity_sha256": "7e2673ba8971b01311444c26c12eb1b6d0492a49aec3b4cede7baf80aa840c99"
+    },
+    {
+      "key": "Moss2020EthicsOwnersNew",
+      "aliases": [
+        "EthicsOwnersANewMode199"
+      ],
+      "identity_sha256": "2b8e4c3842b7afecd2ba072070f5527b2737119d159d6f4cd68762063fe39c0c"
+    },
+    {
+      "key": "Mothilal2020ExplainingMachineLearning",
+      "aliases": [
+        "ExplainingMachineLea215"
+      ],
+      "identity_sha256": "19b02839f5bbe6058b67b555c6555f43a42e3106d1c465aba0cbce0068eaf5ba"
+    },
+    {
+      "key": "Mugdal2020ArtificialIntelligenceRisk",
+      "aliases": [
+        "ArtificialIntelligen076"
+      ],
+      "identity_sha256": "d59c64cbb74a0af20a20571fa40ce45507b643b0369b738609566a18ed3af2ec"
+    },
+    {
+      "key": "Muller2019InvestigatingRiskUncertainty",
+      "aliases": [
+        "InvestigatingRiskUnc338"
+      ],
+      "identity_sha256": "b76734026392c281fc192f8ac964eaf5c55725dd129fbfd6ac7fdf6c57820978"
+    },
+    {
+      "key": "Munoz2024PyritFrameworkSecurity",
+      "aliases": [
+        "PyRITAFrameworkforSe467"
+      ],
+      "identity_sha256": "896349e522fbfee5c1a302cd2f221e2bc48142120ad2b56037ef9542d6572706"
+    },
+    {
+      "key": "Murdoch2019InterpretableMachineLearning",
+      "aliases": [
+        "InterpretableMachine330"
+      ],
+      "identity_sha256": "bc695324b8307a670e8d08636a6799e8ab69968948f7fc131daf8eccf4953056"
+    },
+    {
+      "key": "Muresan2022Proceedings60thAnnual",
+      "aliases": [
+        "Proceedingsofthe60th457"
+      ],
+      "identity_sha256": "c8067ff99f1bfe6b82e2a5c09bcaf877b46c6e43f8e6a13556758a3775f09b21"
+    },
+    {
+      "key": "Nadeem2020StereosetMeasuringStereotypical",
+      "aliases": [
+        "StereoSetMeasuringst528"
+      ],
+      "identity_sha256": "912aeb25eed1da57107319da524d5c37ec5ec89d8bcba700a9d01e54de963674"
+    },
+    {
+      "key": "Narayanan2018Tutorial21Fairness",
+      "aliases": [
+        "Tutorial21FairnessDe613"
+      ],
+      "identity_sha256": "bdf32d2fff221ce89a29e2fd535f2ef12420ae4b9842635aa1b43bc75a1360e7"
+    },
+    {
+      "key": "NationalAcademiesOfSciences2022HumanAiTeaming",
+      "aliases": [
+        "HumanAITeamingStateo308"
+      ],
+      "identity_sha256": "48f3157e046250a54f0abc19cc52a22118aa6cb787ea6a97cd277e880c4dd425"
+    },
+    {
+      "key": "NationalInstituteStandards2001SecurityRequirementsCryptographic",
+      "aliases": [
+        "SecurityRequirements506"
+      ],
+      "identity_sha256": "e6261cd4ac3a4173205c51909244df462b7be28223bdec451e4d06ad37a1a5d2"
+    },
+    {
+      "key": "NationalInstituteStandards2023ArtificialIntelligenceRisk",
+      "aliases": [
+        "ArtificialIntelligen077"
+      ],
+      "identity_sha256": "55272a30f1f383f18e4ef924f2224f638f120ff91d1088430d5dc08b35d1dda1"
+    },
+    {
+      "key": "NationalInstituteStandards2024ArtificialIntelligenceRisk",
+      "aliases": [
+        "AI6001GenerativeAIRi039"
+      ],
+      "identity_sha256": "a42ec071ec3b46477a527741a4411052b301a74db8effc9daa9adef5e008ca6f"
+    },
+    {
+      "key": "Nelson2023Facct23Keynote",
+      "aliases": [
+        "FAccT23KeynoteThickA221"
+      ],
+      "identity_sha256": "2e33d7ec7d1215ad8931435a86548d7aaa808b1075d9b67c9c7cfed16d7a1c5a"
+    },
+    {
+      "key": "Ngan2026DraftSupplementFace",
+      "aliases": [
+        "DRAFTSUPPLEMENTFaceA186"
+      ],
+      "identity_sha256": "6c49b8fff094b4fdd6de90ddb35b6f244bc0661b84b96871739517ff354fea9b"
+    },
+    {
+      "key": "Nguyen2015DeepNeuralNetworks",
+      "aliases": [
+        "DeepNeuralNetworksar159"
+      ],
+      "identity_sha256": "e2c4755eed069a1262af9d44a9485cceadb651a328a64c84eb9e8e4514e4de44"
+    },
+    {
+      "key": "NiculescuMizil2005PredictingGoodProbabilities",
+      "aliases": [
+        "PredictingGoodProbab445"
+      ],
+      "identity_sha256": "9c574fff312523c84aa62fa0a62140496bf39027d4f66cd0e9d33ddf76d0cd70"
+    },
+    {
+      "key": "Ning2024GenerativeArtificialIntelligence",
+      "aliases": [
+        "Generativeartificial265"
+      ],
+      "identity_sha256": "85b7948ca66b487aa9d3d69cd92cba9eeab8d9ff9902a7751d98359a428f3936"
+    },
+    {
+      "key": "Nix2022RiskDeskillingworkforceTraining",
+      "aliases": [
+        "TheriskofdeskillingW587"
+      ],
+      "identity_sha256": "44d484266b2ef74acc34eba9e9b4a45961aafd522b48e1db64a0651f475204ad"
+    },
+    {
+      "key": "Obermeyer2019DissectingRacialBias",
+      "aliases": [
+        "DissectingRacialBias174"
+      ],
+      "identity_sha256": "b0b58fdeb13d09ba030bfeded6789edd50f428e24afaca6812d80992759c7dcc"
+    },
+    {
+      "key": "OfficeComptrollerCurrency2021ComptrollerSHandbook",
+      "aliases": [
+        "ComptrollersHandbook127"
+      ],
+      "identity_sha256": "fb60811546bb3950ad04446798bb3620d6d7f24d0ee6a714fb390aa2f330f351"
+    },
+    {
+      "key": "OfficeComptrollerCurrency2023ComptrollerSHandbook",
+      "aliases": [
+        "ComptrollersHandbook126"
+      ],
+      "identity_sha256": "101b58f69a4fd4f53134c4672a14cc5edf760215a2227df3ac53d90e17fb1d3a"
+    },
+    {
+      "key": "Olson2017PmlbLargeBenchmark",
+      "aliases": [
+        "PMLBAlargebenchmarks439"
+      ],
+      "identity_sha256": "27bc8c31643e68a253d09eec6ca12e8959b20be5c4f1cdc3d72599f8405223ce"
+    },
+    {
+      "key": "OMarahndMakingPeaceGenai",
+      "aliases": [
+        "MakingPeaceWithGenAI380"
+      ],
+      "identity_sha256": "4167b5b5a33701923ea011170844955550e8402b0a3eea0f90624710418111b2"
+    },
+    {
+      "key": "Openai2014DemocraticInputsAi",
+      "aliases": [
+        "DemocraticInputstoAI164"
+      ],
+      "identity_sha256": "46c1b927be6f8e8cc23295a0a0cadec43fa9bc385786b8d24a6981ad3b5bdf8e"
+    },
+    {
+      "key": "Openai2022NewImprovedEmbedding",
+      "aliases": [
+        "NewandImprovedEmbedd408"
+      ],
+      "identity_sha256": "156e3922e6f17d2fe4460ecc75ec81f57cebeacd765a29b8b23256502f8d8b72"
+    },
+    {
+      "key": "OpenWorldwideApplication2023OwaspTop10",
+      "aliases": [
+        "OWASPTop10forLargeLa426"
+      ],
+      "identity_sha256": "4835764be1d15cfb6be7e75b105b73a34208beaba0ae26db0a959e08bdb5c004"
+    },
+    {
+      "key": "OrganisationEconomicCo2024GoverningArtificialIntelligence",
+      "aliases": [
+        "GoverningwithArtific275"
+      ],
+      "identity_sha256": "fd20eb6eb967d58b6062afa90a269518443669e9ac057fb7fab757c4bf6bfab5"
+    },
+    {
+      "key": "OrganisationEconomicCo2025TowardsCommonReporting",
+      "aliases": [
+        "TowardsaCommonReport600"
+      ],
+      "identity_sha256": "205489e1f60c69f0d784ffea589fe5b13d3dcf1a95f204ee5249d5fb22ebd6ed"
+    },
+    {
+      "key": "Ouyang2025SmokeMirrorsJailbreaking",
+      "aliases": [
+        "SmokeandmirrorsJailb511"
+      ],
+      "identity_sha256": "12a66aff55791974f4aedffc0df95d54b69ded9d58b85f1774f87700707a80cf"
+    },
+    {
+      "key": "Papernot2018MarauderSMap",
+      "aliases": [
+        "AMaraudersMapofSecur012"
+      ],
+      "identity_sha256": "6b99c3200eaa69394521ab65045b63167d72cdbd0c32e97c85fe7224725b04b4"
+    },
+    {
+      "key": "Papernot2018ScalablePrivateLearning",
+      "aliases": [
+        "ScalablePrivateLearn503"
+      ],
+      "identity_sha256": "9256cad992d2894574d061424f122057e4ff6205ed687aa82d967a938b38f63a"
+    },
+    {
+      "key": "Papernot2018TechnicalReportCleverhans",
+      "aliases": [
+        "TechnicalReportonthe551"
+      ],
+      "identity_sha256": "abb3ae2a890dbe6941b960b3b4cf72d893c9de161337ca2f23040ae7f7e83063"
+    },
+    {
+      "key": "Papineni2002BleuMethodAutomatic",
+      "aliases": [
+        "BLEUAmethodforautoma101"
+      ],
+      "identity_sha256": "f72069024b162a0d1d6674e3356433f863dc515f1656f2a22fa4198bb3d3d98e"
+    },
+    {
+      "key": "Parikh2014ProximalAlgorithms",
+      "aliases": [
+        "ProximalAlgorithms465"
+      ],
+      "identity_sha256": "0c98230a990a55624fa36756e1e4f8f6c09d96d5e0fdcfaf959d5b2114e18444"
+    },
+    {
+      "key": "Park2020ScalableFrameworkLearning",
+      "aliases": [
+        "Ascalableframeworkfo017"
+      ],
+      "identity_sha256": "fd648efab1ee757f538db4532b0075defc034a4a836d2a3ef84b16c39b2a7a29"
+    },
+    {
+      "key": "Parker2025USWorkers",
+      "aliases": [
+        "USWorkersAreMoreWorr615"
+      ],
+      "identity_sha256": "a1b8efe56a6f21a576ffb83994d485444222a1e85c4ebdbad62975949a3b28e9"
+    },
+    {
+      "key": "Parrish2021BbqHandBuilt",
+      "aliases": [
+        "BBQAHandBuiltBiasBen091"
+      ],
+      "identity_sha256": "92814cfbd7f68038a34a63e903d99f32e9050fe0d72e485feabe6a61cfae1f92"
+    },
+    {
+      "key": "Pearl2011BayesianNetworks",
+      "aliases": [
+        "BayesianNetworks090"
+      ],
+      "identity_sha256": "12fb3d064d4d78f1d082c885283170054f131bbf8ee8ffa3cce8be20f5ce58d9"
+    },
+    {
+      "key": "Pearl2018BookWhyNew",
+      "aliases": [
+        "TheBookofWhytheNewSc560"
+      ],
+      "identity_sha256": "d63b5816a311d67fc283466276f8e7892e4f075fa7a3dc683bb6dcaadf75e6cd"
+    },
+    {
+      "key": "Pearson2025ExclusiveMostCited",
+      "aliases": [
+        "ExclusiveTheMostcite210"
+      ],
+      "identity_sha256": "e06ad7aad6589d078ea0908bf7e90dc43b2d8a5f4274ebddfade123e2d33286e"
+    },
+    {
+      "key": "Pedreschi2018OpenBlackBox",
+      "aliases": [
+        "OpentheBlackBoxDataD421"
+      ],
+      "identity_sha256": "fdf4dcb70672af25ff2d3723a9a1cdcae1f3c46e656f4d08d00773efa3669c13"
+    },
+    {
+      "key": "Pellegrino2016SummaryReportModel",
+      "aliases": [
+        "ASummaryReportontheM019"
+      ],
+      "identity_sha256": "a481ada932bf333b54901539137689eb8965f608480984d0c80fc5393daac166"
+    },
+    {
+      "key": "Pendse2025WhenTestingAi",
+      "aliases": [
+        "WhentestingAItestsus633"
+      ],
+      "identity_sha256": "53a0438f85955a5d73f61189d8c090472fe12d745432469cd0782951cc2ec321"
+    },
+    {
+      "key": "Pennington2014GloveGlobalVectors",
+      "aliases": [
+        "GloveGlobalvectorsfo271"
+      ],
+      "identity_sha256": "8fa20d76ec96adb7a1891af9bd24421a4f887f6b36447b80f1b1424a4220dea4"
+    },
+    {
+      "key": "Perez2022RedTeamingLanguage",
+      "aliases": [
+        "RedTeamingLanguageMo483"
+      ],
+      "identity_sha256": "8b90d83e4e516ac69255bf5949b9b9631cf43d476876a5d721c8a99b2dc88f92"
+    },
+    {
+      "key": "Phillips2003FaceRecognitionVendor",
+      "aliases": [
+        "Facerecognitionvendo222"
+      ],
+      "identity_sha256": "3cdd0946385ea2adafec89500a38a24182bfae818f044580b765ddb96a7aa695"
+    },
+    {
+      "key": "Piet2024MarkMyWords",
+      "aliases": [
+        "MarkMyWordsAnalyzing384"
+      ],
+      "identity_sha256": "2c4ea5a825ba88fef438ffc6c7d4578c86d8fc78418ebc42022d79b22268bde1"
+    },
+    {
+      "key": "Pimentel2024BeyondMetricsCritical",
+      "aliases": [
+        "BeyondMetricsACritic096"
+      ],
+      "identity_sha256": "0734987f064266bdd4b2a1b8b7c1210617017a18ba355f294b713197c6feb311"
+    },
+    {
+      "key": "Pineau2021ImprovingReproducibilityMachine",
+      "aliases": [
+        "ImprovingReproducibi322"
+      ],
+      "identity_sha256": "19f13e89218bc040ad8de87d79121c7a8f85a1c94bd0f36d30889261abc1c0c3"
+    },
+    {
+      "key": "Popper2005LogicScientificDiscovery",
+      "aliases": [
+        "Thelogicofscientific577"
+      ],
+      "identity_sha256": "f43a7969610b5a34c240a75f5dca15644250b8ed763ee061f1fff4379cdf0920"
+    },
+    {
+      "key": "PoursabziSangdeh2018ManipulatingMeasuringModel",
+      "aliases": [
+        "ManipulatingandMeasu382"
+      ],
+      "identity_sha256": "cf3c663b9f3cbb088eafc99801ec8b228fb5de292481b28473054be3460d47be"
+    },
+    {
+      "key": "Prabhakaran2021ReleasingAnnotatorLevel",
+      "aliases": [
+        "Onreleasingannotator415"
+      ],
+      "identity_sha256": "ce8472c2164765febe1686d5c01d4562f16f0323a541002a1858cacbbb7e0526"
+    },
+    {
+      "key": "Prives2016WhomBellTolls",
+      "aliases": [
+        "ForWhomtheBellTollsI247"
+      ],
+      "identity_sha256": "2be18e0e5cc4e3ffb374141f218c02c47b0a708f1a938fad0a6005bace4d5202"
+    },
+    {
+      "key": "Proksch2020GlmGbmPart",
+      "aliases": [
+        "FromGLMtoGBMPart1How250"
+      ],
+      "identity_sha256": "e9963e192fd4f5cc7eee168fe36a720eea3bbaa40ca76caeb0e1871c13cab0ab"
+    },
+    {
+      "key": "Pushkarna2021DataCardsPlaybook",
+      "aliases": [
+        "DataCardsPlaybook141"
+      ],
+      "identity_sha256": "72c41d120d472532a8e50ba2fa3f86c1f4eb039e2c973c00093f6b039e442c32"
+    },
+    {
+      "key": "Pushkarna2022DataCardsPurposeful",
+      "aliases": [
+        "DatacardsPurposefula142"
+      ],
+      "identity_sha256": "edd43e11832de80c5d0814049e51169e9733f18d49d90d60d016f4d45755acd1"
+    },
+    {
+      "key": "Radford2019LanguageModelsUnsupervised",
+      "aliases": [
+        "LanguageModelsareUns354"
+      ],
+      "identity_sha256": "a310152761408ce76eded244541ee361f9b99a38d49f828491fb19e17f860196"
+    },
+    {
+      "key": "Raffel2020ExploringLimitsTransfer",
+      "aliases": [
+        "ExploringtheLimitsof218"
+      ],
+      "identity_sha256": "6a4af466aa5bbb776ab422a385d4a06e0542daa358873a2aa016f977fc5f3781"
+    },
+    {
+      "key": "Raj2020ComparingFairRanking",
+      "aliases": [
+        "ComparingFairRanking125"
+      ],
+      "identity_sha256": "ff5251b0432b3eaf948d050fbe285429ea1547dccc47276ba460e3f6975853ab"
+    },
+    {
+      "key": "Raji2019ActionableAuditingInvestigating",
+      "aliases": [
+        "ActionableAuditingIn032"
+      ],
+      "identity_sha256": "6060828a12cdca153be57f0b428728c520e92aa7a3ddf4b4b737c7ac9bdeb40a"
+    },
+    {
+      "key": "Raji2021AiEverythingWhole",
+      "aliases": [
+        "AIandtheEverythingin041"
+      ],
+      "identity_sha256": "21a834ec5b0be37e357cf6f52e038fb13d82060998f9621fecd6b4aeb12283e3"
+    },
+    {
+      "key": "Raji2022FallacyAiFunctionality",
+      "aliases": [
+        "ThefallacyofAIfuncti567"
+      ],
+      "identity_sha256": "ff97ba4b7e6dbb35988523382b28eb36641e8d2b67daea811e35fb0fd13cf764"
+    },
+    {
+      "key": "Raji2023ConcreteProblemsAi",
+      "aliases": [
+        "ConcreteProblemsinAI129"
+      ],
+      "identity_sha256": "ddae00e59fb9f0e8cf88b3cb51f30248ffccd3e30f43074fd66c94e6a7d009e4"
+    },
+    {
+      "key": "Rajpurkar2016Squad100000",
+      "aliases": [
+        "SQuAD100000Questions522"
+      ],
+      "identity_sha256": "c257083675ee9058d4e674dab5fbd0a0a236944585da056f9e934b1757100ee7"
+    },
+    {
+      "key": "Rauber2017FoolboxPythonToolbox",
+      "aliases": [
+        "FoolboxAPythonToolbo244"
+      ],
+      "identity_sha256": "42e8ff6cb8fabc5e1803158e17d6c1959a4440c0e38cb00a2a3900089bebdcf2"
+    },
+    {
+      "key": "Ravichandran2020FairxgboostFairnessAware",
+      "aliases": [
+        "FairxgboostFairnessa235"
+      ],
+      "identity_sha256": "278d409a3c8aa19be188804a979302ea535c87be04416ababbeb78a2c3fa0c27"
+    },
+    {
+      "key": "Rebedea2023NemoGuardrailsToolkit",
+      "aliases": [
+        "NeMoGuardrailsAToolk406"
+      ],
+      "identity_sha256": "f68d469c474f998d5f35299eaf1e00a01c97d128d0f50319086decefc8e84129"
+    },
+    {
+      "key": "Recht2011HogwildLockFree",
+      "aliases": [
+        "HOGWILDALockfreeAppr300"
+      ],
+      "identity_sha256": "278eb786a724be1731ce8e0c8f23a38a0fbc583cfb939f94a46f980d944b29d4"
+    },
+    {
+      "key": "Recht2019DoImagenetClassifiers",
+      "aliases": [
+        "DoImageNetClassifier179"
+      ],
+      "identity_sha256": "f722f41f1b205b9af9ca6624280e3a51395a5da38f5c6d87c282fcb618d42638"
+    },
+    {
+      "key": "Rehberger2020CybersecurityAttacksRed",
+      "aliases": [
+        "CybersecurityAttacks139"
+      ],
+      "identity_sha256": "ae71b171eac2dcb471b4b067ccfe52778acd68ac0212a7b34c10c0d1ca3463ae"
+    },
+    {
+      "key": "Reisman2018AlgorithmicImpactAssessments",
+      "aliases": [
+        "AlgorithmicImpactAss052"
+      ],
+      "identity_sha256": "a1d77edb7bfbf0cf938eba91d026ca8b9346e19b826d7738c9015b096456ab10"
+    },
+    {
+      "key": "ResponsibleAiCollaborative2024AiIncidentDatabase",
+      "aliases": [
+        "AIIncidentDatabase045"
+      ],
+      "identity_sha256": "f261b3e0a7073e40f71c5040e3ba5a91258c85243cf0916f4a47924f771ed583"
+    },
+    {
+      "key": "Ribeiro2016WhyShouldI",
+      "aliases": [
+        "WhyshouldItrustyouEx637"
+      ],
+      "identity_sha256": "1f5b60af17ce0890922ed069fc7ac7f8172b880a27987498ae0b2f91dfad7436"
+    },
+    {
+      "key": "Ribeiro2018AnchorsHighPrecision",
+      "aliases": [
+        "AnchorsHighPrecision065"
+      ],
+      "identity_sha256": "9e337b2a09556e29acdfb7187b896c218bec1aac57b3544816039f7a3b27a66b"
+    },
+    {
+      "key": "Richards2014ConversationalAnalysis",
+      "aliases": [
+        "Conversationalanalys135"
+      ],
+      "identity_sha256": "51e8ea300112b81832674db8cedcfd450318b90e1a345b9e4ae0ea4a52206590"
+    },
+    {
+      "key": "Rismani2022PlaneCrashesAlgorithmic",
+      "aliases": [
+        "Fromplanecrashestoal253"
+      ],
+      "identity_sha256": "b6cbe06f61355106c13c8bda831f966d711b19768fce610384bd9f2cbdd49f4b"
+    },
+    {
+      "key": "Roberts1982CamerasSystemsHistory",
+      "aliases": [
+        "CamerasandSystemsAHi108"
+      ],
+      "identity_sha256": "23ec6807bd6f9b1caf0b0cf4e4ca96486ad25cd95f379b9311d16d11fd3b965a"
+    },
+    {
+      "key": "Robinson2020FaceRecognitionToo",
+      "aliases": [
+        "Facerecognitiontoobi223"
+      ],
+      "identity_sha256": "1ca4824b90b4168ea09925e3267c84ce32cbdada1f4f250e3170b49dfe034bb0"
+    },
+    {
+      "key": "Rodolfa2021EmpiricalObservationNegligible",
+      "aliases": [
+        "EmpiricalObservation194"
+      ],
+      "identity_sha256": "831f0395d46701ea5467fb4d55e11d3b5058b0a06af50eed81d37fc9f8403b96"
+    },
+    {
+      "key": "Rogers2021JustWhatDo",
+      "aliases": [
+        "JustWhatdoYouThinkYo349"
+      ],
+      "identity_sha256": "73a131b8f01c16a3d00469bd4245deca6a61269c0bb48764192c98ac3435fba2"
+    },
+    {
+      "key": "Rottger2022TwoContrastingData",
+      "aliases": [
+        "TwoContrastingDataAn614"
+      ],
+      "identity_sha256": "7c11327fbe9f6cb3c6addef685adcc8b4240b25ac7c3dbbbbd992926a3d8dc6e"
+    },
+    {
+      "key": "ROttger2024XstestTestSuite",
+      "aliases": [
+        "XstestAtestsuitefori641"
+      ],
+      "identity_sha256": "3094e07b90c4dec58ba163d108fc9a6b515c4b04806e6c8d7e71f908994b6cb8"
+    },
+    {
+      "key": "ROttger2026IssuebenchMillionsRealistic",
+      "aliases": [
+        "IssueBenchMillionsof344"
+      ],
+      "identity_sha256": "610dbc607ad6af5a527e81abfef6dec79bc8040cea50c4f16520f2ef233d0f24"
+    },
+    {
+      "key": "Rudin2018PleaseStopExplaining",
+      "aliases": [
+        "PleaseStopExplaining438"
+      ],
+      "identity_sha256": "eda5a3a6db9084a45eaad7ce0a8c917a21b22a43e1de3ea0a431b210caa92b25"
+    },
+    {
+      "key": "Rudin2019StopExplainingBlack",
+      "aliases": [
+        "Stopexplainingblackb529"
+      ],
+      "identity_sha256": "d6bb5a85a6b4668161e2fa52df631402ac9228f4311d2eb867068928a843973e"
+    },
+    {
+      "key": "Russakovsky2015ImagenetLargeScale",
+      "aliases": [
+        "ImageNetLargeScaleVi318"
+      ],
+      "identity_sha256": "422f3b2fba389596c159dccf178202f93026c3e5f24da4ddb46685d15bd18409"
+    },
+    {
+      "key": "Russell2010ArtificialIntelligenceModern",
+      "aliases": [
+        "ArtificialIntelligen072"
+      ],
+      "identity_sha256": "84f59dfc65415eccc08ad798d02b18122212f9559082d5b88129b9207a5c9f01"
+    },
+    {
+      "key": "Russell2020ArtificialIntelligenceModern",
+      "aliases": [
+        "ArtificialIntelligen079"
+      ],
+      "identity_sha256": "714ecb9d874c0a287f022b4d9bc30aa88db87be044cd0fd596b855b262a0ca36"
+    },
+    {
+      "key": "Salvatier2016ProbabilisticProgrammingPython",
+      "aliases": [
+        "ProbabilisticProgram454"
+      ],
+      "identity_sha256": "3e92c8817cf92c40aa7650d0d4b473eb396af12c39d0b233ccbbb825f82e8347"
+    },
+    {
+      "key": "Sambasivan2021EveryoneWantsDo",
+      "aliases": [
+        "Everyonewantstodothe207"
+      ],
+      "identity_sha256": "8d821a7b34f6665031fd91529f1babc58d47eec188c21e88a354c9b44c77f549"
+    },
+    {
+      "key": "Samvelyan2024RainbowTeamingOpen",
+      "aliases": [
+        "RainbowTeamingOpenEn474"
+      ],
+      "identity_sha256": "7eae92bcc395bc3acfd032eb8ae7e3acfc806a5b03920a6925cbb7edf6ae5cd6"
+    },
+    {
+      "key": "Saravia2022PromptEngineeringGuide",
+      "aliases": [
+        "PromptEngineeringGui458"
+      ],
+      "identity_sha256": "c3957222dd85a0b326cc83f252fcd82439a9ba1320bb8f4a6ec16610c9fa2d03"
+    },
+    {
+      "key": "Saravia2024DairAiPrompt",
+      "aliases": [
+        "DAIRAIPromptEngineer140"
+      ],
+      "identity_sha256": "b8e04755fef17601d0f879d09ea68884daf65b0c8bb4c332b121492216826476"
+    },
+    {
+      "key": "Schafer2023DataDrivenBusiness",
+      "aliases": [
+        "Datadrivenbusinessan147"
+      ],
+      "identity_sha256": "497e64c83a1afd49b7451cc9537f20daa740404244268a59d8fb966cfc8aecef"
+    },
+    {
+      "key": "Schmidt2019IntroductionArtificialIntelligence",
+      "aliases": [
+        "AnIntroductiontoArti059"
+      ],
+      "identity_sha256": "78edaafe777f9661206de8afe43c38a91384706949db09052e43e1ba95978963"
+    },
+    {
+      "key": "Schwartz2022TowardsStandardIdentifying",
+      "aliases": [
+        "TowardsaStandardforI602"
+      ],
+      "identity_sha256": "801f617d245b87d812d23a702e1479ad1db95160d4973d80afcd4f75a22a0a1f"
+    },
+    {
+      "key": "Schwartz2024AssessingRisksImpacts",
+      "aliases": [
+        "TheAssessingRisksand557"
+      ],
+      "identity_sha256": "7ecca9533468bb29e17c9f65295acd96e0bba6063827f17b80c32f4ae5837af3"
+    },
+    {
+      "key": "Schwartz2024NistAssessingRisks",
+      "aliases": [
+        "TheNISTAssessingRisk582"
+      ],
+      "identity_sha256": "5aea9d2f21ff4d6074f212f15db646778346ed7cabdffb5ea2b6db61f7e5823a"
+    },
+    {
+      "key": "Schwartz2025RealityCheckNew",
+      "aliases": [
+        "RealityCheckANewEval480"
+      ],
+      "identity_sha256": "06579acea5a7f2f0dca67c7fce5ed99116cab4a098ceabedc6e3a75fd3f26c7a"
+    },
+    {
+      "key": "ScientificIntegrityFramework2023FrameworkFederalScientific",
+      "aliases": [
+        "AFrameworkforFederal007"
+      ],
+      "identity_sha256": "713b42e20408949cfe5cae4f1d12de7a7c13ca84803f340c29f67be48aedac6d"
+    },
+    {
+      "key": "Scott1955ReliabilityContentAnalysis",
+      "aliases": [
+        "Reliabilityofcontent492"
+      ],
+      "identity_sha256": "104fdc42af83adc30d48a4c5b861d792492641e0a451bff1d120ba0a48b0e72e"
+    },
+    {
+      "key": "Seh2020HealthcareDataBreaches",
+      "aliases": [
+        "HealthcareDataBreach297"
+      ],
+      "identity_sha256": "1188029378c9ab52d76b35473448eb7158dca82a704f9c890ed7cfdd48a96372"
+    },
+    {
+      "key": "Selbst2019FairnessAbstractionSociotechnical",
+      "aliases": [
+        "Fairnessandabstracti228"
+      ],
+      "identity_sha256": "18d2110e993928e32e01d33f403955d822f7fca92db9eb3ab5f77b5fa75dc7b5"
+    },
+    {
+      "key": "Shan2023GlazeProtectingArtists",
+      "aliases": [
+        "GlazeProtectingartis268"
+      ],
+      "identity_sha256": "91860d03303d3d4fac308483b7e9995aff9d5e96875f43e7b1697064b76acf37"
+    },
+    {
+      "key": "Shapley1953ValueNPerson",
+      "aliases": [
+        "AValueforNPersonGame029"
+      ],
+      "identity_sha256": "2e4cb3884ff6cbe6e9df7bd2d2c530c51980f5eacb464c9b1ab8461e4ae559d6"
+    },
+    {
+      "key": "Shapley1988ShapleyValueEssays",
+      "aliases": [
+        "TheShapleyValueEssay589"
+      ],
+      "identity_sha256": "aa82adeaec724bd88e81647161efe0836b33c2655c908effbd849aff544ed5fc"
+    },
+    {
+      "key": "Shelby2023SociotechnicalHarmsAlgorithmic",
+      "aliases": [
+        "Sociotechnicalharmso515"
+      ],
+      "identity_sha256": "4f5444ccda617bace93c1df4f8c67804efe7a713679ad31d2dcee5de1edcbb0d"
+    },
+    {
+      "key": "Shen2024DoAnythingNow",
+      "aliases": [
+        "DoanythingnowCharact178"
+      ],
+      "identity_sha256": "b7f24be144bc055c8600382784ae31b26ec4a500962f233561e08fe820141ecc"
+    },
+    {
+      "key": "Shen2024TaskbenchBenchmarkingLarge",
+      "aliases": [
+        "TaskbenchBenchmarkin547"
+      ],
+      "identity_sha256": "cf83f8ba9c41bd847ed5bb44deed17357fb4f38c2821bd40c308dba72ed678b9"
+    },
+    {
+      "key": "Shi2024DetectingPretrainingData",
+      "aliases": [
+        "DetectingPretraining167"
+      ],
+      "identity_sha256": "5babfe127d3857b6f2c5719b97eadfcf8917071b669cefc3af4a4e53fb52264b"
+    },
+    {
+      "key": "Shi2025PromptInjectionAttack",
+      "aliases": [
+        "Promptinjectionattac460"
+      ],
+      "identity_sha256": "968dd1db110b44fab8c131ee34b71e6ecff339d73468405bfa4213e8a5de0105"
+    },
+    {
+      "key": "Shneiderman1992TreeVisualizationTree",
+      "aliases": [
+        "TreeVisualizationwit608"
+      ],
+      "identity_sha256": "815d3d3d11db465aaf14cb650c7a261fbfe279a45c93490d6491532833126cee"
+    },
+    {
+      "key": "Shokri2017MembershipInferenceAttacks",
+      "aliases": [
+        "MembershipInferenceA390"
+      ],
+      "identity_sha256": "0531b36f78635d3d9b72e443eadfa7ff8811e9bc6f777cd0580559914b7d923d"
+    },
+    {
+      "key": "Shokri2019PrivacyRisksExplaining",
+      "aliases": [
+        "PrivacyRisksofExplai452"
+      ],
+      "identity_sha256": "3b37ddc872ed4da8a6b7be57dcd1c598975456d61dd093b87111308cbb115dc9"
+    },
+    {
+      "key": "Shumailov2021SpongeExamplesEnergy",
+      "aliases": [
+        "SpongeexamplesEnergy521"
+      ],
+      "identity_sha256": "3de8194ede3bcda1954ac2fb494e314d585a388547ce3e1ff81df3876fa59664"
+    },
+    {
+      "key": "Shumailov2024CurseRecursionTraining",
+      "aliases": [
+        "TheCurseofRecursionT562"
+      ],
+      "identity_sha256": "89cd2c44d61a741b222da6f1dfb0d0829e55315eb0e7f3e1b57c0cc0e3aded8a"
+    },
+    {
+      "key": "Siddiqi2012CreditRiskScorecards",
+      "aliases": [
+        "CreditRiskScorecards138"
+      ],
+      "identity_sha256": "b8a585cd5e8f90662c4d48305846ab66e32d154157401e33a1c655fc2f00b8fe"
+    },
+    {
+      "key": "Simonsen2010IterativeParticipatoryDesign",
+      "aliases": [
+        "Iterativeparticipato345"
+      ],
+      "identity_sha256": "38f9d9a59d05d14cbae26609b42142306727a5e80f6aed45058be018db826ed4"
+    },
+    {
+      "key": "Simonyan2014VeryDeepConvolutional",
+      "aliases": [
+        "VeryDeepConvolutiona627"
+      ],
+      "identity_sha256": "a91faf6586fe404664f5575d04648f9a376f24e1e1cd02fbd277a8e644aa6ada"
+    },
+    {
+      "key": "Singh2025LeaderboardIllusion",
+      "aliases": [
+        "TheLeaderboardIllusi576"
+      ],
+      "identity_sha256": "94818da8957e2c88b5d916204469964ea5cad5eb5c5a58777cec00d5fdffc9bf"
+    },
+    {
+      "key": "SitawarinndLlmSecurityPrivacy",
+      "aliases": [
+        "LLMSecurityandPrivac369"
+      ],
+      "identity_sha256": "e8e0bc485b46c788127d5f9f404c28610fd4e17d90be941352ecc74c34bb0e22"
+    },
+    {
+      "key": "Slack2019HowCanWe",
+      "aliases": [
+        "HowCanWeFoolLIMEandS304"
+      ],
+      "identity_sha256": "6743b7f63b38b11918b32c6e3cc50723adbf08f2533a07daa0ab8c455463b9bf"
+    },
+    {
+      "key": "Slack2020FoolingLimeShap",
+      "aliases": [
+        "FoolingLIMEandSHAPAd245"
+      ],
+      "identity_sha256": "4910a4871ca5283edd436fd48a9551bdc16fc64d7e20e3eddba566c9b58e35a7"
+    },
+    {
+      "key": "Sloane2022ParticipationNotDesign",
+      "aliases": [
+        "ParticipationIsnotaD428"
+      ],
+      "identity_sha256": "d4d6b12a0f4083af70b8fda66be50524eb551c492fa762e16f166011b5fbaaca"
+    },
+    {
+      "key": "Slota2023ManyHandsMake",
+      "aliases": [
+        "ManyHandsMakeManyFin383"
+      ],
+      "identity_sha256": "ffa96f7ff4d2e3f62395d8c461ad9e27bf6ea1f2e56a7a897fcab36f17ae296b"
+    },
+    {
+      "key": "Smith2022RealMlRecognizing",
+      "aliases": [
+        "REALMLRecognizingExp478"
+      ],
+      "identity_sha256": "1594c75e76a02b7606962956df3a80ac45f524fd52511813117d1d084c51ff6d"
+    },
+    {
+      "key": "Snyder2012LetDataPaint",
+      "aliases": [
+        "LettheDataPaintthePi364"
+      ],
+      "identity_sha256": "c303d34f48d2c3ea1bc465f9cf67e64706e687905981553f468bc94273f54cae"
+    },
+    {
+      "key": "Society2023ScienceXAi",
+      "aliases": [
+        "SciencexAISafetyRedT504"
+      ],
+      "identity_sha256": "8eb4854e648e5846f411f0fdab44630f28b38ca612e462749cef8ad61350e257"
+    },
+    {
+      "key": "Society2024RedTeamingLarge",
+      "aliases": [
+        "RedTeamingLargeLangu484"
+      ],
+      "identity_sha256": "2b4e74ae8e8059033534c0642feaf2cabc59664d4926fc70ce09f15aa50ce196"
+    },
+    {
+      "key": "Soylu2024FineTuningPrompt",
+      "aliases": [
+        "Finetuningandprompto242"
+      ],
+      "identity_sha256": "5b7e3260f973aaaddc5d21d479f174ac7b03e1a3c1bfaa34041b834648291869"
+    },
+    {
+      "key": "Srivastava2023BeyondImitationGame",
+      "aliases": [
+        "BeyondtheImitationGa098"
+      ],
+      "identity_sha256": "9fc4bab32d8467e02809f228828a2b48282d44b33574428faea4ec9802015bd9"
+    },
+    {
+      "key": "Staab2024BeyondMemorizationViolating",
+      "aliases": [
+        "BeyondMemorizationVi095"
+      ],
+      "identity_sha256": "0fcd3a501c098af6caf206c5c3858b1bc20c724aab173264aef85227f2c407cb"
+    },
+    {
+      "key": "Stadler2013SolutionsExplorationExploitation",
+      "aliases": [
+        "Solutionstotheexplor517"
+      ],
+      "identity_sha256": "aebe7d3b564bc8d5c31c05cf8ed03f87994a45ed710fe3accb7dcdf18e6b00b4"
+    },
+    {
+      "key": "StallaBourdillon2019WarningSignsFuture",
+      "aliases": [
+        "WarningSignsPrivacya630"
+      ],
+      "identity_sha256": "2b3140744872e190c93a2c45662de7260193b4c705cd1770c2053b937cdbff5c"
+    },
+    {
+      "key": "Storchan2024GenerativeAiRed",
+      "aliases": [
+        "GenerativeAIRedTeami263"
+      ],
+      "identity_sha256": "ef4fc96b8bd1e05ec7c59deecfa6eae1394e3f5b3d0f6c1924fa71bc47f31d43"
+    },
+    {
+      "key": "Strauss2025StateAiGovernance",
+      "aliases": [
+        "TheStateofAIGovernan591"
+      ],
+      "identity_sha256": "3d42e0aec2b52d196ee3a5cc54ac789a39866499908b595c701b7e6272533bab"
+    },
+    {
+      "key": "Sturman2024DebiasingTextSafety",
+      "aliases": [
+        "Debiasingtextsafetyc151"
+      ],
+      "identity_sha256": "968a73176991de056084d2c51e76706b9a01f3b75d0683b12dd9840d1814ff23"
+    },
+    {
+      "key": "Su2025AiLiedarExamine",
+      "aliases": [
+        "AILIEDARExaminethetr050"
+      ],
+      "identity_sha256": "7426a0b69d4118df7d584af16fcca06026b2bfc4d226f959c063aabd2985ec72"
+    },
+    {
+      "key": "Sudjianto2021DesigningInherentlyInterpretable",
+      "aliases": [
+        "DesigningInherentlyI166"
+      ],
+      "identity_sha256": "44af27c4dc13c7de4e6348a94edd7a00df2866a2d9f46394c615ca37eef04652"
+    },
+    {
+      "key": "Sudjianto2024HumanCalibratedAutomatedx6531b47a",
+      "aliases": [
+        "HumanCalibratedAutom310"
+      ],
+      "identity_sha256": "6531b47ac2dfc9c30ee14961205bc4635b576bce4a4d3a85769dbffa994cd6aa"
+    },
+    {
+      "key": "Sudjianto2024HumanCalibratedAutomatedxd208d64b",
+      "aliases": [
+        "HumanCalibratedAutom309"
+      ],
+      "identity_sha256": "d208d64b65639422595bd2b0e89db1f6be06d41b2bbfe2539fa53699dae07044"
+    },
+    {
+      "key": "Sutskever2013ImportanceInitializationMomentum",
+      "aliases": [
+        "Ontheimportanceofini418"
+      ],
+      "identity_sha256": "bb007cd281b0bf8d113fa2a84c9c928801b064491cc33349d9112535b50c0972"
+    },
+    {
+      "key": "Sutskever2014SequenceSequenceLearning",
+      "aliases": [
+        "SequencetoSequenceLe507"
+      ],
+      "identity_sha256": "5e5b8a58932ae2b2b12bbd2b3c6bb7488921d15ae4b988041568e2bdff533ed7"
+    },
+    {
+      "key": "Szegedy2013IntriguingPropertiesNeural",
+      "aliases": [
+        "IntriguingProperties336"
+      ],
+      "identity_sha256": "b066f83d1b41dfd99633a9c35042a2446312929850cc9fd6e656fb3b4b0d509b"
+    },
+    {
+      "key": "Szegedy2014GoingDeeperConvolutions",
+      "aliases": [
+        "GoingDeeperwithConvo273"
+      ],
+      "identity_sha256": "f5a2ab85c2ca21aafa9883dd4a441c19ef74a82979d08061f8b84fc97b19a48d"
+    },
+    {
+      "key": "Tamkin2023EvaluatingMitigatingDiscrimination",
+      "aliases": [
+        "EvaluatingandMitigat200"
+      ],
+      "identity_sha256": "3acbb68ea9974e59105d34c424183f6ed670a64a9a91268d40d5d7b63d690d5c"
+    },
+    {
+      "key": "Tamkin2024ClioPrivacyPreserving",
+      "aliases": [
+        "ClioPrivacyPreservin118"
+      ],
+      "identity_sha256": "1467465cdd69b45edc3bb6da98a8189eb614ce72100bd7586c805c08caf0106b"
+    },
+    {
+      "key": "Team2015RLanguageEnvironment",
+      "aliases": [
+        "RALanguageandEnviron473"
+      ],
+      "identity_sha256": "161c098b830812fdb511b7279e3e4baf1805b78c016d16804004e09d322e4842"
+    },
+    {
+      "key": "Theofanos2024AiUseTaxonomy",
+      "aliases": [
+        "AIUseTaxonomyAHumanC049"
+      ],
+      "identity_sha256": "7eaaccab1221f923e06d05794d15791d65282fc3eb8192f340109b65bcc74d81"
+    },
+    {
+      "key": "Thiel2023IdentifyingEliminatingCsam",
+      "aliases": [
+        "IdentifyingandElimin314"
+      ],
+      "identity_sha256": "d29822dc2659b4db340ceb825bf8c552a86a5eae031d7696261ccc10268c5eb9"
+    },
+    {
+      "key": "Thomas2022RelianceMetricsFundamental",
+      "aliases": [
+        "Relianceonmetricsisa493"
+      ],
+      "identity_sha256": "ded889b1d9d3160430eded0b25b494e68a325c732fe66e96a379eb1a2e9fcc95"
+    },
+    {
+      "key": "Thompson2024AnalyticalResultsUncertainty",
+      "aliases": [
+        "Analyticalresultsfor063"
+      ],
+      "identity_sha256": "1766a0ac97e88d55a2da25d1d4f0171f9febcc153ad82511273379ae27598bc8"
+    },
+    {
+      "key": "Tibshirani1996RegressionShrinkageSelection",
+      "aliases": [
+        "RegressionShrinkagea488"
+      ],
+      "identity_sha256": "9541b8d99f59c743b8f7321b62c837e84ae3ffadacd7aa1012a9e383cd8a66b9"
+    },
+    {
+      "key": "Tomsett2018InterpretableWhomRole",
+      "aliases": [
+        "InterpretabletoWhomA331"
+      ],
+      "identity_sha256": "a046ddc0b8cc7cc7ef52229f639f1873bdaec70a4f0d951f697803da494cf1b6"
+    },
+    {
+      "key": "Tramer2016StealingMachineLearning",
+      "aliases": [
+        "StealingMachineLearn526"
+      ],
+      "identity_sha256": "3140c90ba5c3512c820c87a06083e6a94cc64b48b9d2e8eff7e78be163ba5267"
+    },
+    {
+      "key": "Trist1951SomeSocialPsychological",
+      "aliases": [
+        "SomeSocialandPsychol518"
+      ],
+      "identity_sha256": "5e5c2e4f3804274fe47af02e7ee7b0d1425d4e53e1c53d7c2f16c79ef03a387e"
+    },
+    {
+      "key": "Turri2023WhyWeNeed",
+      "aliases": [
+        "WhyweneedtoknowmoreE638"
+      ],
+      "identity_sha256": "785777d0cb43fe5cc4bd1e1bcecb64f6b5f422f94cae6d983f9c61c9913ec7c4"
+    },
+    {
+      "key": "Tversky1971BeliefLawSmall",
+      "aliases": [
+        "BeliefintheLawofSmal092"
+      ],
+      "identity_sha256": "a442a5b21897d7990c6aaeaab108b9620acf481376dca5774ae2fcf0121fae62"
+    },
+    {
+      "key": "Udell2016GeneralizedLowRank",
+      "aliases": [
+        "GeneralizedLowRankMo261"
+      ],
+      "identity_sha256": "d178f6688923925c19920582233e461f598e6d31b4cf0f07b00bdfea431f1f98"
+    },
+    {
+      "key": "Ustun2016SupersparseLinearInteger",
+      "aliases": [
+        "SupersparseLinearInt536"
+      ],
+      "identity_sha256": "d28f29562e94534e2d8156a5e9e2549bbb1b0f46cb3ccfe2bd82d07003ebfc4c"
+    },
+    {
+      "key": "ValdenegroToro2022DeeperLookInto",
+      "aliases": [
+        "ADeeperLookintoAleat006"
+      ],
+      "identity_sha256": "66d2a8051e4eaf7856ae1ef02fbeefb1b6c64f12d03932fb0adcdcd4504769d8"
+    },
+    {
+      "key": "VanEngelen2007UndergraduateIntroductoryQuantitative",
+      "aliases": [
+        "UndergraduateIntrodu617"
+      ],
+      "identity_sha256": "89d4c17a2f785afcad6469db583161ba0fef2999d13c4690cfe289e68e6e2424"
+    },
+    {
+      "key": "Vartak2016ModelDbSystem",
+      "aliases": [
+        "ModelDBASystemforMac397"
+      ],
+      "identity_sha256": "438d113ff68ca04738be1b72c019d9bf9deae97904eef5d9abb74e1631d00f81"
+    },
+    {
+      "key": "Vaswani2017AttentionAllYou",
+      "aliases": [
+        "AttentionisAllyouNee086"
+      ],
+      "identity_sha256": "0a3c6c32445b6e90c403578297ff070c29b778f80cc52e498dea05abd8b27ad3"
+    },
+    {
+      "key": "Vaughan2018ExplainableNeuralNetworks",
+      "aliases": [
+        "ExplainableNeuralNet213"
+      ],
+      "identity_sha256": "97b4dff534ce524ac1bdb0ae30cbaba1f458d61d500b52367100a4902f2904cc"
+    },
+    {
+      "key": "Vela2023GooglesRewardCriteria",
+      "aliases": [
+        "GooglesRewardCriteri274"
+      ],
+      "identity_sha256": "066d7b8168f92b34223a712ac51bac82de3553e0325dad0f6dcffa24fea43b55"
+    },
+    {
+      "key": "Wachter2017CounterfactualExplanationsWithout",
+      "aliases": [
+        "CounterfactualExplan137"
+      ],
+      "identity_sha256": "032bae230a15858554c02dc58f3ad19493a243ed0408d372c705ab3b9c78db91"
+    },
+    {
+      "key": "Walker2008ReviewSociotechnicalSystems",
+      "aliases": [
+        "Areviewofsociotechni016"
+      ],
+      "identity_sha256": "b3178e9c51331cb2d2d81f454bd320063174590a865a9e0f4a61f6d30fc637d7"
+    },
+    {
+      "key": "Wallace2019AllennlpInterpretFramework",
+      "aliases": [
+        "AllenNLPInterpretAFr053"
+      ],
+      "identity_sha256": "136f2fc20b0d6116d258a6244438ba9f0c5ab5235dad9084ea37c9b19de68a33"
+    },
+    {
+      "key": "Wallach2024EvaluatingGenerativeAi",
+      "aliases": [
+        "EvaluatingGenerative201"
+      ],
+      "identity_sha256": "d7e2caa852b51d23c3072bd5fd20acc2cd903fbb5bf4b6cd2ef840f1b8f03cac"
+    },
+    {
+      "key": "Wallach2025PositionEvaluatingGenerative",
+      "aliases": [
+        "PositionEvaluatingGe441"
+      ],
+      "identity_sha256": "29792a400544e1c466615b68f7e43b9cf43445630a25ffb3d3b64c346a2a76c7"
+    },
+    {
+      "key": "Wan2023PoisoningLanguageModels",
+      "aliases": [
+        "Poisoninglanguagemod440"
+      ],
+      "identity_sha256": "584bac2bf8da18bdf3c8c151dcc9f84bdcf9a14d708f83929106d6a73b4b4d10"
+    },
+    {
+      "key": "Wang2018GlueMultiTask",
+      "aliases": [
+        "GLUEAMultitaskBenchm272"
+      ],
+      "identity_sha256": "5f89a99d64286797546f72c8da1aebedb4bd84d355d0756667b61d64f6b23d4e"
+    },
+    {
+      "key": "Wang2019SuperglueStickierBenchmark",
+      "aliases": [
+        "SuperGLUEAStickierBe535"
+      ],
+      "identity_sha256": "5e1e71509946df4c881556cc3a4514789eb2b13634d6d43bbbfda3cffab98b66"
+    },
+    {
+      "key": "Wang2021EvilmodelHidingMalware",
+      "aliases": [
+        "EvilModelHidingmalwa208"
+      ],
+      "identity_sha256": "354a51653fa4760546800e833f126b86f01747526e7e25af2db73af6ae6ca3e5"
+    },
+    {
+      "key": "Wang2024CalibrationDeepLearning",
+      "aliases": [
+        "CalibrationinDeepLea107"
+      ],
+      "identity_sha256": "9d5d0e842bf84d01f1fa25909768c419e0f3618957df2ab077c866a48289ea17"
+    },
+    {
+      "key": "Wang2024DecodingtrustComprehensiveAssessment",
+      "aliases": [
+        "DecodingTrustAcompre155"
+      ],
+      "identity_sha256": "6df4fade605ff4da4e9c422b7b6b27e61754e7927f0be39262752795dcd12fa9"
+    },
+    {
+      "key": "Wang2024DoNotAnswer",
+      "aliases": [
+        "DonotanswerEvaluatin182"
+      ],
+      "identity_sha256": "c1634aaa6a1843ce4839a06fe629b18c4551e406672befd58848d118c3ed8592"
+    },
+    {
+      "key": "Wang2024FactualityLargeLanguage",
+      "aliases": [
+        "Factualityoflargelan225"
+      ],
+      "identity_sha256": "7edd7b42d807579ec65202e1f4922b58f7b7b5caab888f3a7acc34c86aaca675"
+    },
+    {
+      "key": "Wang2024HumanCenteredSocial",
+      "aliases": [
+        "Fromhumancenteredtos252"
+      ],
+      "identity_sha256": "21113a62531dac0fcd4d717c9373b5d3bff21188c9577f55c43f214ac2fa03d1"
+    },
+    {
+      "key": "Webson2023LanguageModelsWorse",
+      "aliases": [
+        "AreLanguageModelsWor069"
+      ],
+      "identity_sha256": "79aec2a2f0563721114eb846f776996b2abf1119e43e2d966ffba5bb91f69e4d"
+    },
+    {
+      "key": "Wei2022ChainThoughtPrompting",
+      "aliases": [
+        "ChainofthoughtPrompt113"
+      ],
+      "identity_sha256": "7ba74fc730edd131e49036c647b677d88dd0c269abfb98378e918da55b77ff73"
+    },
+    {
+      "key": "Wei2023JailbrokenHowDoes",
+      "aliases": [
+        "JailbrokenHowdoesLLM347"
+      ],
+      "identity_sha256": "ab43afe9cb16876d875570e14323da6ea114dfc49b347586247ad5b6acf153e4"
+    },
+    {
+      "key": "Weidinger2022TaxonomyRisksPosed",
+      "aliases": [
+        "TaxonomyofRisksPosed549"
+      ],
+      "identity_sha256": "e73ef7f6fe1e746231688724e1173dd00232a2b1fc21b6744cfad48c87879f80"
+    },
+    {
+      "key": "Weidinger2023SociotechnicalSafetyEvaluation",
+      "aliases": [
+        "SociotechnicalSafety516"
+      ],
+      "identity_sha256": "4c8f212e0c3a476d395ae8de1eb61f3b7657f9fdafc6b91eedea106eedfdb995"
+    },
+    {
+      "key": "Weidinger2025TowardEvaluationScience",
+      "aliases": [
+        "TowardanEvaluationSc597"
+      ],
+      "identity_sha256": "5282033500bc4772ae1b7e93170e3fea12e65cf64fc2d84f66c6ef67b606bf0a"
+    },
+    {
+      "key": "Weller2017ChallengesTransparency",
+      "aliases": [
+        "ChallengesforTranspa114"
+      ],
+      "identity_sha256": "741425deedefdd19b339b240976568ac5367f7383bf67433d43417962bf0ee11"
+    },
+    {
+      "key": "White2025LivebenchChallengingContamination",
+      "aliases": [
+        "LiveBenchAChallengin366"
+      ],
+      "identity_sha256": "27644faa35c0e2e9db94735960a15c586341b66cf2780147c03e222ac6ca2dc6"
+    },
+    {
+      "key": "Wilkinson2006GrammarGraphics",
+      "aliases": [
+        "TheGrammarofGraphics569"
+      ],
+      "identity_sha256": "253a19dc0b07d669ce0d30f1a31a890762b0bf9048b556095f8bbd3cc6c32f79"
+    },
+    {
+      "key": "Wilkinson2018VisualizingBigData",
+      "aliases": [
+        "VisualizingBigDataOu628"
+      ],
+      "identity_sha256": "65d0f26097bf5eadb472cf498216016bda1f3be461641b3e20b7997a3250cfa3"
+    },
+    {
+      "key": "Williams2017Interpretability",
+      "aliases": [
+        "Interpretability328"
+      ],
+      "identity_sha256": "494115bf34eef6a81297b4e3837c1b4c510b3b424468fa89cb3549781677938c"
+    },
+    {
+      "key": "Woolley2015CollectiveIntelligenceGroup",
+      "aliases": [
+        "Collectiveintelligen124"
+      ],
+      "identity_sha256": "a5ba0e4370dc7236daecacaa1cc7e39b487a9ce0e4d9a450f9320af0c95c2014"
+    },
+    {
+      "key": "Wright2024PleasePoliteChatgpt",
+      "aliases": [
+        "PleaseBePolitetoChat437"
+      ],
+      "identity_sha256": "58d29f2dffd2939ea4b9686145080c91c29bf0facd272352f40333f66ec08b61"
+    },
+    {
+      "key": "Wujek2016BestPracticesMachine",
+      "aliases": [
+        "BestPracticesforMach094"
+      ],
+      "identity_sha256": "ae29eeee1a75439c2c47887bf6ecd74f9d74e0a1eaaf8b4ca22014ae73f2e610"
+    },
+    {
+      "key": "Xiong2015MultiLevelBell",
+      "aliases": [
+        "MultilevelBellTypeIn403"
+      ],
+      "identity_sha256": "e91160dd884afc2fdae7f33ea9b2b9c46ed649aadcc00cebb728c485e4eb1352"
+    },
+    {
+      "key": "Yadlowsky2023PretrainingDataMixtures",
+      "aliases": [
+        "PretrainingDataMixtu449"
+      ],
+      "identity_sha256": "3b1f98fb1a788766e55153036a9c603ba6b7741d0df465e2b4ed814b17968c9c"
+    },
+    {
+      "key": "Yang2017ScalableBayesianRule",
+      "aliases": [
+        "ScalableBayesianRule502"
+      ],
+      "identity_sha256": "274a6b912d350e9c3bbccede05e53813001e4521dc52a77ad064db8e001c2932"
+    },
+    {
+      "key": "Yang2019EnhancingExplainabilityNeural",
+      "aliases": [
+        "EnhancingExplainabil195"
+      ],
+      "identity_sha256": "dc57a63eac682d200e1b81d37778ac7f30494552e1d6a4d91693ef3856afa285"
+    },
+    {
+      "key": "Yang2021GamiNetExplainable",
+      "aliases": [
+        "GAMINetAnExplainable256"
+      ],
+      "identity_sha256": "0957766b321fc39879dae373dba07b17d7dba89f8f48cc6a7310b55981d7892c"
+    },
+    {
+      "key": "Ying2018HierarchicalGraphRepresentation",
+      "aliases": [
+        "HierarchicalGraphRep299"
+      ],
+      "identity_sha256": "b69099e41da30e6f120312e5a2df6dfddafe94053aefd4e36028263965764c18"
+    },
+    {
+      "key": "Yona2025InterpretingRepeatedToken",
+      "aliases": [
+        "InterpretingtheRepea333"
+      ],
+      "identity_sha256": "0d50c01eadce907dc6e70dd4c0ef0ecc63ca7525f7ee44c604c9166c8481ffcd"
+    },
+    {
+      "key": "Yu2024DonTListen",
+      "aliases": [
+        "DontListenToMeUnders183"
+      ],
+      "identity_sha256": "dcd869e4cece1f068aa5ba725154c5d3f190517d6a56a994843a3cf8ab3a9f2d"
+    },
+    {
+      "key": "Zafar2017FairnessBeyondDisparate",
+      "aliases": [
+        "FairnessBeyondDispar231"
+      ],
+      "identity_sha256": "1253b57845e01a810f114953fd5e7afd9ec95919ae56cf7e8736b59e21cb9e83"
+    },
+    {
+      "key": "Zech2018VariableGeneralizationPerformance",
+      "aliases": [
+        "VariableGeneralizati625"
+      ],
+      "identity_sha256": "30da2859f17327c1eec3746a555228315c24ea90d7db3c4d661f5dae0709ea2d"
+    },
+    {
+      "key": "Zeiler2012AdadeltaAdaptiveLearning",
+      "aliases": [
+        "ADADELTAAnAdaptiveLe033"
+      ],
+      "identity_sha256": "ddb6fa989533c04a13b7e8c8ea3a9ce6f3102b52ad4eca54939e8897bad066e0"
+    },
+    {
+      "key": "Zemel2013LearningFairRepresentations",
+      "aliases": [
+        "LearningFairRepresen360"
+      ],
+      "identity_sha256": "b3443ecf6b51f3a1aa6f0c79af9b027517a2b0b624359fbde3df806493c6fed5"
+    },
+    {
+      "key": "Zhang2018MitigatingUnwantedBiases",
+      "aliases": [
+        "MitigatingUnwantedBi395"
+      ],
+      "identity_sha256": "c6f56cf5b89574cfe6bd81922febea8d2570579fc46750f03be9524d61993940"
+    },
+    {
+      "key": "Zhang2024HumanFactorAi",
+      "aliases": [
+        "TheHumanFactorinAIRe573"
+      ],
+      "identity_sha256": "a8484089cfef53f2f9a2626fa69330076f9a2cf79f646d29bc8d1d402bba0c71"
+    },
+    {
+      "key": "Zheng2023JudgingLlmJudge",
+      "aliases": [
+        "JudgingLLMasaJudgewi348"
+      ],
+      "identity_sha256": "3f9ac3c733f32fb961327d2d2485f59188922d3207f414ee1c2e9c978dfe8dce"
+    },
+    {
+      "key": "ZhiXuan2024BeyondPreferencesAi",
+      "aliases": [
+        "BeyondPreferencesinA097"
+      ],
+      "identity_sha256": "9e1fb967b82697031500ca040ae44950115177aae46f5d6e093c72c5a4850a2d"
+    },
+    {
+      "key": "Zhou2026GeneralScalesUnlock",
+      "aliases": [
+        "GeneralScalesUnlockA259"
+      ],
+      "identity_sha256": "75a3e2fa9224472e9c9eb4989bc525d8453bd43a739abd200b321c6edfaeecf6"
+    },
+    {
+      "key": "Zhu2024PromptbenchUnifiedLibrary",
+      "aliases": [
+        "PromptbenchAunifiedl461"
+      ],
+      "identity_sha256": "41b90d87967a4c7c3043454713af6114b653c56837afc7a149e271be8772202d"
+    },
+    {
+      "key": "Zou2005RegularizationVariableSelection",
+      "aliases": [
+        "Regularizationandvar489"
+      ],
+      "identity_sha256": "7916691c5c4025870d3e4e10660235e524bc67fa351e7da92212872db5805f00"
+    },
+    {
+      "key": "Zou2006SparsePrincipalComponent",
+      "aliases": [
+        "SparsePrincipalCompo520"
+      ],
+      "identity_sha256": "6815bf116a3f81a5736066f30364b007a4faa8a2722377ec9f5ed45257cffc3a"
+    }
+  ]
+}

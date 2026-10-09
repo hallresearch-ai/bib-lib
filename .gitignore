@@ -208,3 +208,16 @@ __marimo__/
 
 # Custom
 *.DS_Store
+
+# Local editor settings and spreadsheet lock files
+.idea/
+.vscode/
+~$*.xlsx
+*.tmp
+
+# Downloaded audit source caches stay local. Keep citation evidence/indexes,
+# decisions, audit tables, cleaned artifacts and original snapshots in Git.
+old/audits/*/proposed-fixes-sources/*
+!old/audits/*/proposed-fixes-sources/index.json
+!old/audits/*/proposed-fixes-sources/summarized-index.json
+old/audits/*/h2o-year-sources/

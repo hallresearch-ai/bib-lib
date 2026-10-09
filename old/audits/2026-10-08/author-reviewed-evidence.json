@@ -1,0 +1,308 @@
+[
+  {
+    "citation_key": "EthicsOwnersANewMode199",
+    "source_url": "https://datasociety.net/wp-content/uploads/2020/09/Ethics-Owners_20200923-DataSociety.pdf",
+    "author_list": [
+      "Moss, Emanuel",
+      "Metcalf, Jacob"
+    ],
+    "reason": "Cover explicitly lists Emanuel Moss and Jacob Metcalf; repair inverted first-name/surname fields."
+  },
+  {
+    "citation_key": "DraftforPublicCommen185",
+    "source_url": "https://pages.nist.gov/frvt/reports/quality/frvt_quality_report.pdf",
+    "author_list": [
+      "Grother, Patrick",
+      "Hom, Austin",
+      "Ngan, Mei",
+      "Hanaoka, Kayee"
+    ],
+    "reason": "Draft cover provides four individual authors; split incorrectly merged Patrick Grother/Austin Hom names."
+  },
+  {
+    "citation_key": "TaxonomyofFailureMod548",
+    "source_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf",
+    "author_list": [
+      "Bryan, Pete",
+      "Severi, Giorgio",
+      "de Gruyter, Joris",
+      "Jones, Daniel",
+      "Bullwinkel, Blake",
+      "Minnich, Amanda",
+      "Chawla, Shiven",
+      "Lopez, Gary",
+      "Pouliot, Martin",
+      "Fourney, Adam",
+      "Maxwell, Whitney",
+      "Pratt, Katherine",
+      "Qi, Saphir",
+      "Chikanov, Nina",
+      "Lutz, Roman",
+      "Dheekonda, Raja Sekhar Rao",
+      "Jagdagdorj, Bolor-Erdene",
+      "Kim, Eugenia",
+      "Song, Justin",
+      "Hines, Keegan",
+      "Jones, Daniel",
+      "Lundeen, Richard",
+      "Vaughan, Sam",
+      "Westerhoff, Victoria",
+      "Zunger, Yonatan",
+      "Kawaguchi, Chang",
+      "Russinovich, Mark",
+      "Kumar, Ram Shankar Siva"
+    ],
+    "reason": "Publication cover author list reviewed in full; split four merged author pairs and preserve the repeated Daniel Jones exactly as printed."
+  },
+  {
+    "citation_key": "PatternRecognitionan430",
+    "source_url": "https://link.springer.com/book/9780387310732",
+    "author_list": [
+      "Bishop, Christopher M."
+    ],
+    "reason": "Publisher identifies Christopher M. Bishop as the sole book author; Nasser M. Nasrabadi is not an author of this book."
+  },
+  {
+    "citation_key": "Thereplicationcrisis586",
+    "source_url": "https://api.crossref.org/works/10.1038%2Fs44271-023-00003-2",
+    "author_list": [
+      "Korbmacher, Max",
+      "Azevedo, Flavio",
+      "Pennington, Charlotte R.",
+      "Hartmann, Helena",
+      "Pownall, Madeleine",
+      "Schmidt, Kathleen",
+      "Elsherif, Mahmoud",
+      "Breznau, Nate",
+      "Robertson, Olly",
+      "Kalandadze, Tamara",
+      "Yu, Shijun",
+      "Baker, Bradley J.",
+      "O’Mahony, Aoife",
+      "Olsnes, Jørgen Ø. -S.",
+      "Shaw, John J.",
+      "Gjoneska, Biljana",
+      "Yamada, Yuki",
+      "Röer, Jan P.",
+      "Murphy, Jennifer",
+      "Alzahawi, Shilaan",
+      "Grinschgl, Sandra",
+      "Oliveira, Catia M.",
+      "Wingen, Tobias",
+      "Yeung, Siu Kit",
+      "Liu, Meng",
+      "König, Laura M.",
+      "Albayrak-Aydemir, Nihan",
+      "Lecuona, Oscar",
+      "Micheli, Leticia",
+      "Evans, Thomas"
+    ],
+    "reason": "Exact DOI publication author list replaces malformed et al., Max Korbmacher entry and restores the full list."
+  },
+  {
+    "citation_key": "LanguageModelsareUns354",
+    "source_url": "https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf",
+    "author_list": [
+      "Radford, Alec",
+      "Wu, Jeffrey",
+      "Child, Rewon",
+      "Luan, David",
+      "Amodei, Dario",
+      "Sutskever, Ilya"
+    ],
+    "reason": "Original OpenAI paper title page explicitly provides all six authors."
+  },
+  {
+    "citation_key": "ArtificialIntelligen078",
+    "source_url": "https://www.nist.gov/people/chloe-autio",
+    "author_list": [
+      "Autio, Chloe",
+      "Schwartz, Reva",
+      "Dunietz, Jesse",
+      "Jain, Shomik",
+      "Stanley, Martin",
+      "Tabassi, Elham",
+      "Hall, Patrick",
+      "Roberts, Kamie"
+    ],
+    "reason": "NIST author profile lists this exact 2024 publication and all eight individual authors, supplementing corporate-only DOI metadata."
+  },
+  {
+    "citation_key": "TheNISTAssessingRisk582",
+    "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.700-2.pdf",
+    "author_list": [
+      "Schwartz, Reva",
+      "Fiscus, Jonathan",
+      "Greene, Kristen",
+      "Waters, Gabriella",
+      "Chowdhury, Rumman",
+      "Jensen, Theodore",
+      "Greenberg, Craig",
+      "Godil, Afzal",
+      "Amironesei, Razvan",
+      "Hall, Patrick",
+      "Jain, Shomik"
+    ],
+    "reason": "Reference [2] in the NIST ARIA pilot report explicitly lists the 2024 pilot evaluation plan and these eleven authors."
+  },
+  {
+    "citation_key": "FairnessandMachineLe230",
+    "source_url": "https://fairmlbook.org/",
+    "author_list": [
+      "Barocas, Solon",
+      "Hardt, Moritz",
+      "Narayanan, Arvind"
+    ],
+    "reason": "Book authors own website supplies an explicit BibTeX citation and the same three authors; no edition metadata is changed."
+  },
+  {
+    "citation_key": "AddingStructuretoAIH034",
+    "source_url": "https://cset.georgetown.edu/wp-content/uploads/20230022-Adding-structure-to-AI-Harm-FINAL.pdf",
+    "name": "Hoffmann, Mia",
+    "reason": "CSET report cover explicitly prints Mia Hoffmann."
+  },
+  {
+    "citation_key": "AIUseTaxonomyAHumanC049",
+    "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.200-1.pdf",
+    "name": "Theofanos, Mary",
+    "reason": "NIST report cover explicitly prints Mary Theofanos; DOI list omits her."
+  },
+  {
+    "citation_key": "DistributedOptimizat175",
+    "source_url": "https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf",
+    "name": "Eckstein, Jonathan",
+    "reason": "Publication title page prints Jonathan Eckstein; correct transposed letters in the given name."
+  },
+  {
+    "citation_key": "Ascalableframeworkfo017",
+    "source_url": "https://arxiv.org/abs/2010.12251",
+    "name": "Kim, Young-Bum",
+    "reason": "Exact publication metadata prints Young-Bum Kim; repair misplaced comma and hyphen."
+  },
+  {
+    "citation_key": "InterpretingtheRepea333",
+    "source_url": "https://arxiv.org/abs/2503.08908",
+    "name": "Gandelsman, Yossi",
+    "reason": "Publication metadata identifies Yossi Gandelsman; remove duplicated and prefix and parse surname first."
+  },
+  {
+    "citation_key": "Evaluatingthereplica204",
+    "source_url": "https://api.crossref.org/works/10.1038%2Fs41562-018-0399-z",
+    "name": "Ho, Teck-Hua",
+    "reason": "Exact publication author list prints Teck-Hua Ho; complete truncated given name."
+  },
+  {
+    "citation_key": "DeepfakesandChildSaf162",
+    "source_url": "https://incidentdatabase.ai/about/?lang=en",
+    "name": "Atherton, Daniel",
+    "reason": "Official AI Incident Database collaborator profile explicitly attributes this named 2024 report to Daniel Atherton."
+  },
+  {
+    "citation_key": "DAIRAIPromptEngineer140",
+    "source_url": "https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/README.md?plain=1",
+    "author_list": [
+      "Saravia, Elvis"
+    ],
+    "reason": "Project README supplies the recommended citation with Elvis Saravia as author."
+  },
+  {
+    "citation_key": "PromptEngineeringGui458",
+    "source_url": "https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/README.md?plain=1",
+    "author_list": [
+      "Saravia, Elvis"
+    ],
+    "reason": "Project README supplies the recommended citation with Elvis Saravia as author."
+  },
+  {
+    "citation_key": "ChainofthoughtPrompt113",
+    "source_url": "https://arxiv.org/pdf/2201.11903v3",
+    "reason": "v3 is dated 1 June 2022 and includes Brian Ichter and Fei Xia; v1 has a different list."
+  },
+  {
+    "citation_key": "GeneralizedLinearMod260",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/GLM_Vignette.pdf",
+    "name": "Hussami, Nadine",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "GeneralizedLinearMod260",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/GLM_Vignette.pdf",
+    "name": "Kraljevic, Tom",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "GeneralizedLinearMod260",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/GLM_Vignette.pdf",
+    "name": "Nykodym, Tomas",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "GeneralizedLinearMod260",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/GLM_Vignette.pdf",
+    "name": "Rao, Ariel",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "GeneralizedLinearMod260",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/GLM_Vignette.pdf",
+    "name": "Wang, Amy",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "DeepLearningwithH2O158",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/DeepLearning_Vignette.pdf",
+    "name": "Arora, Anisha",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "DeepLearningwithH2O158",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/DeepLearning_Vignette.pdf",
+    "name": "Candel, Arno",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "DeepLearningwithH2O158",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/DeepLearning_Vignette.pdf",
+    "name": "LeDell, Erin",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "DeepLearningwithH2O158",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/DeepLearning_Vignette.pdf",
+    "name": "Parmar, Viraj",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "GradientBoostedModel277",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/GBM_Vignette.pdf",
+    "name": "Click, Cliff",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "GradientBoostedModel277",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/GBM_Vignette.pdf",
+    "name": "Malohlava, Michal",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "GradientBoostedModel277",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/GBM_Vignette.pdf",
+    "name": "Parmar, Viraj",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "GradientBoostedModel277",
+    "source_url": "https://h2o-release.s3.amazonaws.com/h2o/rel-tukey/4/docs-website/h2o-docs/booklets/GBM_Vignette.pdf",
+    "name": "Roark, Hank",
+    "reason": "Official manual cover provides this full personal name; no authors from a later edition are added."
+  },
+  {
+    "citation_key": "AnIntroductiontoMach060",
+    "source_url": "https://h2o.ai/content/dam/h2o/en/marketing/documents/2019/08/An-Introduction-to-Machine-Learning-Interpretability-Second-Edition.pdf",
+    "author_list": [
+      "Hall, Patrick",
+      "Gill, Navdeep"
+    ],
+    "reason": "Original second-edition cover was visually reviewed during title verification and explicitly prints Patrick Hall and Navdeep Gill."
+  }
+]

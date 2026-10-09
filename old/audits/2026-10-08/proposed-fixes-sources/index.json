@@ -1,0 +1,624 @@
+[
+  {
+    "url": "http://www.cs.toronto.edu/~fritz/absps/momentum.pdf\"",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "http://www.iiia.csic.es/~vtorra/tr-bias.pdf",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf",
+    "final_url": "http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/0e140bef9943016c.pdf",
+    "bytes": 443761,
+    "type": "application/pdf"
+  },
+  {
+    "url": "https://aclanthology.org/2022.acl-long.0/",
+    "final_url": "https://aclanthology.org/2022.acl-long.0/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/9575d2dc29b4fa17.html",
+    "bytes": 33087,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://aclanthology.org/2024.emnlp-industry.16/",
+    "final_url": "https://aclanthology.org/2024.emnlp-industry.16/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/92689ca823152cd3.html",
+    "bytes": 43391,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://aclanthology.org/2024.emnlp-main.1088/",
+    "final_url": "https://aclanthology.org/2024.emnlp-main.1088/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/a17b7a39f87e9983.html",
+    "bytes": 42604,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://aclanthology.org/2025.acl-long.1350/",
+    "final_url": "https://aclanthology.org/2025.acl-long.1350/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/49855b0522115279.html",
+    "bytes": 44059,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://adversa.ai/topic/trusted-ai-blog/",
+    "final_url": "https://adversa.ai/blog/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/bbd283fea18857a3.html",
+    "bytes": 94263,
+    "type": "text/html"
+  },
+  {
+    "url": "https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary\"",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1007%2F0-387-28695-0",
+    "final_url": "https://api.crossref.org/works/10.1007%2F0-387-28695-0",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/8380a48a50509c8d.json",
+    "bytes": 1766,
+    "type": "application/json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1007/3-540-49430-8_2",
+    "final_url": "https://api.crossref.org/works/10.1007/3-540-49430-8_2",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/15cce3a2cb6aeec7.json",
+    "bytes": 10989,
+    "type": "application/json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1109%2FEOSESD.2016.7592562",
+    "final_url": "https://api.crossref.org/works/10.1109%2FEOSESD.2016.7592562",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/04721fa9f6733d58.json",
+    "bytes": 4315,
+    "type": "application/json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1109/EOSESD.2016.7592562",
+    "final_url": "https://api.crossref.org/works/10.1109/EOSESD.2016.7592562",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/3c07e0aedcd01b85.json",
+    "bytes": 4315,
+    "type": "application/json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1145%2F3290605.3300233",
+    "final_url": "https://api.crossref.org/works/10.1145%2F3290605.3300233",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/481e49820b7f6242.json",
+    "bytes": 11444,
+    "type": "application/json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1145%2F3313831.3376718",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1145%2F3529320.3529321",
+    "final_url": "https://api.crossref.org/works/10.1145%2F3529320.3529321",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/97355ac2cb071558.json",
+    "bytes": 15679,
+    "type": "application/json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1145%2F3551624.3555285",
+    "final_url": "https://api.crossref.org/works/10.1145%2F3551624.3555285",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/b56b47b6f28acb57.json",
+    "bytes": 34940,
+    "type": "application/json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.18653%2Fv1%2F2024.emnlp-industry.16",
+    "final_url": "https://api.crossref.org/works/10.18653%2Fv1%2F2024.emnlp-industry.16",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/12b49b4af83abcb9.json",
+    "bytes": 2234,
+    "type": "application/json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.18653%2Fv1%2F2024.emnlp-main.1088",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.18653%2Fv1%2F2025.acl-long.1350",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.4230%2FLIPIcs.ITCS.2017.43",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.6028%2FNIST.AI.100-3",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.6028%2FNIST.IR.8367",
+    "final_url": "https://api.crossref.org/works/10.6028%2FNIST.IR.8367",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/1d0a9e54c0a5714f.json",
+    "bytes": 3837,
+    "type": "application/json"
+  },
+  {
+    "url": "https://arxiv.org/abs/1212.5701v1",
+    "final_url": "https://arxiv.org/abs/1212.5701v1",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/60328052c5a28e04.html",
+    "bytes": 40296,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.03300",
+    "final_url": "https://arxiv.org/abs/2009.03300",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/0635974beafcf9c5.html",
+    "bytes": 43216,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://arxiv.org/abs/2204.01438",
+    "final_url": "https://arxiv.org/abs/2204.01438",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/a8f79011d84a5ae8.html",
+    "bytes": 43411,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://arxiv.org/abs/2406.19314",
+    "final_url": "https://arxiv.org/abs/2406.19314",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/9162797da302d681.html",
+    "bytes": 45596,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://arxiv.org/abs/2406.19314\"",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://arxiv.org/abs/2503.08908\"",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://arxiv.org/abs/2506.16791\"",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2204.01438",
+    "final_url": "https://arxiv.org/pdf/2204.01438",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/0b5ffa7287e400bb.pdf",
+    "bytes": 722319,
+    "type": "application/pdf"
+  },
+  {
+    "url": "https://christophm.github.io/interpretable-ml-book/",
+    "final_url": "https://christophm.github.io/interpretable-ml-book/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/325d8e0b66d80412.html",
+    "bytes": 54270,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://christophm.github.io/interpretable-ml-book/cite.html",
+    "final_url": "https://christophm.github.io/interpretable-ml-book/cite.html",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/712d71467678d25d.html",
+    "bytes": 46687,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://conference2022.eaamo.org/papers/sloane-1.pdf",
+    "final_url": "https://conference2022.eaamo.org/papers/sloane-1.pdf",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/7252c81ee75fbdd8.pdf",
+    "bytes": 418501,
+    "type": "application/pdf"
+  },
+  {
+    "url": "https://data.h2o.ai",
+    "error": "<urlopen error [Errno -5] No address associated with hostname>"
+  },
+  {
+    "url": "https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed/horizon-scanning/developing-healthcare-workers-confidence-in-ai/chapter-4-workforce-transformation/the-risk-of-deskilling",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/developing-healthcare-workers-confidence-in-ai/chapter-4-workforce-transformation/the-risk-of-deskilling",
+    "final_url": "https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/developing-healthcare-workers-confidence-in-ai/chapter-4-workforce-transformation/the-risk-of-deskilling",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/c1096bd3e9992905.html",
+    "bytes": 25068,
+    "type": "text/html;charset=UTF-8"
+  },
+  {
+    "url": "https://doi.org/10.1007/0-387-28695-0",
+    "final_url": "https://link.springer.com/book/10.1007/0-387-28695-0?error=cookies_not_supported&code=3614db8a-25dd-4b9c-8326-d8cd9f61301f",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/3549275b04976af4.html",
+    "bytes": 288774,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://doi.org/10.1109/EOSESD.2016.7592562",
+    "final_url": "https://ieeexplore.ieee.org/document/7592562/",
+    "status": 202,
+    "path": "/tmp/proposal-source-review/6d274bc4895a530f.html",
+    "bytes": 0,
+    "type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://doi.org/10.1145/3290605.3300233",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.1145/3313831.3376718",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.1145/3551624.3555285",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://doi.org/10.18653/v1/2024.emnlp-industry.16",
+    "final_url": "https://aclanthology.org/2024.emnlp-industry.16/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/735dbe019730e2aa.html",
+    "bytes": 43391,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://doi.org/10.18653/v1/2024.emnlp-main.1088",
+    "final_url": "https://aclanthology.org/2024.emnlp-main.1088/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/7ea93dd90e393baf.html",
+    "bytes": 42604,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://doi.org/10.18653/v1/2025.acl-long.1350",
+    "final_url": "https://aclanthology.org/2025.acl-long.1350/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/2f4794774485f6cc.html",
+    "bytes": 44059,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://doi.org/10.6028/NIST.AI.100-3",
+    "final_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-3.pdf",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/8cadee7aa0e59116.pdf",
+    "bytes": 276681,
+    "type": "application/pdf"
+  },
+  {
+    "url": "https://doi.org/10.6028/NIST.AI.100-3\"",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2017.43",
+    "final_url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2017.43",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/6e4dd40a18698171.html",
+    "bytes": 104576,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://escholarship.org/uc/item/53n4f34m",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://github.com/h2oai",
+    "final_url": "https://github.com/h2oai",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/2c78ffdf86d292cc.html",
+    "bytes": 322866,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://github.com/hendrycks/test",
+    "final_url": "https://github.com/hendrycks/test",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/71c2d6a926a7f85d.html",
+    "bytes": 275664,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://groups.google.com/g/h2ostream",
+    "final_url": "https://groups.google.com/g/h2ostream",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/a8f7b8a5ba8253f0.html",
+    "bytes": 1089906,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://h2o.ai",
+    "final_url": "https://h2o.ai",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/9547647d2c35725b.html",
+    "bytes": 234503,
+    "type": "text/html;charset=utf-8"
+  },
+  {
+    "url": "https://ieeexplore.ieee.org/document/11134780",
+    "final_url": "https://ieeexplore.ieee.org/document/11134780",
+    "status": 202,
+    "path": "/tmp/proposal-source-review/e4b731981b49b35e.html",
+    "bytes": 0,
+    "type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://jira.h2o.ai",
+    "error": "<urlopen error [Errno -5] No address associated with hostname>"
+  },
+  {
+    "url": "https://link.springer.com/book/10.1007/0-387-28695-0",
+    "final_url": "https://link.springer.com/book/10.1007/0-387-28695-0?error=cookies_not_supported&code=a6d01af4-65be-486f-9b4c-8da8b972404e",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/543771d0afb4cd26.html",
+    "bytes": 288774,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://ntrs.nasa.gov/api/citations/20170001761",
+    "final_url": "https://ntrs.nasa.gov/api/citations/20170001761",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/a924e97d5faf1782.json",
+    "bytes": 5004,
+    "type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://ntrs.nasa.gov/api/citations/20170001761/downloads/20170001761.pdf",
+    "final_url": "https://ntrs.nasa.gov/api/citations/20170001761/downloads/20170001761.pdf",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/45cda37a4d585084.pdf",
+    "bytes": 4122125,
+    "type": "application/pdf"
+  },
+  {
+    "url": "https://ntrs.nasa.gov/api/citations/20250001849",
+    "final_url": "https://ntrs.nasa.gov/api/citations/20250001849",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/3e655aeb460fa1fb.json",
+    "bytes": 2831,
+    "type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://ntrs.nasa.gov/api/citations/20250001849/downloads/NASA-TM-20250001849.pdf",
+    "final_url": "https://ntrs.nasa.gov/api/citations/20250001849/downloads/NASA-TM-20250001849.pdf",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/df90e49fa9c74c4d.pdf",
+    "bytes": 569250,
+    "type": "application/pdf"
+  },
+  {
+    "url": "https://ntrs.nasa.gov/citations/20170001761",
+    "final_url": "https://ntrs.nasa.gov/citations/20170001761",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/fb22015e2ec255a3.html",
+    "bytes": 99213,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://ntrs.nasa.gov/citations/20250001849",
+    "final_url": "https://ntrs.nasa.gov/citations/20250001849",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/e369bef51460df69.html",
+    "bytes": 86118,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://openreview.net/forum?id=d7KBjmI3GmQ",
+    "final_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dd7KBjmI3GmQ",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/63beeeddf04938e7.html",
+    "bytes": 4789,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf",
+    "final_url": "https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/97eab161265154f5.pdf",
+    "bytes": 1418820,
+    "type": "application/pdf"
+  },
+  {
+    "url": "https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Bibtex.bib",
+    "final_url": "https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Bibtex.bib",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/1b16f021d1bfdad9.html",
+    "bytes": 519,
+    "type": "application/x-bibtex"
+  },
+  {
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/e4a46394ba5378b3f9a186a5b4c650d1-Abstract-Conference.html",
+    "final_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/e4a46394ba5378b3f9a186a5b4c650d1-Abstract-Conference.html",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/5a8925c38ee723f8.html",
+    "bytes": 10976,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/e4a46394ba5378b3f9a186a5b4c650d1-Abstract-Conference.html\"",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://proceedings.mlr.press/v267/yona25a.html",
+    "final_url": "https://proceedings.mlr.press/v267/yona25a.html",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/3e42963dfc82c475.html",
+    "bytes": 15768,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://proceedings.mlr.press/v267/yona25a.html\"",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://proceedings.mlr.press/v28/sutskever13.html",
+    "final_url": "https://proceedings.mlr.press/v28/sutskever13.html",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/90e27eae523122ed.html",
+    "bytes": 18118,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://proceedings.mlr.press/v28/sutskever13.html\"",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1697e3fb412da11dc9488249f9e7bbc9-Abstract-Datasets_and_Benchmarks_Track.html",
+    "final_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1697e3fb412da11dc9488249f9e7bbc9-Abstract-Datasets_and_Benchmarks_Track.html",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/88dbb525f45df25c.html",
+    "bytes": 10324,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1697e3fb412da11dc9488249f9e7bbc9-Abstract-Datasets_and_Benchmarks_Track.html\"",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://standards.ieee.org/ieee/1012/7324/",
+    "final_url": "https://standards.ieee.org/ieee/1012/7324/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/c4b62f6d963a2d1f.html",
+    "bytes": 120259,
+    "type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=931426",
+    "final_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=931426",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/60dbac89d8e04f4a.pdf",
+    "bytes": 15000000,
+    "type": "application/pdf;charset=UTF-8"
+  },
+  {
+    "url": "https://web.engr.oregonstate.edu/~tgd/publications/",
+    "final_url": "https://web.engr.oregonstate.edu/~tgd/publications/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/9bacb3815dfaff72.html",
+    "bytes": 84442,
+    "type": "text/html"
+  },
+  {
+    "url": "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis.pdf",
+    "final_url": "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis.pdf",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/8673624de8736e36.pdf",
+    "bytes": 1057562,
+    "type": "application/pdf"
+  },
+  {
+    "url": "https://www.bankofengland.co.uk/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis",
+    "final_url": "https://www.bankofengland.co.uk/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/14839b86dd4f83e2.html",
+    "bytes": 75040,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://www.consumerfinance.gov/data-research/hmda/",
+    "final_url": "https://www.consumerfinance.gov/data-research/hmda/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/b66867e57d104ce7.html",
+    "bytes": 145125,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://www.darpa.mil/about/heilmeier-catechism",
+    "final_url": "https://www.darpa.mil/about/heilmeier-catechism",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/a70ca298982d8d44.html",
+    "bytes": 39367,
+    "type": "text/html"
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/",
+    "final_url": "https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/78f401875351d56e.html",
+    "bytes": 180746,
+    "type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf",
+    "final_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/70e3797e085aad59.pdf",
+    "bytes": 1405242,
+    "type": "application/pdf"
+  },
+  {
+    "url": "https://www.nist.gov/publications/language-trustworthy-ai-depth-glossary-terms",
+    "final_url": "https://www.nist.gov/publications/language-trustworthy-ai-depth-glossary-terms",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/6b470606633f523c.html",
+    "bytes": 82439,
+    "type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www.nist.gov/publications/psychological-foundations-explainability-and-interpretability-artificial-intelligence",
+    "final_url": "https://www.nist.gov/publications/psychological-foundations-explainability-and-interpretability-artificial-intelligence",
+    "status": 200,
+    "path": "/tmp/proposal-source-review/b198fa06e81fd840.html",
+    "bytes": 80556,
+    "type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://escholarship.org/content/qt53n4f34m/qt53n4f34m.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://bottou.org/papers",
+    "path": "/tmp/proposal-source-review/139818b49258047c.html",
+    "status": 200,
+    "final_url": "https://bottou.org/papers"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1145/3313831.3376718",
+    "path": "/tmp/proposal-source-review/5c12cd5f0717d5c6.json",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1145/3313831.3376718"
+  },
+  {
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1697e3fb412da11dc9488249f9e7bbc9-Bibtex-Datasets_and_Benchmarks_Track.bib",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/e4a46394ba5378b3f9a186a5b4c650d1-Bibtex-Conference.bib",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf",
+    "path": "/tmp/proposal-source-review/48ba0c4bdc686839.pdf",
+    "status": 200,
+    "final_url": "https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf"
+  },
+  {
+    "url": "https://proceedings.neurips.cc/paper_files/paper/32879-/bibtex",
+    "path": "/tmp/proposal-source-review/ee455ce8215bac96.bib",
+    "status": 200,
+    "final_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/1697e3fb412da11dc9488249f9e7bbc9-Bibtex-Datasets_and_Benchmarks_Track.bib"
+  },
+  {
+    "url": "https://proceedings.iclr.cc/paper_files/paper/250-/bibtex",
+    "path": "/tmp/proposal-source-review/f0b7143a5d77db49.bib",
+    "status": 200,
+    "final_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/e4a46394ba5378b3f9a186a5b4c650d1-Bibtex-Conference.bib"
+  }
+]

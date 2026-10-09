@@ -1,0 +1,854 @@
+[
+  {
+    "citation_key": "Ahumancenteredevalua010",
+    "proposal_row": 2,
+    "cleaned_row": 11,
+    "status": "accepted_with_corrections",
+    "reason": "Crossref publisher deposit verifies ACM and CHI 2020 proceedings paper. Normalize entry type to inproceedings as well as filling publisher.",
+    "sources": [
+      "https://api.crossref.org/works/10.1145/3313831.3376718"
+    ],
+    "changes": {
+      "entry_type": {
+        "before": "incollection",
+        "after": "inproceedings"
+      },
+      "publisher": {
+        "before": null,
+        "after": "ACM"
+      }
+    },
+    "proposal_adjustments": {
+      "entry_type": {
+        "proposed": "incollection",
+        "accepted": "inproceedings"
+      }
+    }
+  },
+  {
+    "citation_key": "ADADELTAAnAdaptiveLe033",
+    "proposal_row": 3,
+    "cleaned_row": 34,
+    "status": "accepted",
+    "reason": "Cited arXiv v1 is a 2012 preprint; misc correctly removes the false missing-conference warning.",
+    "sources": [
+      "https://arxiv.org/abs/1212.5701v1"
+    ],
+    "changes": {
+      "entry_type": {
+        "before": "inproceedings",
+        "after": "misc"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "BayesianNetworks090",
+    "proposal_row": 4,
+    "cleaned_row": 90,
+    "status": "accepted_with_corrections",
+    "reason": "UCLA department is a repository collection/issuing department, not a journal. Accept the identified repository item as misc and place the department in howpublished; retain the verified repository year.",
+    "sources": [
+      "https://escholarship.org/uc/item/53n4f34m"
+    ],
+    "changes": {
+      "entry_type": {
+        "before": "article",
+        "after": "misc"
+      },
+      "howpublished": {
+        "before": null,
+        "after": "UCLA Department of Statistics and Data Science"
+      }
+    },
+    "proposal_adjustments": {
+      "entry_type": {
+        "proposed": "article",
+        "accepted": "misc"
+      },
+      "journal": {
+        "proposed": "UCLA Department of Statistics and Data Science",
+        "accepted": null
+      },
+      "howpublished": {
+        "proposed": null,
+        "accepted": "UCLA Department of Statistics and Data Science"
+      }
+    }
+  },
+  {
+    "citation_key": "Debiasingtextsafetyc151",
+    "proposal_row": 5,
+    "cleaned_row": 151,
+    "status": "accepted_with_corrections",
+    "reason": "Official ACL record verifies Association for Computational Linguistics as publisher (ACL Anthology is the host), inproceedings, and the Industry Track proceedings.",
+    "sources": [
+      "https://aclanthology.org/2024.emnlp-industry.16/",
+      "https://api.crossref.org/works/10.18653/v1/2024.emnlp-industry.16"
+    ],
+    "changes": {
+      "booktitle": {
+        "before": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+        "after": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track"
+      },
+      "entry_type": {
+        "before": "incollection",
+        "after": "inproceedings"
+      },
+      "publisher": {
+        "before": null,
+        "after": "Association for Computational Linguistics"
+      }
+    },
+    "proposal_adjustments": {
+      "publisher": {
+        "proposed": "ACL Anthology",
+        "accepted": "Association for Computational Linguistics"
+      },
+      "entry_type": {
+        "proposed": "incollection",
+        "accepted": "inproceedings"
+      },
+      "booktitle": {
+        "proposed": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+        "accepted": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track"
+      }
+    }
+  },
+  {
+    "citation_key": "EfficientBackProp191",
+    "proposal_row": 6,
+    "cleaned_row": 191,
+    "status": "accepted_with_corrections",
+    "reason": "Publisher-deposited chapter metadata and author publication list confirm LeCun, Bottou, Orr and Müller. Correct proposed Mouller spelling and doubled whitespace.",
+    "sources": [
+      "https://api.crossref.org/works/10.1007/3-540-49430-8_2",
+      "https://bottou.org/papers"
+    ],
+    "changes": {
+      "author": {
+        "before": null,
+        "after": "LeCun, Yann and Bottou, Leon and Orr, Genevieve B. and Müller, Klaus-Robert"
+      }
+    },
+    "proposal_adjustments": {
+      "author": {
+        "proposed": "LeCun, Yann and Bottou, Leon  and Orr, Genevieve B. and Mouller, Klaus-Robert",
+        "accepted": "LeCun, Yann and Bottou, Leon and Orr, Genevieve B. and Müller, Klaus-Robert"
+      }
+    }
+  },
+  {
+    "citation_key": "ExaminingProposedUse209",
+    "proposal_row": 7,
+    "cleaned_row": 209,
+    "status": "accepted",
+    "reason": "NASA NTRS metadata and PDF identify a March 2025 technical memorandum from NASA Langley. Journal is not applicable.",
+    "sources": [
+      "https://ntrs.nasa.gov/citations/20250001849",
+      "https://ntrs.nasa.gov/api/citations/20250001849"
+    ],
+    "changes": {
+      "entry_type": {
+        "before": "article",
+        "after": "techreport"
+      },
+      "institution": {
+        "before": null,
+        "after": "National Aeronautics and Space Administration, Langley Research Center"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "Factualityoflargelan225",
+    "proposal_row": 8,
+    "cleaned_row": 225,
+    "status": "accepted",
+    "reason": "Official ACL citation verifies conference-paper type and Association for Computational Linguistics publisher.",
+    "sources": [
+      "https://aclanthology.org/2024.emnlp-main.1088/"
+    ],
+    "changes": {
+      "entry_type": {
+        "before": "incollection",
+        "after": "inproceedings"
+      },
+      "publisher": {
+        "before": null,
+        "after": "Association for Computational Linguistics"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "GuidelinesforhumanAI280",
+    "proposal_row": 9,
+    "cleaned_row": 280,
+    "status": "accepted",
+    "reason": "Microsoft author manuscript and ACM-deposited DOI metadata verify the CHI proceedings article and ACM publisher.",
+    "sources": [
+      "https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/",
+      "https://api.crossref.org/works/10.1145/3290605.3300233"
+    ],
+    "changes": {
+      "entry_type": {
+        "before": "incollection",
+        "after": "inproceedings"
+      },
+      "publisher": {
+        "before": null,
+        "after": "Association for Computing Machinery"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "H2OGitHubRepository284",
+    "proposal_row": 10,
+    "cleaned_row": 284,
+    "status": "accepted_with_corrections",
+    "reason": "Replace unsupported proposed 2026 with 2015: the official 2015 H2O R-manual reference list explicitly cites H2O GitHub Repository at the identical organization URL with 2015. This is a historical citation year, not repository creation/current calendar year.",
+    "sources": [
+      "https://h2o-release.s3.amazonaws.com/h2o/master/3232/docs-website/h2o-docs/booklets/R_Vignette.pdf"
+    ],
+    "changes": {
+      "year": {
+        "before": null,
+        "after": "2015"
+      }
+    },
+    "proposal_adjustments": {
+      "year": {
+        "proposed": "2026",
+        "accepted": "2015"
+      }
+    }
+  },
+  {
+    "citation_key": "Howcanwedevelopexpla303",
+    "proposal_row": 11,
+    "cleaned_row": 303,
+    "status": "accepted",
+    "reason": "Publisher-deposited DOI metadata confirms conference article, exact title, authors, 2022 year, publisher ACM, and DOI.",
+    "sources": [
+      "https://api.crossref.org/works/10.1145/3529320.3529321",
+      "https://arxiv.org/pdf/2204.01438"
+    ],
+    "changes": {
+      "doi": {
+        "before": null,
+        "after": "10.1145/3529320.3529321"
+      },
+      "entry_type": {
+        "before": "incollection",
+        "after": "inproceedings"
+      },
+      "publisher": {
+        "before": null,
+        "after": "Association for Computing Machinery"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "IEEEStandardforSyste316",
+    "proposal_row": 12,
+    "cleaned_row": 316,
+    "status": "accepted_with_corrections",
+    "reason": "Official IEEE standard page confirms IEEE 1012-2024 published 2025-08-22. Credit the existing verified issuing organization as corporate author under the user-approved institutional-author policy; retain organization for standard styles.",
+    "sources": [
+      "https://standards.ieee.org/ieee/1012/7324/"
+    ],
+    "changes": {
+      "author": {
+        "before": null,
+        "after": "{Institute of Electrical and Electronics Engineers}"
+      }
+    },
+    "proposal_adjustments": {
+      "organization": {
+        "proposed": null,
+        "accepted": "{Institute of Electrical and Electronics Engineers}"
+      }
+    }
+  },
+  {
+    "citation_key": "ImageNetClassificati317",
+    "proposal_row": 13,
+    "cleaned_row": 317,
+    "status": "accepted",
+    "reason": "Official NeurIPS BibTeX verifies inproceedings and Curran Associates, Inc. for the 2012 paper.",
+    "sources": [
+      "https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Bibtex.bib"
+    ],
+    "changes": {
+      "entry_type": {
+        "before": "incollection",
+        "after": "inproceedings"
+      },
+      "publisher": {
+        "before": null,
+        "after": "Curran Associates, Inc."
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "InherentTradeOffsint324",
+    "proposal_row": 14,
+    "cleaned_row": 324,
+    "status": "accepted",
+    "reason": "Official Dagstuhl publication identifies the ITCS 2017 conference paper, publisher, DOI and article pages 43:1--43:23.",
+    "sources": [
+      "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2017.43"
+    ],
+    "changes": {
+      "doi": {
+        "before": null,
+        "after": "10.4230/LIPIcs.ITCS.2017.43"
+      },
+      "entry_type": {
+        "before": "article",
+        "after": "inproceedings"
+      },
+      "pages": {
+        "before": "43--1",
+        "after": "43:1--43:23"
+      },
+      "publisher": {
+        "before": null,
+        "after": "Schloss Dagstuhl--Leibniz-Zentrum für Informatik"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "InterpretableMachine329",
+    "proposal_row": 15,
+    "cleaned_row": 329,
+    "status": "accepted_with_corrections",
+    "reason": "Accept the proposed update to the current online third edition: the author provides a 2025 citation. Explicitly record edition 3 to make the version choice clear; no conflicting ISBN or edition existed.",
+    "sources": [
+      "https://christophm.github.io/interpretable-ml-book/cite.html"
+    ],
+    "changes": {
+      "edition": {
+        "before": null,
+        "after": "3"
+      },
+      "year": {
+        "before": null,
+        "after": "2025"
+      }
+    },
+    "proposal_adjustments": {
+      "edition": {
+        "proposed": null,
+        "accepted": "3"
+      }
+    }
+  },
+  {
+    "citation_key": "InterpretingtheRepea333",
+    "proposal_row": 16,
+    "cleaned_row": 333,
+    "status": "accepted",
+    "reason": "Official PMLR publication and BibTeX verify proceedings title, inproceedings, publisher PMLR, and the matching paper URL.",
+    "sources": [
+      "https://proceedings.mlr.press/v267/yona25a.html"
+    ],
+    "changes": {
+      "booktitle": {
+        "before": "Forty-second International Conference on Machine Learning",
+        "after": "Proceedings of the 42nd International Conference on Machine Learning"
+      },
+      "entry_type": {
+        "before": "incollection",
+        "after": "inproceedings"
+      },
+      "publisher": {
+        "before": null,
+        "after": "PMLR"
+      },
+      "url": {
+        "before": "https://arxiv.org/abs/2503.08908",
+        "after": "https://proceedings.mlr.press/v267/yona25a.html"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "LiveBenchAChallengin366",
+    "proposal_row": 17,
+    "cleaned_row": 366,
+    "status": "accepted",
+    "reason": "Official ICLR BibTeX explicitly uses year 2025 for the specified conference version; preserve the preprint identifier and update locator to the conference.",
+    "sources": [
+      "https://proceedings.iclr.cc/paper_files/paper/250-/bibtex"
+    ],
+    "changes": {
+      "url": {
+        "before": "https://arxiv.org/abs/2406.19314",
+        "after": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/e4a46394ba5378b3f9a186a5b4c650d1-Abstract-Conference.html"
+      },
+      "year": {
+        "before": null,
+        "after": "2025"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "LLMscaughtinthecross370",
+    "proposal_row": 18,
+    "cleaned_row": 370,
+    "status": "accepted",
+    "reason": "Official ACL citation verifies the Long Papers volume, conference article type and Association for Computational Linguistics publisher.",
+    "sources": [
+      "https://aclanthology.org/2025.acl-long.1350/"
+    ],
+    "changes": {
+      "booktitle": {
+        "before": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
+        "after": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+      },
+      "entry_type": {
+        "before": "incollection",
+        "after": "inproceedings"
+      },
+      "publisher": {
+        "before": null,
+        "after": "Association for Computational Linguistics"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "MachineLearningBiasS374",
+    "proposal_row": 19,
+    "cleaned_row": 374,
+    "status": "accepted",
+    "reason": "The author publication list explicitly identifies this exact 1995 title as a technical report of the Department of Computer Science, Oregon State University.",
+    "sources": [
+      "https://web.engr.oregonstate.edu/~tgd/publications/"
+    ],
+    "changes": {
+      "entry_type": {
+        "before": "article",
+        "after": "techreport"
+      },
+      "institution": {
+        "before": null,
+        "after": "Department of Computer Science, Oregon State University"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "MachineLearningExpla375",
+    "proposal_row": 20,
+    "cleaned_row": 375,
+    "status": "accepted",
+    "reason": "Issuing bank identifies the exact paper as Staff Working Paper 816 published 9 August 2019; report classification, institution, number and series are confirmed.",
+    "sources": [
+      "https://www.bankofengland.co.uk/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis"
+    ],
+    "changes": {
+      "entry_type": {
+        "before": "article",
+        "after": "techreport"
+      },
+      "institution": {
+        "before": null,
+        "after": "Bank of England"
+      },
+      "number": {
+        "before": null,
+        "after": "816"
+      },
+      "publisher": {
+        "before": "Bank of England Working Paper",
+        "after": null
+      },
+      "series": {
+        "before": null,
+        "after": "Staff Working Paper"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "MeasuringMassiveMult388",
+    "proposal_row": 21,
+    "cleaned_row": 388,
+    "status": "accepted",
+    "reason": "Author arXiv record identifies ICLR 2021, consistent with cited conference and OpenReview record.",
+    "sources": [
+      "https://arxiv.org/abs/2009.03300",
+      "https://openreview.net/forum?id=d7KBjmI3GmQ"
+    ],
+    "changes": {
+      "year": {
+        "before": null,
+        "after": "2021"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "MortgagedataHMDA402",
+    "proposal_row": 22,
+    "cleaned_row": 402,
+    "status": "accepted",
+    "reason": "The cited Mortgage data (HMDA) webpage is authored/maintained by CFPB; corporate author credit is for that page rather than every underlying dataset.",
+    "sources": [
+      "https://www.consumerfinance.gov/data-research/hmda/"
+    ],
+    "changes": {
+      "author": {
+        "before": null,
+        "after": "{Consumer Financial Protection Bureau}"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "NASASystemsEngineeri405",
+    "proposal_row": 23,
+    "cleaned_row": 405,
+    "status": "accepted",
+    "reason": "NASA NTRS identifies the agency and exact report number NASA/SP-2016-6105 Rev 2. Retain existing 2017 citation year as specified by the record.",
+    "sources": [
+      "https://ntrs.nasa.gov/api/citations/20170001761"
+    ],
+    "changes": {
+      "institution": {
+        "before": null,
+        "after": "National Aeronautics and Space Administration"
+      },
+      "number": {
+        "before": null,
+        "after": "NASA/SP-2016-6105 Rev 2"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "Ontheimportanceofini418",
+    "proposal_row": 24,
+    "cleaned_row": 416,
+    "status": "accepted",
+    "reason": "Official PMLR citation verifies ICML 2013, booktitle, pages 1139--1147, publisher PMLR, and matching paper URL.",
+    "sources": [
+      "https://proceedings.mlr.press/v28/sutskever13.html"
+    ],
+    "changes": {
+      "booktitle": {
+        "before": null,
+        "after": "Proceedings of the 30th International Conference on Machine Learning"
+      },
+      "entry_type": {
+        "before": "article",
+        "after": "inproceedings"
+      },
+      "pages": {
+        "before": null,
+        "after": "1139--1147"
+      },
+      "publisher": {
+        "before": null,
+        "after": "PMLR"
+      },
+      "url": {
+        "before": "http://www.cs.toronto.edu/~fritz/absps/momentum.pdf",
+        "after": "https://proceedings.mlr.press/v28/sutskever13.html"
+      },
+      "year": {
+        "before": "2014",
+        "after": "2013"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "ParticipationIsnotaD428",
+    "proposal_row": 25,
+    "cleaned_row": 426,
+    "status": "accepted",
+    "reason": "Publisher-deposited DOI metadata and conference manuscript verify the missing EAAMO booktitle.",
+    "sources": [
+      "https://api.crossref.org/works/10.1145/3551624.3555285",
+      "https://conference2022.eaamo.org/papers/sloane-1.pdf"
+    ],
+    "changes": {
+      "booktitle": {
+        "before": null,
+        "after": "Equity and Access in Algorithms, Mechanisms, and Optimization"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "Proceedingsofthe60th457",
+    "proposal_row": 26,
+    "cleaned_row": 455,
+    "status": "accepted",
+    "reason": "Official ACL BibTeX uses proceedings with the three existing editors and no author field. Clear the false-positive missing author finding without inventing an author.",
+    "sources": [
+      "https://aclanthology.org/2022.acl-long.0/"
+    ],
+    "changes": {},
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "PsychologicalFoundat466",
+    "proposal_row": 27,
+    "cleaned_row": 464,
+    "status": "accepted",
+    "reason": "NIST record and DOI deposit verify report NISTIR 8367, institution, DOI, author and 2021 publication year. Journal does not apply.",
+    "sources": [
+      "https://www.nist.gov/publications/psychological-foundations-explainability-and-interpretability-artificial-intelligence",
+      "https://api.crossref.org/works/10.6028/NIST.IR.8367"
+    ],
+    "changes": {
+      "doi": {
+        "before": null,
+        "after": "10.6028/NIST.IR.8367"
+      },
+      "entry_type": {
+        "before": "article",
+        "after": "techreport"
+      },
+      "institution": {
+        "before": null,
+        "after": "National Institute of Standards and Technology"
+      },
+      "number": {
+        "before": null,
+        "after": "NISTIR 8367"
+      },
+      "publisher": {
+        "before": "NIST Interagency/Internal Report (NISTIR), National Institute of Standards~…",
+        "after": null
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "TabArenaALivingBench545",
+    "proposal_row": 28,
+    "cleaned_row": 543,
+    "status": "accepted",
+    "reason": "Official NeurIPS BibTeX explicitly specifies 2025, despite the landing-page upload metadata giving 2026. Accept conference citation year and conference locator.",
+    "sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/32879-/bibtex"
+    ],
+    "changes": {
+      "url": {
+        "before": "https://arxiv.org/abs/2506.16791",
+        "after": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1697e3fb412da11dc9488249f9e7bbc9-Abstract-Datasets_and_Benchmarks_Track.html"
+      },
+      "year": {
+        "before": null,
+        "after": "2025"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "TheGrammarofGraphics569",
+    "proposal_row": 29,
+    "cleaned_row": 566,
+    "status": "accepted",
+    "reason": "Springer lists publisher Springer New York, NY. The cited eBook edition at this DOI was published 28 January 2006, so retain existing 2006.",
+    "sources": [
+      "https://link.springer.com/book/10.1007/0-387-28695-0"
+    ],
+    "changes": {
+      "publisher": {
+        "before": null,
+        "after": "Springer New York, NY"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "TheHeilmeierCatechis571",
+    "proposal_row": 30,
+    "cleaned_row": 568,
+    "status": "accepted_with_corrections",
+    "reason": "No publication year appears on the cited DARPA page. Under the user instruction to fix and accept, accept a legitimate undated web citation and remove the missing-year flag. Do not import the unsupported proposed 2026 or date the webpage from Heilmeier's tenure.",
+    "sources": [
+      "https://www.darpa.mil/about/heilmeier-catechism"
+    ],
+    "changes": {},
+    "proposal_adjustments": {
+      "year": {
+        "proposed": "2026",
+        "accepted": null
+      }
+    }
+  },
+  {
+    "citation_key": "TheLanguageofTrustwo575",
+    "proposal_row": 31,
+    "cleaned_row": 572,
+    "status": "accepted",
+    "reason": "Official NIST record identifies report AI 100-3, its four authors, 29 March 2023 publication, and DOI. A report rather than a journal article; the fixed report locator replaces the evolving glossary homepage.",
+    "sources": [
+      "https://www.nist.gov/publications/language-trustworthy-ai-depth-glossary-terms"
+    ],
+    "changes": {
+      "doi": {
+        "before": null,
+        "after": "10.6028/NIST.AI.100-3"
+      },
+      "entry_type": {
+        "before": "article",
+        "after": "techreport"
+      },
+      "institution": {
+        "before": null,
+        "after": "National Institute of Standards and Technology"
+      },
+      "number": {
+        "before": null,
+        "after": "NIST AI 100-3"
+      },
+      "publisher": {
+        "before": "National Institute of Standards and Technology, Gaithersburg, MD",
+        "after": "National Institute of Standards and Technology"
+      },
+      "url": {
+        "before": "https://airc.nist.gov/AI_RMF_Knowledge_Base/Glossary",
+        "after": "https://doi.org/10.6028/NIST.AI.100-3"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "TheriskofdeskillingW587",
+    "proposal_row": 32,
+    "cleaned_row": 584,
+    "status": "accepted_with_corrections",
+    "reason": "The exact deskilling subsection matches the October 2022 report. Its About the authors page names Mike Nix, George Onisiforou and Annabelle Painter. Use these supported names and 2022 publication year rather than the proposed inverted institutional name and 2023 webpage review date. The proposed replacement webpage resolves and matches the section.",
+    "sources": [
+      "https://digital-transformation.hee.nhs.uk/binaries/content/assets/digital-transformation/dart-ed/developingconfidenceinai-oct2022.pdf",
+      "https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/developing-healthcare-workers-confidence-in-ai/chapter-4-workforce-transformation/the-risk-of-deskilling"
+    ],
+    "changes": {
+      "author": {
+        "before": null,
+        "after": "Nix, Mike and Onisiforou, George and Painter, Annabelle"
+      },
+      "url": {
+        "before": "https://digital-transformation.hee.nhs.uk/building-a-digital-workforce/dart-ed/horizon-scanning/developing-healthcare-workers-confidence-in-ai/chapter-4-workforce-transformation/the-risk-of-deskilling",
+        "after": "https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/developing-healthcare-workers-confidence-in-ai/chapter-4-workforce-transformation/the-risk-of-deskilling"
+      },
+      "year": {
+        "before": null,
+        "after": "2022"
+      }
+    },
+    "proposal_adjustments": {
+      "author": {
+        "proposed": "{England National Health Service}",
+        "accepted": "Nix, Mike and Onisiforou, George and Painter, Annabelle"
+      },
+      "year": {
+        "proposed": "2023",
+        "accepted": "2022"
+      }
+    }
+  },
+  {
+    "citation_key": "TrustedAIBlogSeries610",
+    "proposal_row": 33,
+    "cleaned_row": 607,
+    "status": "accepted_with_corrections",
+    "reason": "The URL resolves to the changing Adversa blog collection. Accept it as an undated collection under the user instruction to fix and accept; do not substitute proposed 2026 from individual post/current-year dates. Remove ADMIN placeholder publisher.",
+    "sources": [
+      "https://adversa.ai/topic/trusted-ai-blog/"
+    ],
+    "changes": {
+      "publisher": {
+        "before": "\"ADMIN\"",
+        "after": null
+      }
+    },
+    "proposal_adjustments": {
+      "year": {
+        "proposed": "2026",
+        "accepted": null
+      }
+    }
+  },
+  {
+    "citation_key": "Unifiedmodelof1Dpuls619",
+    "proposal_row": 34,
+    "cleaned_row": 616,
+    "status": "accepted",
+    "reason": "IEEE-deposited Crossref metadata verifies publisher IEEE, exact registered title including copyright suffix, author, conference and 2016 year.",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/EOSESD.2016.7592562"
+    ],
+    "changes": {
+      "publisher": {
+        "before": null,
+        "after": "IEEE"
+      }
+    },
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "H2ODatasets282",
+    "proposal_row": null,
+    "cleaned_row": 282,
+    "status": "not_in_proposal",
+    "reason": "This flagged record is absent from the proposed-fixes Bibliography sheet. Preserve its values and markings.",
+    "sources": [],
+    "changes": {},
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "H2OJIRA286",
+    "proposal_row": null,
+    "cleaned_row": 286,
+    "status": "not_in_proposal",
+    "reason": "This flagged record is absent from the proposed-fixes Bibliography sheet. Preserve its values and markings.",
+    "sources": [],
+    "changes": {},
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "H2Owebsite289",
+    "proposal_row": null,
+    "cleaned_row": 289,
+    "status": "not_in_proposal",
+    "reason": "This flagged record is absent from the proposed-fixes Bibliography sheet. Preserve its values and markings.",
+    "sources": [],
+    "changes": {},
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "H2Ostream293",
+    "proposal_row": null,
+    "cleaned_row": 293,
+    "status": "not_in_proposal",
+    "reason": "This flagged record is absent from the proposed-fixes Bibliography sheet. Preserve its values and markings.",
+    "sources": [],
+    "changes": {},
+    "proposal_adjustments": {}
+  },
+  {
+    "citation_key": "WhitepaperProgrammin636",
+    "proposal_row": null,
+    "cleaned_row": 633,
+    "status": "not_in_proposal",
+    "reason": "This flagged record is absent from the proposed-fixes Bibliography sheet. Preserve its values and markings.",
+    "sources": [],
+    "changes": {},
+    "proposal_adjustments": {}
+  }
+]

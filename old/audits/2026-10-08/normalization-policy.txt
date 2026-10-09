@@ -1,0 +1,98 @@
+Normalization policy — 2026-10-08
+
+The edited XLSX is the source of truth. The older BibTeX is used only to
+recover provable spreadsheet type-conversion errors and to trace retired keys.
+Source workbooks are copied byte-for-byte into snapshots; SHA-256 hashes are
+recorded. No source file is overwritten. Empty spreadsheet rows are omitted.
+Formula citation keys use their cached values and become literal text.
+
+Citation keys remain stable. The key map includes every original and current
+key, including previously deleted records. New keys, if needed in future,
+should use FamilyYearShortTitle with deterministic alphabetical suffixes;
+keys must not depend on row order. Previously deleted records are not restored.
+
+Only identifier-and-version-confirmed duplicate records may be merged.
+Same titles, proceedings ISBNs, homepages and related preprints are not sufficient.
+The two Holistic Evaluation articles are retained: the three-author Annals
+article and the multi-author TMLR article have different venues and scope.
+The title-changing arXiv v1 prompt-injection preprint is retained separately
+from the published conference citation. Two previously retired duplicate keys
+are mapped to surviving keys; unrelated prior deletions are recorded explicitly.
+
+DOIs are bare identifiers; ISBN punctuation is removed and original leading
+zeros are recovered only from matching source BibTeX. PMID, PMCID, LCCN,
+standard/report numbers stay in dedicated fields. arXiv identifiers belong in
+eprint with archiveprefix=arXiv; explicit version suffixes are preserved.
+URL normalization removes known tracking parameters, canonicalizes DOI and
+arXiv locators, and uses HTTPS for known hosts. Arbitrary HTTP-only sites are
+not assumed to support HTTPS. Record URLs are derived from existing locators;
+approved URLs are accepted only for a unique title match and an empty URL.
+An existing edited URL is not overwritten by a conflicting older proposal.
+Duplicate locator-only notes/howpublished/bdsk-url-1 are removed after their
+URL has been moved to url; substantive notes remain.
+
+Types and field placement follow explicit metadata evidence. arXiv-only
+articles become misc; journal Proceedings of the IEEE remains an article.
+Conference publications use booktitle; reports use institution and number;
+standards use standard with number. Unknown types remain review issues.
+Journal names use full forms when the expansion is unambiguous. Case variants
+and formatting-only wrappers are reconciled; ambiguous venue text is flagged.
+
+Sentence case is used for titles. Acronyms, mixed-case technical names and a
+declared proper-name vocabulary retain case inside braces. Ordinary words
+lose cosmetic title-case braces; letter-by-letter acronym braces are joined.
+Title wording, punctuation, math and TeX commands remain intact. Capitalization
+changes are recorded and queued for proper-name review; this automated pass
+does not certify official capitalization of every title.
+
+Personal names use BibTeX's surname-first parser, preserving particles,
+suffixes, accents and initials. No initials are expanded and no identities
+are merged. Known institutional authors are braced as organizations, with
+consistent recurring forms. Uncertain name/identity variants are review items.
+
+Years contain four digits only, or are blank with an issue. Exact dates and
+access dates use ISO YYYY-MM-DD; months use three-letter lowercase forms.
+An Excel date in number/pages/note is recovered from the same original entry,
+not interpreted as publication metadata. Missing years can be derived from an
+existing explicit publication date. Dynamic years and year spans are retained
+in the audit and cleared from year; no access year substitutes for publication.
+Missing values stay blank. Placeholder publication metadata is removed and
+logged. Numeric page ranges use --; article numbers remain article numbers.
+
+QC distinguishes accuracy issues from cosmetic warnings. It checks required
+fields by type; identifiers and checksums; duplicate identifiers/titles;
+URLs; dates; name/venue variants; braces; formulas; export collisions; and
+complete XLSX/BibTeX round-trip equality. Shared proceedings ISBNs are reported
+as context, not duplicate proof. Web link availability and version fidelity are
+not claimed: mutable/generic URLs and unverified replacements need review.
+Nonstandard fields are preserved but flagged for downstream style support.
+The Review sheet lists unresolved issues. This is a normalized working copy,
+not a claim that all bibliographic facts have been externally verified.
+
+Title audit update: capitalization and BibTeX protection alone are accepted under the uniform sentence-case policy. Externally matched titles are resolved. Unmatched/unverified titles remain open for wording or version verification, with evidence in Title verification and title-verification.jsonl.
+
+Column-removal update: the user explicitly removed these fields from the cleaned Bibliography and generated BibTeX: abstractnote, address, annote, author1_email, author1_url, author2_email, author2_url, bdsk-url-1, collection, contact, copyright, file, issue, keywords, language, lccn, note, numpages, pdf, pmcid, pmid, primaryclass, rights, shorttitle, type, urldate. Retained values, citation keys, and highlighting remain unchanged. Findings for deleted fields have status removed; prior values remain in Change audit.
+
+Title follow-up: all 254 pending titles were researched using PDF opening pages, full publication pages and title/author/year registry searches. Reviewed evidence confirms 143 titles and corrects 11. Capitalization, braces, punctuation, explicit report identifiers and descriptive prefixes are harmless when identity matches. Original cited versions are preserved. Resolved title cells have black text and no audit comment; 100 unsupported titles remain red. Decisions and source URLs are recorded in title-followup-decisions.json; research evidence is in title-followup-evidence.jsonl.
+
+Patrick Hall normalization: Hall, P. becomes Hall, Patrick; the abbreviated et al. author list is represented as Hall, Patrick and others. All 50 Hall variant findings are resolved. Patrick Hall is black in every author cell; unresolved coauthor names remain red with comments describing only their remaining findings.
+
+Author verification update: every record was researched through matched DOI author lists, publisher/repository author metadata and opening-page PDF author blocks, with 180 public ORCID records read to support identity checks. Initials expand only with publication-specific evidence. Full author lists are restored when supported without changing the cited version. Same-surname people remain distinct. Confirmed/corrected names and prior user-approved Hall, Patrick normalization are black; unsupported names are red individually, and empty author cells have red fill. Each name decision and source is recorded in Author verification and author-verification-decisions.json. All non-author bibliography values and title markings are preserved.
+
+URL policy update: URLs are not flagged solely because their content is mutable, and an access date is not required to clear a URL flag. A resolving URL is accepted when the destination substantially identifies the cited work or resource through its title/core title, authors, identifiers, year, organization or project identity. Harmless title variations, updated repository titles and legitimate project homepages are accepted. Existing URL flags are cleared for verified matches; actual HTTP errors, mismatched destinations and unresolved existing URL checks remain flagged with specific reasons. Automated access blocks alone do not create new accuracy warnings on previously unflagged URLs. URL verification records all 637 live checks, including inconclusive results. URL strings and all other bibliography values and markings are preserved.
+
+Remaining-issues flag: Bibliography.flag is a spreadsheet-only TRUE/FALSE column. TRUE indicates at least one red text run anywhere in the record, including mixed-color author cells, or an empty cell highlighted red for a missing value. FALSE indicates no such markings. Flags reflect the current audit markings and are not exported as BibTeX fields.
+
+July ground truth acceptance: For the 263 records flagged before this pass, populated red fields materially matching lib-2026-07-17_1632.bib are accepted and colored black at the user’s instruction. Matching allows capitalization, punctuation/TeX/diacritic normalization, compatible author initials/middle-name expansions, known organization aliases, small title spelling corrections, normalized dates, and equivalent URLs/arXiv identifiers moved from note/howpublished/DOI fields. Matching the trusted file overrides earlier verification warnings, including recorded URL availability/mismatch and field-placement/checksum warnings; it does not represent a new successful external check. Missing values and substantive differences remain flagged. Citation values are unchanged. Bibliography.flag is recalculated from remaining red text and empty red highlights.
+
+Institutional author update: Only the author field is changed. Positively identified institutional abbreviations are expanded to official full names and each corporate author is enclosed in an extra pair of BibTeX braces; joint institutional authors remain separate names joined by and. Confirmed institutional authors are black. Existing full organizational names and brands remain braced as already recorded; personal names, titles and institution/publisher fields are unchanged. OECD Artificial Intelligence Papers is corrected to its officially credited OECD author, and the misparsed NIST Joint Task Force corporate author is restored. Evidence is in Institutional authors. Remaining-issue flags are recalculated.
+
+H2O historical-year verification: Six missing years are filled with 2015 from publication-specific official citation guidance, the 2015 H2O R-manual reference list, and the last legacy deep-learning directory revision corroborated by its February 2015 booklet. Original package-version notes (3.1.0.99999) are consulted as evidence without reintroducing the removed note column. The examples year dates the last published cited revision, not initial creation in 2014. Current releases and redirects are not substituted for historical citation dates. The dataset record continues to cite the hosting webpage; no individual datasets are investigated or substituted. Other H2O resources are unchanged. Confirmed year cells are black, empty red highlights removed, and flags recalculated while retaining the workbook’s TRUE()/FALSE() formula representation and existing user edits.
+
+Proposed fixes acceptance: Each of 33 proposed records was reviewed against primary publication/repository records, publisher-deposited metadata, official report PDFs or approved corporate-author conventions. Clear metadata errors were corrected before import (publisher host versus publisher, misspelled author, misplaced institution, report authors/date, and explicit online-book edition). Proposed 2026 dates were not automatically accepted: the H2O organization reference has an official historical 2015 citation; undated DARPA and Adversa collection citations are accepted without a made-up year under the user instruction to fix and accept. Empty authors are valid for editor-led proceedings. Five flagged records absent from the proposal sheet remain unchanged and flagged. Existing user edits and stable citation keys are preserved. Decisions and before/after values are in Proposed fixes verification; the original proposal workbook and pre-import source snapshot are preserved.
+
+Five-record deletion: H2ODatasets282, H2OJIRA286, H2Owebsite289, H2Ostream293 and WhitepaperProgrammin636 were explicitly deleted by the user. Their citation keys are retired, review findings marked removed, and removed values retained in Change audit and deleted-records-2026-10-08.json. Bibliography and the current BibTeX export contain only surviving records; history sheets remain historical.
+
+Stable citation-key rule v1 (2026-10-08): Assign once as LeadNameYearShortTitle, for example Hall2020MachineLearning. LeadName is the first personal author surname including particles, or the first three significant words of a braced corporate author; use the first editor if author is absent, then institution/organization, then Anon. Year is the four-digit publication year, or nd when undated. ShortTitle is the first three significant title words, or Untitled. Decode LaTeX, transliterate Latin accents, remove punctuation, and capitalize each ASCII alphanumeric word. Stop words: a, an, and, are, as, at, be, by, for, from, in, is, of, on, or, that, the, these, this, those, to, with. If a key begins with a digit, prefix Ref. Keys are unique ignoring case. For simultaneous collisions, suffix every colliding new key with x plus the first eight hexadecimal digits of the SHA-256 of canonical identity metadata; extend by four digits if needed. Identity metadata consists of author, editor, year, title, entry_type, doi, eprint, edition, journal, booktitle, number, url, in that order, trimmed and whitespace-collapsed, serialized as a UTF-8 JSON array with compact separators. Identical unregistered identities require manual differentiation; never merge them automatically. Existing keys and historical aliases take precedence over metadata-derived candidates. Once assigned, never regenerate a key for sorting, insertion, deletion, metadata correction, or a new collision. New collisions receive a suffix without changing existing keys. Persist citation-key-registry.json with the library, preserve literal citation_key values on all imports/exports, and reserve deleted keys permanently. The migration map resolves legacy keys; historical evidence retains its original references. This supersedes the previous row-number formula and alphabetical-suffix advice. The workbook Change audit records every rename and this rule; Citation key map and citation-key-migration.csv provide aliases.
+
+CSV workflow handoff (2026-10-08): library-cleaned.csv replaces combined.csv as the canonical working sheet. The reviewed XLSX remains a historical snapshot, and routine CSV commands do not rewrite it. Preserve all 31 cleaned columns and literal citation keys. flag uses TRUE/FALSE in CSV and is never exported to BibTeX. Imports require explicit filenames, existing record replacement requires --update and replaces the whole record, deleted key assignments remain reserved in citation-key-registry.json, and every export must pass complete BibTeX value round-trip validation. Workflow events are recorded in workflow-audit.jsonl. This supersedes the earlier XLSX source-of-truth statement for ongoing maintenance.

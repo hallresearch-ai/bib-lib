@@ -1,0 +1,15 @@
+# Keep the working sheet and generated tables consistent across platforms.
+# Spaces inside multiline quoted CSV cells are source data, not code formatting.
+*.csv text eol=lf whitespace=-blank-at-eol
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.bib text eol=lf
+*.xlsx binary
+
+# Original snapshots must retain their recorded byte-for-byte hashes.
+old/audits/**/snapshots/** -text
+old/audits/**/inputs/** -text
+old/libraries/** -text
